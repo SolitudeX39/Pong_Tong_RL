@@ -1,0 +1,1511 @@
+Episode     1 | Score: -20.0 | Epsilon: 0.990 | Steps: 992 | Buffer: 992 | Time: 0.78s
+Episode     2 | Score: -20.0 | Epsilon: 0.985 | Steps: 991 | Buffer: 1983 | Time: 0.65s
+Episode     3 | Score: -20.0 | Epsilon: 0.980 | Steps: 935 | Buffer: 2918 | Time: 0.62s
+Episode     4 | Score: -21.0 | Epsilon: 0.975 | Steps: 764 | Buffer: 3682 | Time: 0.51s
+Episode     5 | Score: -21.0 | Epsilon: 0.970 | Steps: 884 | Buffer: 4566 | Time: 0.58s
+Episode     6 | Score: -21.0 | Epsilon: 0.966 | Steps: 811 | Buffer: 5377 | Time: 0.54s
+Episode     7 | Score: -21.0 | Epsilon: 0.961 | Steps: 824 | Buffer: 6201 | Time: 0.54s
+Episode     8 | Score: -21.0 | Epsilon: 0.956 | Steps: 764 | Buffer: 6965 | Time: 0.51s
+Episode     9 | Score: -19.0 | Epsilon: 0.951 | Steps: 1010 | Buffer: 7975 | Time: 0.68s
+Episode    10 | Score: -20.0 | Epsilon: 0.946 | Steps: 878 | Buffer: 8853 | Time: 0.60s
+Episode    11 | Score: -21.0 | Epsilon: 0.942 | Steps: 912 | Buffer: 9765 | Time: 0.62s
+Episode    12 | Score: -21.0 | Epsilon: 0.937 | Steps: 974 | Buffer: 10739 | Time: 3.81s
+Episode    13 | Score: -19.0 | Epsilon: 0.932 | Steps: 1007 | Buffer: 11746 | Time: 4.86s
+Episode    14 | Score: -21.0 | Epsilon: 0.928 | Steps: 872 | Buffer: 12618 | Time: 4.25s
+Episode    15 | Score: -20.0 | Epsilon: 0.923 | Steps: 926 | Buffer: 13544 | Time: 4.72s
+Episode    16 | Score: -21.0 | Epsilon: 0.918 | Steps: 811 | Buffer: 14355 | Time: 4.05s
+Episode    17 | Score: -21.0 | Epsilon: 0.914 | Steps: 912 | Buffer: 15267 | Time: 4.63s
+Episode    18 | Score: -20.0 | Epsilon: 0.909 | Steps: 931 | Buffer: 16198 | Time: 4.55s
+Episode    19 | Score: -21.0 | Epsilon: 0.905 | Steps: 1032 | Buffer: 17230 | Time: 5.05s
+Episode    20 | Score: -21.0 | Epsilon: 0.900 | Steps: 848 | Buffer: 18078 | Time: 4.20s
+Episode    21 | Score: -21.0 | Epsilon: 0.896 | Steps: 843 | Buffer: 18921 | Time: 4.22s
+Episode    22 | Score: -21.0 | Epsilon: 0.891 | Steps: 853 | Buffer: 19774 | Time: 4.28s
+Episode    23 | Score: -21.0 | Epsilon: 0.887 | Steps: 792 | Buffer: 20566 | Time: 4.00s
+Episode    24 | Score: -19.0 | Epsilon: 0.882 | Steps: 1158 | Buffer: 21724 | Time: 5.90s
+Episode    25 | Score: -21.0 | Epsilon: 0.878 | Steps: 824 | Buffer: 22548 | Time: 4.62s
+Episode    26 | Score: -20.0 | Epsilon: 0.873 | Steps: 1121 | Buffer: 23669 | Time: 6.31s
+Episode    27 | Score: -21.0 | Epsilon: 0.869 | Steps: 933 | Buffer: 24602 | Time: 5.44s
+Episode    28 | Score: -20.0 | Epsilon: 0.865 | Steps: 988 | Buffer: 25590 | Time: 5.74s
+Episode    29 | Score: -21.0 | Epsilon: 0.860 | Steps: 811 | Buffer: 26401 | Time: 4.39s
+Episode    30 | Score: -21.0 | Epsilon: 0.856 | Steps: 764 | Buffer: 27165 | Time: 4.47s
+Episode    31 | Score: -20.0 | Epsilon: 0.852 | Steps: 960 | Buffer: 28125 | Time: 5.27s
+Episode    32 | Score: -21.0 | Epsilon: 0.848 | Steps: 990 | Buffer: 29115 | Time: 5.37s
+Episode    33 | Score: -21.0 | Epsilon: 0.843 | Steps: 910 | Buffer: 30025 | Time: 5.02s
+Episode    34 | Score: -21.0 | Epsilon: 0.839 | Steps: 852 | Buffer: 30877 | Time: 4.97s
+Episode    35 | Score: -20.9 | Epsilon: 0.835 | Steps: 864 | Buffer: 32104 | Time: 5.06s | Filled(avg)
+Episode    36 | Score: -20.8 | Epsilon: 0.832 | Steps: 876 | Buffer: 33331 | Time: 5.15s | Filled(avg)
+Episode    37 | Score: -20.8 | Epsilon: 0.828 | Steps: 888 | Buffer: 34558 | Time: 5.25s | Filled(avg)
+Episode    38 | Score: -20.7 | Epsilon: 0.825 | Steps: 900 | Buffer: 35784 | Time: 5.34s | Filled(avg)
+Episode    39 | Score: -20.6 | Epsilon: 0.821 | Steps: 911 | Buffer: 37011 | Time: 5.43s | Filled(avg)
+Episode    40 | Score: -20.5 | Epsilon: 0.818 | Steps: 923 | Buffer: 38238 | Time: 5.52s | Filled(avg)
+Episode    41 | Score: -20.5 | Epsilon: 0.814 | Steps: 935 | Buffer: 39465 | Time: 5.61s | Filled(avg)
+Episode    42 | Score: -20.4 | Epsilon: 0.810 | Steps: 947 | Buffer: 40692 | Time: 5.71s | Filled(avg)
+Episode    43 | Score: -20.3 | Epsilon: 0.807 | Steps: 959 | Buffer: 41919 | Time: 5.80s | Filled(avg)
+Episode    44 | Score: -20.2 | Epsilon: 0.803 | Steps: 971 | Buffer: 43146 | Time: 5.89s | Filled(avg)
+Episode    45 | Score: -20.2 | Epsilon: 0.800 | Steps: 983 | Buffer: 44372 | Time: 5.98s | Filled(avg)
+Episode    46 | Score: -20.1 | Epsilon: 0.796 | Steps: 995 | Buffer: 45599 | Time: 6.07s | Filled(avg)
+Episode    47 | Score: -20.0 | Epsilon: 0.792 | Steps: 1007 | Buffer: 46826 | Time: 6.17s | Filled(avg)
+Episode    48 | Score: -19.9 | Epsilon: 0.789 | Steps: 1019 | Buffer: 48053 | Time: 6.26s | Filled(avg)
+Episode    49 | Score: -19.9 | Epsilon: 0.785 | Steps: 1030 | Buffer: 49280 | Time: 6.35s | Filled(avg)
+Episode    50 | Score: -19.8 | Epsilon: 0.782 | Steps: 1042 | Buffer: 50507 | Time: 6.44s | Filled(avg)
+Episode    51 | Score: -19.7 | Epsilon: 0.778 | Steps: 1054 | Buffer: 51734 | Time: 6.53s | Filled(avg)
+Episode    52 | Score: -19.6 | Epsilon: 0.775 | Steps: 1066 | Buffer: 52961 | Time: 6.63s | Filled(avg)
+Episode    53 | Score: -19.6 | Epsilon: 0.771 | Steps: 1078 | Buffer: 54187 | Time: 6.72s | Filled(avg)
+Episode    54 | Score: -19.5 | Epsilon: 0.767 | Steps: 1090 | Buffer: 55414 | Time: 6.81s | Filled(avg)
+Episode    55 | Score: -19.4 | Epsilon: 0.764 | Steps: 1102 | Buffer: 56641 | Time: 6.90s | Filled(avg)
+Episode    56 | Score: -19.3 | Epsilon: 0.760 | Steps: 1114 | Buffer: 57868 | Time: 6.99s | Filled(avg)
+Episode    57 | Score: -19.3 | Epsilon: 0.757 | Steps: 1126 | Buffer: 59095 | Time: 7.09s | Filled(avg)
+Episode    58 | Score: -19.2 | Epsilon: 0.753 | Steps: 1137 | Buffer: 60322 | Time: 7.18s | Filled(avg)
+Episode    59 | Score: -19.1 | Epsilon: 0.750 | Steps: 1149 | Buffer: 61549 | Time: 7.27s | Filled(avg)
+Episode    60 | Score: -19.0 | Epsilon: 0.746 | Steps: 1161 | Buffer: 62775 | Time: 7.36s | Filled(avg)
+Episode    61 | Score: -19.0 | Epsilon: 0.743 | Steps: 1173 | Buffer: 64002 | Time: 7.45s | Filled(avg)
+Episode    62 | Score: -18.9 | Epsilon: 0.739 | Steps: 1185 | Buffer: 65229 | Time: 7.55s | Filled(avg)
+Episode    63 | Score: -18.8 | Epsilon: 0.735 | Steps: 1197 | Buffer: 66456 | Time: 7.64s | Filled(avg)
+Episode    64 | Score: -18.7 | Epsilon: 0.732 | Steps: 1209 | Buffer: 67683 | Time: 7.73s | Filled(avg)
+Episode    65 | Score: -18.7 | Epsilon: 0.728 | Steps: 1221 | Buffer: 68910 | Time: 7.82s | Filled(avg)
+Episode    66 | Score: -18.6 | Epsilon: 0.725 | Steps: 1233 | Buffer: 70137 | Time: 7.91s | Filled(avg)
+Episode    67 | Score: -18.5 | Epsilon: 0.721 | Steps: 1244 | Buffer: 71364 | Time: 8.01s | Filled(avg)
+Episode    68 | Score: -18.4 | Epsilon: 0.717 | Steps: 1256 | Buffer: 72590 | Time: 8.10s | Filled(avg)
+Episode    69 | Score: -18.3 | Epsilon: 0.714 | Steps: 1268 | Buffer: 73817 | Time: 8.19s | Filled(avg)
+Episode    70 | Score: -18.3 | Epsilon: 0.710 | Steps: 1280 | Buffer: 75044 | Time: 8.28s | Filled(avg)
+Episode    71 | Score: -18.2 | Epsilon: 0.707 | Steps: 1292 | Buffer: 76271 | Time: 8.37s | Filled(avg)
+Episode    72 | Score: -18.1 | Epsilon: 0.703 | Steps: 1304 | Buffer: 77498 | Time: 8.46s | Filled(avg)
+Episode    73 | Score: -18.0 | Epsilon: 0.700 | Steps: 1316 | Buffer: 78725 | Time: 8.56s | Filled(avg)
+Episode    74 | Score: -18.0 | Epsilon: 0.696 | Steps: 1328 | Buffer: 79952 | Time: 8.65s | Filled(avg)
+Episode    75 | Score: -17.9 | Epsilon: 0.692 | Steps: 1340 | Buffer: 81178 | Time: 8.74s | Filled(avg)
+Episode    76 | Score: -17.8 | Epsilon: 0.689 | Steps: 1352 | Buffer: 82405 | Time: 8.83s | Filled(avg)
+Episode    77 | Score: -17.7 | Epsilon: 0.685 | Steps: 1363 | Buffer: 83632 | Time: 8.92s | Filled(avg)
+Episode    78 | Score: -17.7 | Epsilon: 0.682 | Steps: 1375 | Buffer: 84859 | Time: 9.02s | Filled(avg)
+Episode    79 | Score: -17.6 | Epsilon: 0.678 | Steps: 1387 | Buffer: 86086 | Time: 9.11s | Filled(avg)
+Episode    80 | Score: -17.5 | Epsilon: 0.674 | Steps: 1399 | Buffer: 87313 | Time: 9.20s | Filled(avg)
+Episode    81 | Score: -17.4 | Epsilon: 0.671 | Steps: 1411 | Buffer: 88540 | Time: 9.29s | Filled(avg)
+Episode    82 | Score: -17.4 | Epsilon: 0.667 | Steps: 1423 | Buffer: 89766 | Time: 9.38s | Filled(avg)
+Episode    83 | Score: -17.3 | Epsilon: 0.664 | Steps: 1435 | Buffer: 90993 | Time: 9.48s | Filled(avg)
+Episode    84 | Score: -17.2 | Epsilon: 0.660 | Steps: 1447 | Buffer: 92220 | Time: 9.57s | Filled(avg)
+Episode    85 | Score: -17.1 | Epsilon: 0.657 | Steps: 1459 | Buffer: 93447 | Time: 9.66s | Filled(avg)
+Episode    86 | Score: -17.1 | Epsilon: 0.653 | Steps: 1470 | Buffer: 94674 | Time: 9.75s | Filled(avg)
+Episode    87 | Score: -17.0 | Epsilon: 0.649 | Steps: 1482 | Buffer: 95901 | Time: 9.84s | Filled(avg)
+Episode    88 | Score: -16.9 | Epsilon: 0.646 | Steps: 1494 | Buffer: 97128 | Time: 9.94s | Filled(avg)
+Episode    89 | Score: -16.8 | Epsilon: 0.642 | Steps: 1506 | Buffer: 98354 | Time: 10.03s | Filled(avg)
+Episode    90 | Score: -16.8 | Epsilon: 0.639 | Steps: 1518 | Buffer: 99581 | Time: 10.12s | Filled(avg)
+Episode    91 | Score: -16.7 | Epsilon: 0.635 | Steps: 1530 | Buffer: 100808 | Time: 10.21s | Filled(avg)
+Episode    92 | Score: -16.6 | Epsilon: 0.632 | Steps: 1542 | Buffer: 102035 | Time: 10.30s | Filled(avg)
+Episode    93 | Score: -16.5 | Epsilon: 0.628 | Steps: 1554 | Buffer: 103262 | Time: 10.40s | Filled(avg)
+Episode    94 | Score: -16.5 | Epsilon: 0.625 | Steps: 1566 | Buffer: 104489 | Time: 10.49s | Filled(avg)
+Episode    95 | Score: -16.4 | Epsilon: 0.621 | Steps: 1578 | Buffer: 105716 | Time: 10.58s | Filled(avg)
+Episode    96 | Score: -16.3 | Epsilon: 0.617 | Steps: 1589 | Buffer: 106943 | Time: 10.67s | Filled(avg)
+Episode    97 | Score: -16.2 | Epsilon: 0.614 | Steps: 1601 | Buffer: 108169 | Time: 10.76s | Filled(avg)
+Episode    98 | Score: -16.2 | Epsilon: 0.610 | Steps: 1613 | Buffer: 109396 | Time: 10.86s | Filled(avg)
+Episode    99 | Score: -16.1 | Epsilon: 0.607 | Steps: 1625 | Buffer: 110623 | Time: 10.95s | Filled(avg)
+Episode   100 | Score: -16.0 | Epsilon: 0.603 | Steps: 1637 | Buffer: 111850 | Time: 11.04s
+Episode   101 | Score: -19.0 | Epsilon: 0.600 | Steps: 1365 | Buffer: 113215 | Time: 9.14s
+Episode   102 | Score: -17.0 | Epsilon: 0.597 | Steps: 1400 | Buffer: 114615 | Time: 9.31s
+Episode   103 | Score: -18.0 | Epsilon: 0.594 | Steps: 1246 | Buffer: 115861 | Time: 8.35s
+Episode   104 | Score: -20.0 | Epsilon: 0.591 | Steps: 1142 | Buffer: 117003 | Time: 7.66s
+Episode   105 | Score: -18.0 | Epsilon: 0.588 | Steps: 1146 | Buffer: 118149 | Time: 7.67s
+Episode   106 | Score: -15.0 | Epsilon: 0.585 | Steps: 2095 | Buffer: 120244 | Time: 13.97s
+Episode   107 | Score: -20.0 | Epsilon: 0.582 | Steps: 1123 | Buffer: 121367 | Time: 7.53s
+Episode   108 | Score: -20.0 | Epsilon: 0.579 | Steps: 1293 | Buffer: 122660 | Time: 8.68s
+Episode   109 | Score: -17.0 | Epsilon: 0.576 | Steps: 1685 | Buffer: 124345 | Time: 11.25s
+Episode   110 | Score: -18.0 | Epsilon: 0.573 | Steps: 1307 | Buffer: 125652 | Time: 8.71s
+Episode   111 | Score: -21.0 | Epsilon: 0.570 | Steps: 1142 | Buffer: 126794 | Time: 7.69s
+Episode   112 | Score: -18.0 | Epsilon: 0.568 | Steps: 1540 | Buffer: 128334 | Time: 10.36s
+Episode   113 | Score: -17.0 | Epsilon: 0.565 | Steps: 1762 | Buffer: 130096 | Time: 11.80s
+Episode   114 | Score: -21.0 | Epsilon: 0.562 | Steps: 957 | Buffer: 131053 | Time: 6.35s
+Episode   115 | Score: -19.0 | Epsilon: 0.559 | Steps: 1524 | Buffer: 132577 | Time: 10.09s
+Episode   116 | Score: -19.0 | Epsilon: 0.556 | Steps: 1384 | Buffer: 133961 | Time: 9.07s
+Episode   117 | Score: -21.0 | Epsilon: 0.554 | Steps: 1058 | Buffer: 135019 | Time: 6.91s
+Episode   118 | Score: -20.0 | Epsilon: 0.551 | Steps: 1079 | Buffer: 136098 | Time: 7.10s
+Episode   119 | Score: -18.0 | Epsilon: 0.548 | Steps: 1377 | Buffer: 137475 | Time: 9.30s
+Episode   120 | Score: -20.0 | Epsilon: 0.545 | Steps: 1208 | Buffer: 138683 | Time: 8.00s
+Episode   121 | Score: -18.0 | Epsilon: 0.543 | Steps: 1648 | Buffer: 140331 | Time: 10.73s
+Episode   122 | Score: -15.0 | Epsilon: 0.540 | Steps: 1524 | Buffer: 141855 | Time: 10.25s
+Episode   123 | Score: -17.0 | Epsilon: 0.537 | Steps: 1420 | Buffer: 143275 | Time: 9.31s
+Episode   124 | Score: -20.0 | Epsilon: 0.534 | Steps: 1321 | Buffer: 144596 | Time: 8.66s
+Episode   125 | Score: -19.0 | Epsilon: 0.532 | Steps: 1344 | Buffer: 145940 | Time: 8.81s
+Episode   126 | Score: -19.0 | Epsilon: 0.529 | Steps: 1293 | Buffer: 147233 | Time: 8.46s
+Episode   127 | Score: -19.0 | Epsilon: 0.526 | Steps: 1437 | Buffer: 148670 | Time: 9.50s
+Episode   128 | Score: -19.0 | Epsilon: 0.524 | Steps: 1278 | Buffer: 149948 | Time: 8.45s
+Episode   129 | Score: -16.0 | Epsilon: 0.521 | Steps: 1712 | Buffer: 151660 | Time: 11.30s
+Episode   130 | Score: -19.0 | Epsilon: 0.519 | Steps: 1292 | Buffer: 152952 | Time: 8.58s
+Episode   131 | Score: -16.0 | Epsilon: 0.516 | Steps: 1642 | Buffer: 154594 | Time: 10.74s
+Episode   132 | Score: -19.0 | Epsilon: 0.513 | Steps: 1306 | Buffer: 155900 | Time: 8.58s
+Episode   133 | Score: -21.0 | Epsilon: 0.511 | Steps: 1330 | Buffer: 157230 | Time: 8.82s
+Episode   134 | Score: -18.0 | Epsilon: 0.508 | Steps: 1402 | Buffer: 158632 | Time: 9.28s
+Episode   135 | Score: -21.0 | Epsilon: 0.506 | Steps: 1019 | Buffer: 159651 | Time: 6.77s
+Episode   136 | Score: -20.0 | Epsilon: 0.503 | Steps: 1759 | Buffer: 161410 | Time: 11.62s
+Episode   137 | Score: -19.0 | Epsilon: 0.501 | Steps: 1351 | Buffer: 162761 | Time: 8.92s
+Episode   138 | Score: -20.0 | Epsilon: 0.498 | Steps: 1259 | Buffer: 164020 | Time: 8.33s
+Episode   139 | Score: -18.0 | Epsilon: 0.496 | Steps: 1386 | Buffer: 165406 | Time: 9.20s
+Episode   140 | Score: -16.0 | Epsilon: 0.493 | Steps: 1755 | Buffer: 167161 | Time: 11.81s
+Episode   141 | Score: -16.1 | Epsilon: 0.491 | Steps: 1752 | Buffer: 168857 | Time: 11.80s | Filled(avg)
+Episode   142 | Score: -16.1 | Epsilon: 0.489 | Steps: 1748 | Buffer: 170554 | Time: 11.78s | Filled(avg)
+Episode   143 | Score: -16.1 | Epsilon: 0.487 | Steps: 1745 | Buffer: 172250 | Time: 11.77s | Filled(avg)
+Episode   144 | Score: -16.2 | Epsilon: 0.484 | Steps: 1742 | Buffer: 173946 | Time: 11.76s | Filled(avg)
+Episode   145 | Score: -16.2 | Epsilon: 0.482 | Steps: 1739 | Buffer: 175642 | Time: 11.74s | Filled(avg)
+Episode   146 | Score: -16.3 | Epsilon: 0.480 | Steps: 1735 | Buffer: 177339 | Time: 11.73s | Filled(avg)
+Episode   147 | Score: -16.4 | Epsilon: 0.478 | Steps: 1732 | Buffer: 179035 | Time: 11.72s | Filled(avg)
+Episode   148 | Score: -16.4 | Epsilon: 0.476 | Steps: 1729 | Buffer: 180731 | Time: 11.70s | Filled(avg)
+Episode   149 | Score: -16.4 | Epsilon: 0.474 | Steps: 1725 | Buffer: 182428 | Time: 11.69s | Filled(avg)
+Episode   150 | Score: -16.5 | Epsilon: 0.472 | Steps: 1722 | Buffer: 184124 | Time: 11.68s | Filled(avg)
+Episode   151 | Score: -16.6 | Epsilon: 0.469 | Steps: 1719 | Buffer: 185820 | Time: 11.67s | Filled(avg)
+Episode   152 | Score: -16.6 | Epsilon: 0.467 | Steps: 1716 | Buffer: 187516 | Time: 11.65s | Filled(avg)
+Episode   153 | Score: -16.6 | Epsilon: 0.465 | Steps: 1712 | Buffer: 189213 | Time: 11.64s | Filled(avg)
+Episode   154 | Score: -16.7 | Epsilon: 0.463 | Steps: 1709 | Buffer: 190909 | Time: 11.63s | Filled(avg)
+Episode   155 | Score: -16.8 | Epsilon: 0.461 | Steps: 1706 | Buffer: 192605 | Time: 11.61s | Filled(avg)
+Episode   156 | Score: -16.8 | Epsilon: 0.459 | Steps: 1702 | Buffer: 194302 | Time: 11.60s | Filled(avg)
+Episode   157 | Score: -16.9 | Epsilon: 0.457 | Steps: 1699 | Buffer: 195998 | Time: 11.59s | Filled(avg)
+Episode   158 | Score: -16.9 | Epsilon: 0.455 | Steps: 1696 | Buffer: 197694 | Time: 11.57s | Filled(avg)
+Episode   159 | Score: -16.9 | Epsilon: 0.453 | Steps: 1693 | Buffer: 199390 | Time: 11.56s | Filled(avg)
+Episode   160 | Score: -17.0 | Epsilon: 0.450 | Steps: 1689 | Buffer: 201087 | Time: 11.55s | Filled(avg)
+Episode   161 | Score: -17.1 | Epsilon: 0.448 | Steps: 1686 | Buffer: 202783 | Time: 11.53s | Filled(avg)
+Episode   162 | Score: -17.1 | Epsilon: 0.446 | Steps: 1683 | Buffer: 204479 | Time: 11.52s | Filled(avg)
+Episode   163 | Score: -17.1 | Epsilon: 0.444 | Steps: 1679 | Buffer: 206176 | Time: 11.51s | Filled(avg)
+Episode   164 | Score: -17.2 | Epsilon: 0.442 | Steps: 1676 | Buffer: 207872 | Time: 11.49s | Filled(avg)
+Episode   165 | Score: -17.2 | Epsilon: 0.440 | Steps: 1673 | Buffer: 209568 | Time: 11.48s | Filled(avg)
+Episode   166 | Score: -17.3 | Epsilon: 0.438 | Steps: 1670 | Buffer: 211264 | Time: 11.47s | Filled(avg)
+Episode   167 | Score: -17.4 | Epsilon: 0.435 | Steps: 1666 | Buffer: 212961 | Time: 11.45s | Filled(avg)
+Episode   168 | Score: -17.4 | Epsilon: 0.433 | Steps: 1663 | Buffer: 214657 | Time: 11.44s | Filled(avg)
+Episode   169 | Score: -17.4 | Epsilon: 0.431 | Steps: 1660 | Buffer: 216353 | Time: 11.43s | Filled(avg)
+Episode   170 | Score: -17.5 | Epsilon: 0.429 | Steps: 1656 | Buffer: 218050 | Time: 11.41s | Filled(avg)
+Episode   171 | Score: -17.6 | Epsilon: 0.427 | Steps: 1653 | Buffer: 219746 | Time: 11.40s | Filled(avg)
+Episode   172 | Score: -17.6 | Epsilon: 0.425 | Steps: 1650 | Buffer: 221442 | Time: 11.39s | Filled(avg)
+Episode   173 | Score: -17.6 | Epsilon: 0.423 | Steps: 1647 | Buffer: 223138 | Time: 11.38s | Filled(avg)
+Episode   174 | Score: -17.7 | Epsilon: 0.420 | Steps: 1643 | Buffer: 224835 | Time: 11.36s | Filled(avg)
+Episode   175 | Score: -17.8 | Epsilon: 0.418 | Steps: 1640 | Buffer: 226531 | Time: 11.35s | Filled(avg)
+Episode   176 | Score: -17.8 | Epsilon: 0.416 | Steps: 1637 | Buffer: 228227 | Time: 11.34s | Filled(avg)
+Episode   177 | Score: -17.9 | Epsilon: 0.414 | Steps: 1634 | Buffer: 229923 | Time: 11.32s | Filled(avg)
+Episode   178 | Score: -17.9 | Epsilon: 0.412 | Steps: 1630 | Buffer: 231620 | Time: 11.31s | Filled(avg)
+Episode   179 | Score: -17.9 | Epsilon: 0.410 | Steps: 1627 | Buffer: 233316 | Time: 11.30s | Filled(avg)
+Episode   180 | Score: -18.0 | Epsilon: 0.408 | Steps: 1624 | Buffer: 235012 | Time: 11.28s | Filled(avg)
+Episode   181 | Score: -18.1 | Epsilon: 0.406 | Steps: 1620 | Buffer: 236709 | Time: 11.27s | Filled(avg)
+Episode   182 | Score: -18.1 | Epsilon: 0.403 | Steps: 1617 | Buffer: 238405 | Time: 11.26s | Filled(avg)
+Episode   183 | Score: -18.1 | Epsilon: 0.401 | Steps: 1614 | Buffer: 240101 | Time: 11.24s | Filled(avg)
+Episode   184 | Score: -18.2 | Epsilon: 0.399 | Steps: 1611 | Buffer: 241797 | Time: 11.23s | Filled(avg)
+Episode   185 | Score: -18.2 | Epsilon: 0.397 | Steps: 1607 | Buffer: 243494 | Time: 11.22s | Filled(avg)
+Episode   186 | Score: -18.3 | Epsilon: 0.395 | Steps: 1604 | Buffer: 245190 | Time: 11.20s | Filled(avg)
+Episode   187 | Score: -18.4 | Epsilon: 0.393 | Steps: 1601 | Buffer: 246886 | Time: 11.19s | Filled(avg)
+Episode   188 | Score: -18.4 | Epsilon: 0.391 | Steps: 1597 | Buffer: 248583 | Time: 11.18s | Filled(avg)
+Episode   189 | Score: -18.4 | Epsilon: 0.389 | Steps: 1594 | Buffer: 250279 | Time: 11.16s | Filled(avg)
+Episode   190 | Score: -18.5 | Epsilon: 0.386 | Steps: 1591 | Buffer: 251975 | Time: 11.15s | Filled(avg)
+Episode   191 | Score: -18.6 | Epsilon: 0.384 | Steps: 1588 | Buffer: 253671 | Time: 11.14s | Filled(avg)
+Episode   192 | Score: -18.6 | Epsilon: 0.382 | Steps: 1584 | Buffer: 255368 | Time: 11.13s | Filled(avg)
+Episode   193 | Score: -18.6 | Epsilon: 0.380 | Steps: 1581 | Buffer: 257064 | Time: 11.11s | Filled(avg)
+Episode   194 | Score: -18.7 | Epsilon: 0.378 | Steps: 1578 | Buffer: 258760 | Time: 11.10s | Filled(avg)
+Episode   195 | Score: -18.8 | Epsilon: 0.376 | Steps: 1574 | Buffer: 260457 | Time: 11.09s | Filled(avg)
+Episode   196 | Score: -18.8 | Epsilon: 0.373 | Steps: 1571 | Buffer: 262153 | Time: 11.07s | Filled(avg)
+Episode   197 | Score: -18.9 | Epsilon: 0.371 | Steps: 1568 | Buffer: 263849 | Time: 11.06s | Filled(avg)
+Episode   198 | Score: -18.9 | Epsilon: 0.369 | Steps: 1565 | Buffer: 265545 | Time: 11.05s | Filled(avg)
+Episode   199 | Score: -18.9 | Epsilon: 0.367 | Steps: 1561 | Buffer: 267242 | Time: 11.03s | Filled(avg)
+Episode   200 | Score: -19.0 | Epsilon: 0.365 | Steps: 1558 | Buffer: 268938 | Time: 11.02s
+Episode   201 | Score: -19.0 | Epsilon: 0.363 | Steps: 1549 | Buffer: 270487 | Time: 10.97s
+Episode   202 | Score:  -9.0 | Epsilon: 0.361 | Steps: 2448 | Buffer: 272935 | Time: 17.29s
+Episode   203 | Score: -17.0 | Epsilon: 0.360 | Steps: 1554 | Buffer: 274489 | Time: 11.01s
+Episode   204 | Score: -17.0 | Epsilon: 0.358 | Steps: 1789 | Buffer: 276278 | Time: 12.61s
+Episode   205 | Score: -20.0 | Epsilon: 0.356 | Steps: 1737 | Buffer: 278015 | Time: 12.27s
+Episode   206 | Score: -21.0 | Epsilon: 0.354 | Steps: 1088 | Buffer: 279103 | Time: 7.70s
+Episode   207 | Score: -15.0 | Epsilon: 0.353 | Steps: 2231 | Buffer: 281334 | Time: 15.75s
+Episode   208 | Score: -15.0 | Epsilon: 0.351 | Steps: 2428 | Buffer: 283762 | Time: 17.05s
+Episode   209 | Score: -10.0 | Epsilon: 0.349 | Steps: 2433 | Buffer: 286195 | Time: 17.09s
+Episode   210 | Score: -16.0 | Epsilon: 0.347 | Steps: 2252 | Buffer: 288447 | Time: 15.92s
+Episode   211 | Score: -17.0 | Epsilon: 0.346 | Steps: 1934 | Buffer: 290381 | Time: 13.68s
+Episode   212 | Score: -12.0 | Epsilon: 0.344 | Steps: 2164 | Buffer: 292545 | Time: 15.51s
+Episode   213 | Score: -13.0 | Epsilon: 0.342 | Steps: 2449 | Buffer: 294994 | Time: 17.47s
+Episode   214 | Score: -11.0 | Epsilon: 0.340 | Steps: 2350 | Buffer: 297344 | Time: 16.56s
+Episode   215 | Score: -15.0 | Epsilon: 0.339 | Steps: 2063 | Buffer: 299407 | Time: 14.61s
+Episode   216 | Score: -16.0 | Epsilon: 0.337 | Steps: 1839 | Buffer: 301246 | Time: 12.98s
+Episode   217 | Score: -18.0 | Epsilon: 0.335 | Steps: 1913 | Buffer: 303159 | Time: 13.55s
+Episode   218 | Score: -16.0 | Epsilon: 0.334 | Steps: 1898 | Buffer: 305057 | Time: 13.33s
+Episode   219 | Score: -16.0 | Epsilon: 0.332 | Steps: 1926 | Buffer: 306983 | Time: 13.78s
+Episode   220 | Score: -16.0 | Epsilon: 0.330 | Steps: 2480 | Buffer: 309463 | Time: 17.50s
+Episode   221 | Score: -16.0 | Epsilon: 0.329 | Steps: 1878 | Buffer: 311341 | Time: 13.32s
+Episode   222 | Score: -15.0 | Epsilon: 0.327 | Steps: 1912 | Buffer: 313253 | Time: 13.50s
+Episode   223 | Score: -18.0 | Epsilon: 0.325 | Steps: 1854 | Buffer: 315107 | Time: 13.43s
+Episode   224 | Score: -16.0 | Epsilon: 0.324 | Steps: 2083 | Buffer: 317190 | Time: 14.61s
+Episode   225 | Score: -18.0 | Epsilon: 0.322 | Steps: 2133 | Buffer: 319323 | Time: 15.13s
+Episode   226 | Score: -13.0 | Epsilon: 0.321 | Steps: 2133 | Buffer: 321456 | Time: 15.13s
+Episode   227 | Score: -15.0 | Epsilon: 0.319 | Steps: 1911 | Buffer: 323367 | Time: 13.50s
+Episode   228 | Score: -19.0 | Epsilon: 0.317 | Steps: 1766 | Buffer: 325133 | Time: 12.49s
+Episode   229 | Score: -13.0 | Epsilon: 0.316 | Steps: 1853 | Buffer: 326986 | Time: 13.09s
+Episode   230 | Score: -15.0 | Epsilon: 0.314 | Steps: 1694 | Buffer: 328680 | Time: 11.99s
+Episode   231 | Score: -15.0 | Epsilon: 0.313 | Steps: 2071 | Buffer: 330751 | Time: 14.85s
+Episode   232 | Score: -18.0 | Epsilon: 0.311 | Steps: 1831 | Buffer: 332582 | Time: 12.99s
+Episode   233 | Score: -16.0 | Epsilon: 0.309 | Steps: 1980 | Buffer: 334562 | Time: 14.12s
+Episode   234 | Score: -12.0 | Epsilon: 0.308 | Steps: 2172 | Buffer: 336734 | Time: 15.46s
+Episode   235 | Score: -14.0 | Epsilon: 0.306 | Steps: 1903 | Buffer: 338637 | Time: 13.50s
+Episode   236 | Score: -17.0 | Epsilon: 0.305 | Steps: 2377 | Buffer: 341014 | Time: 16.79s
+Episode   237 | Score: -12.0 | Epsilon: 0.303 | Steps: 2021 | Buffer: 343035 | Time: 14.35s
+Episode   238 | Score:  -9.0 | Epsilon: 0.302 | Steps: 2467 | Buffer: 345502 | Time: 17.50s
+Episode   239 | Score: -15.0 | Epsilon: 0.300 | Steps: 1862 | Buffer: 347364 | Time: 13.20s
+Episode   240 | Score: -15.0 | Epsilon: 0.299 | Steps: 2003 | Buffer: 349367 | Time: 14.30s
+Episode   241 | Score: -15.0 | Epsilon: 0.298 | Steps: 2011 | Buffer: 351610 | Time: 14.36s | Filled(avg)
+Episode   242 | Score: -14.9 | Epsilon: 0.296 | Steps: 2018 | Buffer: 353853 | Time: 14.42s | Filled(avg)
+Episode   243 | Score: -14.9 | Epsilon: 0.295 | Steps: 2026 | Buffer: 356095 | Time: 14.48s | Filled(avg)
+Episode   244 | Score: -14.8 | Epsilon: 0.294 | Steps: 2033 | Buffer: 358338 | Time: 14.55s | Filled(avg)
+Episode   245 | Score: -14.8 | Epsilon: 0.292 | Steps: 2041 | Buffer: 360581 | Time: 14.61s | Filled(avg)
+Episode   246 | Score: -14.8 | Epsilon: 0.291 | Steps: 2048 | Buffer: 362824 | Time: 14.67s | Filled(avg)
+Episode   247 | Score: -14.7 | Epsilon: 0.290 | Steps: 2056 | Buffer: 365066 | Time: 14.73s | Filled(avg)
+Episode   248 | Score: -14.7 | Epsilon: 0.288 | Steps: 2063 | Buffer: 367309 | Time: 14.79s | Filled(avg)
+Episode   249 | Score: -14.6 | Epsilon: 0.287 | Steps: 2071 | Buffer: 369552 | Time: 14.85s | Filled(avg)
+Episode   250 | Score: -14.6 | Epsilon: 0.286 | Steps: 2078 | Buffer: 371795 | Time: 14.92s | Filled(avg)
+Episode   251 | Score: -14.6 | Epsilon: 0.284 | Steps: 2086 | Buffer: 374038 | Time: 14.98s | Filled(avg)
+Episode   252 | Score: -14.5 | Epsilon: 0.283 | Steps: 2094 | Buffer: 376280 | Time: 15.04s | Filled(avg)
+Episode   253 | Score: -14.5 | Epsilon: 0.282 | Steps: 2101 | Buffer: 378523 | Time: 15.10s | Filled(avg)
+Episode   254 | Score: -14.5 | Epsilon: 0.280 | Steps: 2109 | Buffer: 380766 | Time: 15.16s | Filled(avg)
+Episode   255 | Score: -14.4 | Epsilon: 0.279 | Steps: 2116 | Buffer: 383009 | Time: 15.22s | Filled(avg)
+Episode   256 | Score: -14.4 | Epsilon: 0.278 | Steps: 2124 | Buffer: 385252 | Time: 15.29s | Filled(avg)
+Episode   257 | Score: -14.3 | Epsilon: 0.276 | Steps: 2131 | Buffer: 387494 | Time: 15.35s | Filled(avg)
+Episode   258 | Score: -14.3 | Epsilon: 0.275 | Steps: 2139 | Buffer: 389737 | Time: 15.41s | Filled(avg)
+Episode   259 | Score: -14.3 | Epsilon: 0.274 | Steps: 2146 | Buffer: 391980 | Time: 15.47s | Filled(avg)
+Episode   260 | Score: -14.2 | Epsilon: 0.272 | Steps: 2154 | Buffer: 394223 | Time: 15.53s | Filled(avg)
+Episode   261 | Score: -14.2 | Epsilon: 0.271 | Steps: 2162 | Buffer: 396465 | Time: 15.59s | Filled(avg)
+Episode   262 | Score: -14.1 | Epsilon: 0.270 | Steps: 2169 | Buffer: 398708 | Time: 15.65s | Filled(avg)
+Episode   263 | Score: -14.1 | Epsilon: 0.268 | Steps: 2177 | Buffer: 400951 | Time: 15.72s | Filled(avg)
+Episode   264 | Score: -14.1 | Epsilon: 0.267 | Steps: 2184 | Buffer: 403194 | Time: 15.78s | Filled(avg)
+Episode   265 | Score: -14.0 | Epsilon: 0.266 | Steps: 2192 | Buffer: 405437 | Time: 15.84s | Filled(avg)
+Episode   266 | Score: -14.0 | Epsilon: 0.264 | Steps: 2199 | Buffer: 407679 | Time: 15.90s | Filled(avg)
+Episode   267 | Score: -13.9 | Epsilon: 0.263 | Steps: 2207 | Buffer: 409922 | Time: 15.96s | Filled(avg)
+Episode   268 | Score: -13.9 | Epsilon: 0.262 | Steps: 2214 | Buffer: 412165 | Time: 16.02s | Filled(avg)
+Episode   269 | Score: -13.9 | Epsilon: 0.260 | Steps: 2222 | Buffer: 414408 | Time: 16.09s | Filled(avg)
+Episode   270 | Score: -13.8 | Epsilon: 0.259 | Steps: 2229 | Buffer: 416651 | Time: 16.15s | Filled(avg)
+Episode   271 | Score: -13.8 | Epsilon: 0.258 | Steps: 2237 | Buffer: 418893 | Time: 16.21s | Filled(avg)
+Episode   272 | Score: -13.7 | Epsilon: 0.256 | Steps: 2245 | Buffer: 421136 | Time: 16.27s | Filled(avg)
+Episode   273 | Score: -13.7 | Epsilon: 0.255 | Steps: 2252 | Buffer: 423379 | Time: 16.33s | Filled(avg)
+Episode   274 | Score: -13.7 | Epsilon: 0.254 | Steps: 2260 | Buffer: 425622 | Time: 16.39s | Filled(avg)
+Episode   275 | Score: -13.6 | Epsilon: 0.252 | Steps: 2267 | Buffer: 427864 | Time: 16.45s | Filled(avg)
+Episode   276 | Score: -13.6 | Epsilon: 0.251 | Steps: 2275 | Buffer: 430107 | Time: 16.52s | Filled(avg)
+Episode   277 | Score: -13.5 | Epsilon: 0.250 | Steps: 2282 | Buffer: 432350 | Time: 16.58s | Filled(avg)
+Episode   278 | Score: -13.5 | Epsilon: 0.248 | Steps: 2290 | Buffer: 434593 | Time: 16.64s | Filled(avg)
+Episode   279 | Score: -13.5 | Epsilon: 0.247 | Steps: 2297 | Buffer: 436836 | Time: 16.70s | Filled(avg)
+Episode   280 | Score: -13.4 | Epsilon: 0.246 | Steps: 2305 | Buffer: 439078 | Time: 16.76s | Filled(avg)
+Episode   281 | Score: -13.4 | Epsilon: 0.244 | Steps: 2313 | Buffer: 441321 | Time: 16.82s | Filled(avg)
+Episode   282 | Score: -13.4 | Epsilon: 0.243 | Steps: 2320 | Buffer: 443564 | Time: 16.89s | Filled(avg)
+Episode   283 | Score: -13.3 | Epsilon: 0.242 | Steps: 2328 | Buffer: 445807 | Time: 16.95s | Filled(avg)
+Episode   284 | Score: -13.3 | Epsilon: 0.240 | Steps: 2335 | Buffer: 448050 | Time: 17.01s | Filled(avg)
+Episode   285 | Score: -13.2 | Epsilon: 0.239 | Steps: 2343 | Buffer: 450292 | Time: 17.07s | Filled(avg)
+Episode   286 | Score: -13.2 | Epsilon: 0.238 | Steps: 2350 | Buffer: 452535 | Time: 17.13s | Filled(avg)
+Episode   287 | Score: -13.2 | Epsilon: 0.236 | Steps: 2358 | Buffer: 454778 | Time: 17.19s | Filled(avg)
+Episode   288 | Score: -13.1 | Epsilon: 0.235 | Steps: 2365 | Buffer: 457021 | Time: 17.26s | Filled(avg)
+Episode   289 | Score: -13.1 | Epsilon: 0.234 | Steps: 2373 | Buffer: 459263 | Time: 17.32s | Filled(avg)
+Episode   290 | Score: -13.0 | Epsilon: 0.232 | Steps: 2380 | Buffer: 461506 | Time: 17.38s | Filled(avg)
+Episode   291 | Score: -13.0 | Epsilon: 0.231 | Steps: 2388 | Buffer: 463749 | Time: 17.44s
+Episode   292 | Score: -14.0 | Epsilon: 0.230 | Steps: 2631 | Buffer: 466380 | Time: 18.77s
+Episode   293 | Score: -14.0 | Epsilon: 0.229 | Steps: 2010 | Buffer: 468390 | Time: 14.23s
+Episode   294 | Score: -13.0 | Epsilon: 0.228 | Steps: 2140 | Buffer: 470530 | Time: 15.20s
+Episode   295 | Score: -13.0 | Epsilon: 0.227 | Steps: 2419 | Buffer: 472949 | Time: 17.35s
+Episode   296 | Score: -10.0 | Epsilon: 0.226 | Steps: 2412 | Buffer: 475361 | Time: 17.26s
+Episode   297 | Score: -16.0 | Epsilon: 0.225 | Steps: 1882 | Buffer: 477243 | Time: 13.44s
+Episode   298 | Score: -13.0 | Epsilon: 0.223 | Steps: 2223 | Buffer: 479466 | Time: 15.90s
+Episode   299 | Score: -14.5 | Epsilon: 0.222 | Steps: 2038 | Buffer: 481507 | Time: 14.66s | Filled(avg)
+Episode   300 | Score: -16.0 | Epsilon: 0.221 | Steps: 1854 | Buffer: 483548 | Time: 13.43s
+Episode   301 | Score: -15.0 | Epsilon: 0.220 | Steps: 2148 | Buffer: 485696 | Time: 16.24s
+Episode   302 | Score:  -8.0 | Epsilon: 0.219 | Steps: 2890 | Buffer: 488586 | Time: 21.40s
+Episode   303 | Score: -16.0 | Epsilon: 0.218 | Steps: 1974 | Buffer: 490560 | Time: 14.22s
+Episode   304 | Score: -15.0 | Epsilon: 0.217 | Steps: 2450 | Buffer: 493010 | Time: 17.49s
+Episode   305 | Score:  -7.0 | Epsilon: 0.216 | Steps: 2897 | Buffer: 495907 | Time: 20.83s
+Episode   306 | Score:   4.0 | Epsilon: 0.215 | Steps: 3522 | Buffer: 499429 | Time: 25.30s
+Episode   307 | Score: -15.0 | Epsilon: 0.214 | Steps: 1989 | Buffer: 501418 | Time: 14.16s
+Episode   308 | Score: -11.0 | Epsilon: 0.212 | Steps: 2447 | Buffer: 503865 | Time: 17.40s
+Episode   309 | Score: -11.1 | Epsilon: 0.211 | Steps: 2449 | Buffer: 506324 | Time: 17.43s | Filled(avg)
+Episode   310 | Score: -11.2 | Epsilon: 0.210 | Steps: 2452 | Buffer: 508782 | Time: 17.45s | Filled(avg)
+Episode   311 | Score: -11.2 | Epsilon: 0.209 | Steps: 2454 | Buffer: 511240 | Time: 17.48s | Filled(avg)
+Episode   312 | Score: -11.3 | Epsilon: 0.208 | Steps: 2457 | Buffer: 513699 | Time: 17.50s | Filled(avg)
+Episode   313 | Score: -11.4 | Epsilon: 0.207 | Steps: 2459 | Buffer: 516158 | Time: 17.52s | Filled(avg)
+Episode   314 | Score: -11.5 | Epsilon: 0.206 | Steps: 2462 | Buffer: 518616 | Time: 17.55s | Filled(avg)
+Episode   315 | Score: -11.6 | Epsilon: 0.205 | Steps: 2464 | Buffer: 521074 | Time: 17.57s | Filled(avg)
+Episode   316 | Score: -11.7 | Epsilon: 0.204 | Steps: 2466 | Buffer: 523533 | Time: 17.60s | Filled(avg)
+Episode   317 | Score: -11.8 | Epsilon: 0.203 | Steps: 2469 | Buffer: 525992 | Time: 17.62s | Filled(avg)
+Episode   318 | Score: -11.8 | Epsilon: 0.202 | Steps: 2471 | Buffer: 528450 | Time: 17.65s | Filled(avg)
+Episode   319 | Score: -11.9 | Epsilon: 0.201 | Steps: 2474 | Buffer: 530908 | Time: 17.68s | Filled(avg)
+Episode   320 | Score: -12.0 | Epsilon: 0.200 | Steps: 2476 | Buffer: 533367 | Time: 17.70s
+Episode   321 | Score:  -6.0 | Epsilon: 0.199 | Steps: 3107 | Buffer: 536474 | Time: 22.31s
+Episode   322 | Score: -13.0 | Epsilon: 0.198 | Steps: 2175 | Buffer: 538649 | Time: 15.50s
+Episode   323 | Score: -12.0 | Epsilon: 0.197 | Steps: 2160 | Buffer: 540809 | Time: 16.53s
+Episode   324 | Score:  -6.0 | Epsilon: 0.196 | Steps: 3108 | Buffer: 543917 | Time: 22.47s
+Episode   325 | Score:  -6.0 | Epsilon: 0.195 | Steps: 3114 | Buffer: 547031 | Time: 22.33s
+Episode   326 | Score: -15.0 | Epsilon: 0.194 | Steps: 2463 | Buffer: 549494 | Time: 17.53s
+Episode   327 | Score:  -1.0 | Epsilon: 0.193 | Steps: 3016 | Buffer: 552510 | Time: 21.69s
+Episode   328 | Score:  -5.0 | Epsilon: 0.192 | Steps: 2764 | Buffer: 555274 | Time: 19.75s
+Episode   329 | Score: -13.0 | Epsilon: 0.191 | Steps: 2397 | Buffer: 557671 | Time: 17.21s
+Episode   330 | Score:  -8.0 | Epsilon: 0.190 | Steps: 3034 | Buffer: 560705 | Time: 21.70s
+Episode   331 | Score: -12.0 | Epsilon: 0.189 | Steps: 2080 | Buffer: 562785 | Time: 15.60s
+Episode   332 | Score: -12.0 | Epsilon: 0.188 | Steps: 1973 | Buffer: 564758 | Time: 15.31s
+Episode   333 | Score:  -7.0 | Epsilon: 0.187 | Steps: 2712 | Buffer: 567470 | Time: 20.63s
+Episode   334 | Score:  -5.0 | Epsilon: 0.187 | Steps: 2749 | Buffer: 570219 | Time: 19.98s
+Episode   335 | Score: -15.0 | Epsilon: 0.186 | Steps: 1988 | Buffer: 572207 | Time: 14.22s
+Episode   336 | Score: -10.0 | Epsilon: 0.185 | Steps: 2756 | Buffer: 574963 | Time: 19.74s
+Episode   337 | Score:  -8.0 | Epsilon: 0.184 | Steps: 2508 | Buffer: 577471 | Time: 17.80s
+Episode   338 | Score: -10.0 | Epsilon: 0.183 | Steps: 2407 | Buffer: 579878 | Time: 17.18s
+Episode   339 | Score:  -9.0 | Epsilon: 0.182 | Steps: 2716 | Buffer: 582594 | Time: 19.40s
+Episode   340 | Score: -10.0 | Epsilon: 0.181 | Steps: 2934 | Buffer: 585528 | Time: 21.10s
+Episode   341 | Score:  -5.0 | Epsilon: 0.180 | Steps: 2884 | Buffer: 588412 | Time: 20.66s
+Episode   342 | Score:  -7.0 | Epsilon: 0.179 | Steps: 2665 | Buffer: 591077 | Time: 19.29s
+Episode   343 | Score:  -6.0 | Epsilon: 0.178 | Steps: 2923 | Buffer: 594000 | Time: 20.91s
+Episode   344 | Score:  -2.0 | Epsilon: 0.177 | Steps: 3178 | Buffer: 597178 | Time: 22.75s
+Episode   345 | Score: -13.0 | Epsilon: 0.177 | Steps: 2557 | Buffer: 599735 | Time: 18.54s
+Episode   346 | Score:  -7.0 | Epsilon: 0.176 | Steps: 3036 | Buffer: 602771 | Time: 21.88s
+Episode   347 | Score:  -8.0 | Epsilon: 0.175 | Steps: 2398 | Buffer: 605169 | Time: 17.24s
+Episode   348 | Score: -11.0 | Epsilon: 0.174 | Steps: 2279 | Buffer: 607448 | Time: 16.31s
+Episode   349 | Score:   2.0 | Epsilon: 0.173 | Steps: 3595 | Buffer: 611043 | Time: 26.16s
+Episode   350 | Score: -15.0 | Epsilon: 0.172 | Steps: 1825 | Buffer: 612868 | Time: 13.13s
+Episode   351 | Score: -14.8 | Epsilon: 0.171 | Steps: 1832 | Buffer: 615855 | Time: 13.16s | Filled(avg)
+Episode   352 | Score: -14.6 | Epsilon: 0.171 | Steps: 1839 | Buffer: 618842 | Time: 13.19s | Filled(avg)
+Episode   353 | Score: -14.4 | Epsilon: 0.170 | Steps: 1846 | Buffer: 621829 | Time: 13.22s | Filled(avg)
+Episode   354 | Score: -14.2 | Epsilon: 0.170 | Steps: 1853 | Buffer: 624816 | Time: 13.26s | Filled(avg)
+Episode   355 | Score: -14.0 | Epsilon: 0.169 | Steps: 1859 | Buffer: 627803 | Time: 13.29s | Filled(avg)
+Episode   356 | Score: -13.9 | Epsilon: 0.168 | Steps: 1866 | Buffer: 630790 | Time: 13.32s | Filled(avg)
+Episode   357 | Score: -13.7 | Epsilon: 0.168 | Steps: 1873 | Buffer: 633776 | Time: 13.35s | Filled(avg)
+Episode   358 | Score: -13.5 | Epsilon: 0.167 | Steps: 1880 | Buffer: 636763 | Time: 13.38s | Filled(avg)
+Episode   359 | Score: -13.3 | Epsilon: 0.166 | Steps: 1887 | Buffer: 639750 | Time: 13.41s | Filled(avg)
+Episode   360 | Score: -13.1 | Epsilon: 0.166 | Steps: 1894 | Buffer: 642737 | Time: 13.45s | Filled(avg)
+Episode   361 | Score: -12.9 | Epsilon: 0.165 | Steps: 1901 | Buffer: 645724 | Time: 13.48s | Filled(avg)
+Episode   362 | Score: -12.7 | Epsilon: 0.164 | Steps: 1908 | Buffer: 648711 | Time: 13.51s | Filled(avg)
+Episode   363 | Score: -12.5 | Epsilon: 0.164 | Steps: 1914 | Buffer: 651698 | Time: 13.54s | Filled(avg)
+Episode   364 | Score: -12.3 | Epsilon: 0.163 | Steps: 1921 | Buffer: 654685 | Time: 13.57s | Filled(avg)
+Episode   365 | Score: -12.1 | Epsilon: 0.163 | Steps: 1928 | Buffer: 657672 | Time: 13.60s | Filled(avg)
+Episode   366 | Score: -12.0 | Epsilon: 0.162 | Steps: 1935 | Buffer: 660659 | Time: 13.64s | Filled(avg)
+Episode   367 | Score: -11.8 | Epsilon: 0.161 | Steps: 1942 | Buffer: 663646 | Time: 13.67s | Filled(avg)
+Episode   368 | Score: -11.6 | Epsilon: 0.161 | Steps: 1949 | Buffer: 666633 | Time: 13.70s | Filled(avg)
+Episode   369 | Score: -11.4 | Epsilon: 0.160 | Steps: 1956 | Buffer: 669620 | Time: 13.73s | Filled(avg)
+Episode   370 | Score: -11.2 | Epsilon: 0.159 | Steps: 1963 | Buffer: 672607 | Time: 13.76s | Filled(avg)
+Episode   371 | Score: -11.0 | Epsilon: 0.159 | Steps: 1970 | Buffer: 675594 | Time: 13.79s | Filled(avg)
+Episode   372 | Score: -10.8 | Epsilon: 0.158 | Steps: 1976 | Buffer: 678580 | Time: 13.82s | Filled(avg)
+Episode   373 | Score: -10.6 | Epsilon: 0.157 | Steps: 1983 | Buffer: 681567 | Time: 13.86s | Filled(avg)
+Episode   374 | Score: -10.4 | Epsilon: 0.157 | Steps: 1990 | Buffer: 684554 | Time: 13.89s | Filled(avg)
+Episode   375 | Score: -10.2 | Epsilon: 0.156 | Steps: 1997 | Buffer: 687541 | Time: 13.92s | Filled(avg)
+Episode   376 | Score: -10.0 | Epsilon: 0.155 | Steps: 2004 | Buffer: 690528 | Time: 13.95s | Filled(avg)
+Episode   377 | Score:  -9.9 | Epsilon: 0.155 | Steps: 2011 | Buffer: 693515 | Time: 13.98s | Filled(avg)
+Episode   378 | Score:  -9.7 | Epsilon: 0.154 | Steps: 2018 | Buffer: 696502 | Time: 14.01s | Filled(avg)
+Episode   379 | Score:  -9.5 | Epsilon: 0.154 | Steps: 2025 | Buffer: 699489 | Time: 14.05s | Filled(avg)
+Episode   380 | Score:  -9.3 | Epsilon: 0.153 | Steps: 2031 | Buffer: 702476 | Time: 14.08s | Filled(avg)
+Episode   381 | Score:  -9.1 | Epsilon: 0.152 | Steps: 2038 | Buffer: 705463 | Time: 14.11s | Filled(avg)
+Episode   382 | Score:  -8.9 | Epsilon: 0.152 | Steps: 2045 | Buffer: 708450 | Time: 14.14s | Filled(avg)
+Episode   383 | Score:  -8.7 | Epsilon: 0.151 | Steps: 2052 | Buffer: 711437 | Time: 14.17s | Filled(avg)
+Episode   384 | Score:  -8.5 | Epsilon: 0.150 | Steps: 2059 | Buffer: 714424 | Time: 14.20s | Filled(avg)
+Episode   385 | Score:  -8.3 | Epsilon: 0.150 | Steps: 2066 | Buffer: 717410 | Time: 14.24s | Filled(avg)
+Episode   386 | Score:  -8.1 | Epsilon: 0.149 | Steps: 2073 | Buffer: 720397 | Time: 14.27s | Filled(avg)
+Episode   387 | Score:  -8.0 | Epsilon: 0.148 | Steps: 2080 | Buffer: 723384 | Time: 14.30s | Filled(avg)
+Episode   388 | Score:  -7.8 | Epsilon: 0.148 | Steps: 2086 | Buffer: 726371 | Time: 14.33s | Filled(avg)
+Episode   389 | Score:  -7.6 | Epsilon: 0.147 | Steps: 2093 | Buffer: 729358 | Time: 14.36s | Filled(avg)
+Episode   390 | Score:  -7.4 | Epsilon: 0.147 | Steps: 2100 | Buffer: 732345 | Time: 14.39s | Filled(avg)
+Episode   391 | Score:  -7.2 | Epsilon: 0.146 | Steps: 2107 | Buffer: 735332 | Time: 14.43s | Filled(avg)
+Episode   392 | Score:  -7.0 | Epsilon: 0.145 | Steps: 2114 | Buffer: 738319 | Time: 14.46s | Filled(avg)
+Episode   393 | Score:  -6.8 | Epsilon: 0.145 | Steps: 2121 | Buffer: 741306 | Time: 14.49s | Filled(avg)
+Episode   394 | Score:  -6.6 | Epsilon: 0.144 | Steps: 2128 | Buffer: 744293 | Time: 14.52s | Filled(avg)
+Episode   395 | Score:  -6.4 | Epsilon: 0.143 | Steps: 2135 | Buffer: 747280 | Time: 14.55s | Filled(avg)
+Episode   396 | Score:  -6.2 | Epsilon: 0.143 | Steps: 2142 | Buffer: 750267 | Time: 14.58s | Filled(avg)
+Episode   397 | Score:  -6.0 | Epsilon: 0.142 | Steps: 2148 | Buffer: 753254 | Time: 14.61s | Filled(avg)
+Episode   398 | Score:  -5.9 | Epsilon: 0.141 | Steps: 2155 | Buffer: 756241 | Time: 14.65s | Filled(avg)
+Episode   399 | Score:  -5.7 | Epsilon: 0.141 | Steps: 2162 | Buffer: 759228 | Time: 14.68s | Filled(avg)
+Episode   400 | Score:  -5.5 | Epsilon: 0.140 | Steps: 2169 | Buffer: 762214 | Time: 14.71s | Filled(avg)
+Episode   401 | Score:  -5.3 | Epsilon: 0.140 | Steps: 2176 | Buffer: 765201 | Time: 14.74s | Filled(avg)
+Episode   402 | Score:  -5.1 | Epsilon: 0.139 | Steps: 2183 | Buffer: 768188 | Time: 14.77s | Filled(avg)
+Episode   403 | Score:  -4.9 | Epsilon: 0.138 | Steps: 2190 | Buffer: 771175 | Time: 14.80s | Filled(avg)
+Episode   404 | Score:  -4.7 | Epsilon: 0.138 | Steps: 2197 | Buffer: 774162 | Time: 14.84s | Filled(avg)
+Episode   405 | Score:  -4.5 | Epsilon: 0.137 | Steps: 2203 | Buffer: 777149 | Time: 14.87s | Filled(avg)
+Episode   406 | Score:  -4.3 | Epsilon: 0.136 | Steps: 2210 | Buffer: 780136 | Time: 14.90s | Filled(avg)
+Episode   407 | Score:  -4.1 | Epsilon: 0.136 | Steps: 2217 | Buffer: 783123 | Time: 14.93s | Filled(avg)
+Episode   408 | Score:  -4.0 | Epsilon: 0.135 | Steps: 2224 | Buffer: 786110 | Time: 14.96s | Filled(avg)
+Episode   409 | Score:  -3.8 | Epsilon: 0.135 | Steps: 2231 | Buffer: 789097 | Time: 14.99s | Filled(avg)
+Episode   410 | Score:  -3.6 | Epsilon: 0.134 | Steps: 2238 | Buffer: 792084 | Time: 15.03s | Filled(avg)
+Episode   411 | Score:  -3.4 | Epsilon: 0.133 | Steps: 2245 | Buffer: 795071 | Time: 15.06s | Filled(avg)
+Episode   412 | Score:  -3.2 | Epsilon: 0.133 | Steps: 2252 | Buffer: 798058 | Time: 15.09s | Filled(avg)
+Episode   413 | Score:  -3.0 | Epsilon: 0.132 | Steps: 2258 | Buffer: 801044 | Time: 15.12s | Filled(avg)
+Episode   414 | Score:  -2.8 | Epsilon: 0.131 | Steps: 2265 | Buffer: 804031 | Time: 15.15s | Filled(avg)
+Episode   415 | Score:  -2.6 | Epsilon: 0.131 | Steps: 2272 | Buffer: 807018 | Time: 15.18s | Filled(avg)
+Episode   416 | Score:  -2.4 | Epsilon: 0.130 | Steps: 2279 | Buffer: 810005 | Time: 15.21s | Filled(avg)
+Episode   417 | Score:  -2.2 | Epsilon: 0.130 | Steps: 2286 | Buffer: 812992 | Time: 15.25s | Filled(avg)
+Episode   418 | Score:  -2.0 | Epsilon: 0.129 | Steps: 2293 | Buffer: 815979 | Time: 15.28s | Filled(avg)
+Episode   419 | Score:  -1.9 | Epsilon: 0.128 | Steps: 2300 | Buffer: 818966 | Time: 15.31s | Filled(avg)
+Episode   420 | Score:  -1.7 | Epsilon: 0.128 | Steps: 2307 | Buffer: 821953 | Time: 15.34s | Filled(avg)
+Episode   421 | Score:  -1.5 | Epsilon: 0.127 | Steps: 2314 | Buffer: 824940 | Time: 15.37s | Filled(avg)
+Episode   422 | Score:  -1.3 | Epsilon: 0.126 | Steps: 2320 | Buffer: 827927 | Time: 15.40s | Filled(avg)
+Episode   423 | Score:  -1.1 | Epsilon: 0.126 | Steps: 2327 | Buffer: 830914 | Time: 15.44s | Filled(avg)
+Episode   424 | Score:  -0.9 | Epsilon: 0.125 | Steps: 2334 | Buffer: 833901 | Time: 15.47s | Filled(avg)
+Episode   425 | Score:  -0.7 | Epsilon: 0.124 | Steps: 2341 | Buffer: 836888 | Time: 15.50s | Filled(avg)
+Episode   426 | Score:  -0.5 | Epsilon: 0.124 | Steps: 2348 | Buffer: 839875 | Time: 15.53s | Filled(avg)
+Episode   427 | Score:  -0.3 | Epsilon: 0.123 | Steps: 2355 | Buffer: 842862 | Time: 15.56s | Filled(avg)
+Episode   428 | Score:  -0.1 | Epsilon: 0.122 | Steps: 2362 | Buffer: 845848 | Time: 15.59s | Filled(avg)
+Episode   429 | Score:   0.0 | Epsilon: 0.122 | Steps: 2369 | Buffer: 848835 | Time: 15.63s | Filled(avg)
+Episode   430 | Score:   0.2 | Epsilon: 0.121 | Steps: 2375 | Buffer: 851822 | Time: 15.66s | Filled(avg)
+Episode   431 | Score:   0.4 | Epsilon: 0.121 | Steps: 2382 | Buffer: 854809 | Time: 15.69s | Filled(avg)
+Episode   432 | Score:   0.6 | Epsilon: 0.120 | Steps: 2389 | Buffer: 857796 | Time: 15.72s | Filled(avg)
+Episode   433 | Score:   0.8 | Epsilon: 0.119 | Steps: 2396 | Buffer: 860783 | Time: 15.75s | Filled(avg)
+Episode   434 | Score:   1.0 | Epsilon: 0.119 | Steps: 2403 | Buffer: 863770 | Time: 15.78s | Filled(avg)
+Episode   435 | Score:   1.2 | Epsilon: 0.118 | Steps: 2410 | Buffer: 866757 | Time: 15.81s | Filled(avg)
+Episode   436 | Score:   1.4 | Epsilon: 0.117 | Steps: 2417 | Buffer: 869744 | Time: 15.85s | Filled(avg)
+Episode   437 | Score:   1.6 | Epsilon: 0.117 | Steps: 2424 | Buffer: 872731 | Time: 15.88s | Filled(avg)
+Episode   438 | Score:   1.8 | Epsilon: 0.116 | Steps: 2431 | Buffer: 875718 | Time: 15.91s | Filled(avg)
+Episode   439 | Score:   2.0 | Epsilon: 0.116 | Steps: 2437 | Buffer: 878705 | Time: 15.94s | Filled(avg)
+Episode   440 | Score:   2.1 | Epsilon: 0.115 | Steps: 2444 | Buffer: 881692 | Time: 15.97s | Filled(avg)
+Episode   441 | Score:   2.3 | Epsilon: 0.114 | Steps: 2451 | Buffer: 884678 | Time: 16.00s | Filled(avg)
+Episode   442 | Score:   2.5 | Epsilon: 0.114 | Steps: 2458 | Buffer: 887665 | Time: 16.04s | Filled(avg)
+Episode   443 | Score:   2.7 | Epsilon: 0.113 | Steps: 2465 | Buffer: 890652 | Time: 16.07s | Filled(avg)
+Episode   444 | Score:   2.9 | Epsilon: 0.112 | Steps: 2472 | Buffer: 893639 | Time: 16.10s | Filled(avg)
+Episode   445 | Score:   3.1 | Epsilon: 0.112 | Steps: 2479 | Buffer: 896626 | Time: 16.13s | Filled(avg)
+Episode   446 | Score:   3.3 | Epsilon: 0.111 | Steps: 2486 | Buffer: 899613 | Time: 16.16s | Filled(avg)
+Episode   447 | Score:   3.5 | Epsilon: 0.110 | Steps: 2492 | Buffer: 902600 | Time: 16.19s | Filled(avg)
+Episode   448 | Score:   3.7 | Epsilon: 0.110 | Steps: 2499 | Buffer: 905587 | Time: 16.23s | Filled(avg)
+Episode   449 | Score:   3.9 | Epsilon: 0.109 | Steps: 2506 | Buffer: 908574 | Time: 16.26s | Filled(avg)
+Episode   450 | Score:   4.0 | Epsilon: 0.108 | Steps: 2513 | Buffer: 911561 | Time: 16.29s | Filled(avg)
+Episode   451 | Score:   4.2 | Epsilon: 0.108 | Steps: 2520 | Buffer: 914548 | Time: 16.32s | Filled(avg)
+Episode   452 | Score:   4.4 | Epsilon: 0.107 | Steps: 2527 | Buffer: 917535 | Time: 16.35s | Filled(avg)
+Episode   453 | Score:   4.6 | Epsilon: 0.107 | Steps: 2534 | Buffer: 920522 | Time: 16.38s | Filled(avg)
+Episode   454 | Score:   4.8 | Epsilon: 0.106 | Steps: 2541 | Buffer: 923509 | Time: 16.42s | Filled(avg)
+Episode   455 | Score:   5.0 | Epsilon: 0.105 | Steps: 2548 | Buffer: 926496 | Time: 16.45s | Filled(avg)
+Episode   456 | Score:   5.2 | Epsilon: 0.105 | Steps: 2554 | Buffer: 929482 | Time: 16.48s | Filled(avg)
+Episode   457 | Score:   5.4 | Epsilon: 0.104 | Steps: 2561 | Buffer: 932469 | Time: 16.51s | Filled(avg)
+Episode   458 | Score:   5.6 | Epsilon: 0.103 | Steps: 2568 | Buffer: 935456 | Time: 16.54s | Filled(avg)
+Episode   459 | Score:   5.8 | Epsilon: 0.103 | Steps: 2575 | Buffer: 938443 | Time: 16.57s | Filled(avg)
+Episode   460 | Score:   6.0 | Epsilon: 0.102 | Steps: 2582 | Buffer: 941430 | Time: 16.60s | Filled(avg)
+Episode   461 | Score:   6.1 | Epsilon: 0.102 | Steps: 2589 | Buffer: 944417 | Time: 16.64s | Filled(avg)
+Episode   462 | Score:   6.3 | Epsilon: 0.101 | Steps: 2596 | Buffer: 947404 | Time: 16.67s | Filled(avg)
+Episode   463 | Score:   6.5 | Epsilon: 0.100 | Steps: 2603 | Buffer: 950391 | Time: 16.70s | Filled(avg)
+Episode   464 | Score:   6.7 | Epsilon: 0.100 | Steps: 2609 | Buffer: 953378 | Time: 16.73s | Filled(avg)
+Episode   465 | Score:   6.9 | Epsilon: 0.099 | Steps: 2616 | Buffer: 956365 | Time: 16.76s | Filled(avg)
+Episode   466 | Score:   7.1 | Epsilon: 0.098 | Steps: 2623 | Buffer: 959352 | Time: 16.79s | Filled(avg)
+Episode   467 | Score:   7.3 | Epsilon: 0.098 | Steps: 2630 | Buffer: 962339 | Time: 16.83s | Filled(avg)
+Episode   468 | Score:   7.5 | Epsilon: 0.097 | Steps: 2637 | Buffer: 965326 | Time: 16.86s | Filled(avg)
+Episode   469 | Score:   7.7 | Epsilon: 0.096 | Steps: 2644 | Buffer: 968312 | Time: 16.89s | Filled(avg)
+Episode   470 | Score:   7.9 | Epsilon: 0.096 | Steps: 2651 | Buffer: 971299 | Time: 16.92s | Filled(avg)
+Episode   471 | Score:   8.0 | Epsilon: 0.095 | Steps: 2658 | Buffer: 974286 | Time: 16.95s | Filled(avg)
+Episode   472 | Score:   8.2 | Epsilon: 0.095 | Steps: 2664 | Buffer: 977273 | Time: 16.98s | Filled(avg)
+Episode   473 | Score:   8.4 | Epsilon: 0.094 | Steps: 2671 | Buffer: 980260 | Time: 17.02s | Filled(avg)
+Episode   474 | Score:   8.6 | Epsilon: 0.093 | Steps: 2678 | Buffer: 983247 | Time: 17.05s | Filled(avg)
+Episode   475 | Score:   8.8 | Epsilon: 0.093 | Steps: 2685 | Buffer: 986234 | Time: 17.08s | Filled(avg)
+Episode   476 | Score:   9.0 | Epsilon: 0.092 | Steps: 2692 | Buffer: 989221 | Time: 17.11s
+Episode   477 | Score:  -5.0 | Epsilon: 0.091 | Steps: 2970 | Buffer: 992191 | Time: 18.87s
+Episode   478 | Score:   4.0 | Epsilon: 0.091 | Steps: 3197 | Buffer: 995388 | Time: 20.20s
+Episode   479 | Score:  13.0 | Epsilon: 0.090 | Steps: 2248 | Buffer: 997636 | Time: 14.26s
+Episode   480 | Score:  -2.0 | Epsilon: 0.090 | Steps: 3013 | Buffer: 1000649 | Time: 19.09s
+Episode   481 | Score:  10.0 | Epsilon: 0.089 | Steps: 2611 | Buffer: 1003260 | Time: 16.56s
+Episode   482 | Score:   2.0 | Epsilon: 0.089 | Steps: 3781 | Buffer: 1007041 | Time: 23.99s
+Episode   483 | Score:   1.0 | Epsilon: 0.088 | Steps: 3331 | Buffer: 1010372 | Time: 21.13s
+Episode   484 | Score:   5.0 | Epsilon: 0.088 | Steps: 3146 | Buffer: 1013518 | Time: 19.91s
+Episode   485 | Score:   4.0 | Epsilon: 0.088 | Steps: 3664 | Buffer: 1017182 | Time: 23.26s
+Episode   486 | Score:  -2.0 | Epsilon: 0.087 | Steps: 2987 | Buffer: 1020169 | Time: 18.87s
+Episode   487 | Score:   1.0 | Epsilon: 0.087 | Steps: 3062 | Buffer: 1023231 | Time: 19.47s
+Episode   488 | Score:  -6.0 | Epsilon: 0.086 | Steps: 3151 | Buffer: 1026382 | Time: 19.97s
+Episode   489 | Score:   7.0 | Epsilon: 0.086 | Steps: 3206 | Buffer: 1029588 | Time: 20.37s
+Episode   490 | Score:   9.0 | Epsilon: 0.085 | Steps: 3055 | Buffer: 1032643 | Time: 19.32s
+Episode   491 | Score:   9.0 | Epsilon: 0.085 | Steps: 2640 | Buffer: 1035283 | Time: 16.89s
+Episode   492 | Score:  -3.0 | Epsilon: 0.084 | Steps: 3200 | Buffer: 1038483 | Time: 20.30s
+Episode   493 | Score:   9.0 | Epsilon: 0.084 | Steps: 2680 | Buffer: 1041163 | Time: 16.99s
+Episode   494 | Score:   9.0 | Epsilon: 0.084 | Steps: 3044 | Buffer: 1044207 | Time: 19.40s
+Episode   495 | Score:   9.0 | Epsilon: 0.083 | Steps: 3155 | Buffer: 1047362 | Time: 19.96s
+Episode   496 | Score:   6.0 | Epsilon: 0.083 | Steps: 3411 | Buffer: 1050773 | Time: 21.61s
+Episode   497 | Score:  -7.0 | Epsilon: 0.082 | Steps: 2913 | Buffer: 1053686 | Time: 18.53s
+Episode   498 | Score:  13.0 | Epsilon: 0.082 | Steps: 2694 | Buffer: 1056380 | Time: 16.98s
+Episode   499 | Score:   4.0 | Epsilon: 0.082 | Steps: 3298 | Buffer: 1059678 | Time: 20.87s
+--> สำรอง Checkpoint ที่ Episode 500 เรียบร้อย
+Episode   500 | Score:   9.0 | Epsilon: 0.081 | Steps: 2726 | Buffer: 1062404 | Time: 17.25s
+Episode   501 | Score:   5.0 | Epsilon: 0.081 | Steps: 3469 | Buffer: 1065873 | Time: 21.84s
+Episode   502 | Score:  11.0 | Epsilon: 0.080 | Steps: 2406 | Buffer: 1068279 | Time: 15.25s
+Episode   503 | Score:   7.0 | Epsilon: 0.080 | Steps: 3373 | Buffer: 1071652 | Time: 21.36s
+Episode   504 | Score:   5.0 | Epsilon: 0.080 | Steps: 3023 | Buffer: 1074675 | Time: 19.06s
+Episode   505 | Score:  11.0 | Epsilon: 0.079 | Steps: 2429 | Buffer: 1077104 | Time: 15.35s
+Episode   506 | Score:  10.0 | Epsilon: 0.079 | Steps: 2574 | Buffer: 1079678 | Time: 16.37s
+Episode   507 | Score:  10.0 | Epsilon: 0.078 | Steps: 2928 | Buffer: 1082606 | Time: 18.50s
+Episode   508 | Score:   2.0 | Epsilon: 0.078 | Steps: 4005 | Buffer: 1086611 | Time: 25.50s
+Episode   509 | Score:   6.0 | Epsilon: 0.078 | Steps: 2737 | Buffer: 1089348 | Time: 17.30s
+Episode   510 | Score:  12.0 | Epsilon: 0.077 | Steps: 2344 | Buffer: 1091692 | Time: 14.80s
+Episode   511 | Score:   7.0 | Epsilon: 0.077 | Steps: 3135 | Buffer: 1094827 | Time: 19.89s
+Episode   512 | Score:   7.0 | Epsilon: 0.076 | Steps: 3101 | Buffer: 1097928 | Time: 19.65s
+Episode   513 | Score:   7.0 | Epsilon: 0.076 | Steps: 3391 | Buffer: 1101319 | Time: 21.46s
+Episode   514 | Score:  12.0 | Epsilon: 0.076 | Steps: 2500 | Buffer: 1103819 | Time: 15.88s
+Episode   515 | Score:   6.0 | Epsilon: 0.075 | Steps: 3484 | Buffer: 1107303 | Time: 22.14s
+Episode   516 | Score:   7.0 | Epsilon: 0.075 | Steps: 2978 | Buffer: 1110281 | Time: 18.90s
+Episode   517 | Score:   4.0 | Epsilon: 0.075 | Steps: 3125 | Buffer: 1113406 | Time: 19.93s
+Episode   518 | Score:  -3.0 | Epsilon: 0.074 | Steps: 3563 | Buffer: 1116969 | Time: 22.71s
+Episode   519 | Score:  10.0 | Epsilon: 0.074 | Steps: 3010 | Buffer: 1119979 | Time: 19.20s
+Episode   520 | Score:  15.0 | Epsilon: 0.073 | Steps: 2348 | Buffer: 1122327 | Time: 14.77s
+Episode   521 | Score:   6.0 | Epsilon: 0.073 | Steps: 2982 | Buffer: 1125309 | Time: 18.94s
+Episode   522 | Score:  15.0 | Epsilon: 0.073 | Steps: 2238 | Buffer: 1127547 | Time: 14.14s
+Episode   523 | Score:  16.0 | Epsilon: 0.072 | Steps: 2332 | Buffer: 1129879 | Time: 14.72s
+Episode   524 | Score:   4.0 | Epsilon: 0.072 | Steps: 3556 | Buffer: 1133435 | Time: 22.60s
+Episode   525 | Score:   8.0 | Epsilon: 0.072 | Steps: 2943 | Buffer: 1136378 | Time: 18.53s
+Episode   526 | Score:  15.0 | Epsilon: 0.071 | Steps: 2223 | Buffer: 1138601 | Time: 14.12s
+Episode   527 | Score:   8.0 | Epsilon: 0.071 | Steps: 2770 | Buffer: 1141371 | Time: 17.50s
+Episode   528 | Score:  12.0 | Epsilon: 0.071 | Steps: 2779 | Buffer: 1144150 | Time: 17.65s
+Episode   529 | Score:  14.0 | Epsilon: 0.070 | Steps: 2599 | Buffer: 1146749 | Time: 16.33s
+Episode   530 | Score:   4.0 | Epsilon: 0.070 | Steps: 3443 | Buffer: 1150192 | Time: 21.82s
+Episode   531 | Score:  15.0 | Epsilon: 0.069 | Steps: 2443 | Buffer: 1152635 | Time: 15.41s
+Episode   532 | Score:  12.0 | Epsilon: 0.069 | Steps: 2763 | Buffer: 1155398 | Time: 17.51s
+Episode   533 | Score:  14.0 | Epsilon: 0.069 | Steps: 2731 | Buffer: 1158129 | Time: 17.22s
+Episode   534 | Score:   9.0 | Epsilon: 0.068 | Steps: 3280 | Buffer: 1161409 | Time: 20.69s
+Episode   535 | Score:  17.0 | Epsilon: 0.068 | Steps: 2587 | Buffer: 1163996 | Time: 16.42s
+Episode   536 | Score:  13.0 | Epsilon: 0.068 | Steps: 2421 | Buffer: 1166417 | Time: 15.38s
+Episode   537 | Score:  -1.0 | Epsilon: 0.067 | Steps: 3731 | Buffer: 1170148 | Time: 23.61s
+Episode   538 | Score:  18.0 | Epsilon: 0.067 | Steps: 2065 | Buffer: 1172213 | Time: 13.17s
+Episode   539 | Score:   9.0 | Epsilon: 0.067 | Steps: 2641 | Buffer: 1174854 | Time: 16.82s
+Episode   540 | Score:   4.0 | Epsilon: 0.066 | Steps: 3838 | Buffer: 1178692 | Time: 24.25s
+Episode   541 | Score:  11.0 | Epsilon: 0.066 | Steps: 2739 | Buffer: 1181431 | Time: 17.21s
+Episode   542 | Score:   7.0 | Epsilon: 0.066 | Steps: 3423 | Buffer: 1184854 | Time: 21.69s
+Episode   543 | Score:  12.0 | Epsilon: 0.065 | Steps: 2649 | Buffer: 1187503 | Time: 16.84s
+Episode   544 | Score:   6.0 | Epsilon: 0.065 | Steps: 3103 | Buffer: 1190606 | Time: 19.64s
+Episode   545 | Score:   8.0 | Epsilon: 0.065 | Steps: 3296 | Buffer: 1193902 | Time: 20.93s
+Episode   546 | Score:   2.0 | Epsilon: 0.064 | Steps: 3127 | Buffer: 1197029 | Time: 19.84s
+Episode   547 | Score:  13.0 | Epsilon: 0.064 | Steps: 2768 | Buffer: 1199797 | Time: 17.58s
+Episode   548 | Score:  20.0 | Epsilon: 0.064 | Steps: 1818 | Buffer: 1201615 | Time: 11.53s
+Episode   549 | Score:  15.0 | Epsilon: 0.063 | Steps: 2464 | Buffer: 1204079 | Time: 15.74s
+Episode   550 | Score:  12.0 | Epsilon: 0.063 | Steps: 2628 | Buffer: 1206707 | Time: 16.68s
+Episode   551 | Score:  19.0 | Epsilon: 0.063 | Steps: 2052 | Buffer: 1208759 | Time: 12.98s
+Episode   552 | Score:  14.0 | Epsilon: 0.063 | Steps: 2609 | Buffer: 1211368 | Time: 16.53s
+Episode   553 | Score:  13.0 | Epsilon: 0.062 | Steps: 2621 | Buffer: 1213989 | Time: 16.66s
+Episode   554 | Score:  12.0 | Epsilon: 0.062 | Steps: 2344 | Buffer: 1216333 | Time: 14.86s
+Episode   555 | Score:   1.0 | Epsilon: 0.062 | Steps: 3689 | Buffer: 1220022 | Time: 23.30s
+Episode   556 | Score:  21.0 | Epsilon: 0.061 | Steps: 1707 | Buffer: 1221729 | Time: 10.93s
+Episode   557 | Score:  16.0 | Epsilon: 0.061 | Steps: 2130 | Buffer: 1223859 | Time: 13.61s
+Episode   558 | Score:  14.0 | Epsilon: 0.061 | Steps: 2443 | Buffer: 1226302 | Time: 15.44s
+Episode   559 | Score:  18.0 | Epsilon: 0.060 | Steps: 2107 | Buffer: 1228409 | Time: 13.43s
+Episode   560 | Score:   4.0 | Epsilon: 0.060 | Steps: 3623 | Buffer: 1232032 | Time: 23.09s
+Episode   561 | Score:  16.0 | Epsilon: 0.060 | Steps: 2087 | Buffer: 1234119 | Time: 13.28s
+Episode   562 | Score:  12.0 | Epsilon: 0.059 | Steps: 2709 | Buffer: 1236828 | Time: 17.17s
+Episode   563 | Score:   3.0 | Epsilon: 0.059 | Steps: 3665 | Buffer: 1240493 | Time: 23.20s
+Episode   564 | Score:  12.0 | Epsilon: 0.059 | Steps: 2945 | Buffer: 1243438 | Time: 18.59s
+Episode   565 | Score:   7.0 | Epsilon: 0.059 | Steps: 2749 | Buffer: 1246187 | Time: 17.41s
+Episode   566 | Score:   7.0 | Epsilon: 0.058 | Steps: 3031 | Buffer: 1249218 | Time: 19.24s
+Episode   567 | Score:  13.0 | Epsilon: 0.058 | Steps: 2289 | Buffer: 1251507 | Time: 14.49s
+Episode   568 | Score:  12.0 | Epsilon: 0.058 | Steps: 2473 | Buffer: 1253980 | Time: 15.68s
+Episode   569 | Score:  11.0 | Epsilon: 0.057 | Steps: 2555 | Buffer: 1256535 | Time: 16.16s
+Episode   570 | Score:   9.0 | Epsilon: 0.057 | Steps: 2991 | Buffer: 1259526 | Time: 18.89s
+Episode   571 | Score:   7.0 | Epsilon: 0.057 | Steps: 3054 | Buffer: 1262580 | Time: 19.33s
+Episode   572 | Score:  12.0 | Epsilon: 0.057 | Steps: 2444 | Buffer: 1265024 | Time: 15.35s
+Episode   573 | Score:   9.0 | Epsilon: 0.056 | Steps: 2861 | Buffer: 1267885 | Time: 18.17s
+Episode   574 | Score:  11.0 | Epsilon: 0.056 | Steps: 2917 | Buffer: 1270802 | Time: 18.52s
+Episode   575 | Score:   6.0 | Epsilon: 0.056 | Steps: 3466 | Buffer: 1274268 | Time: 21.91s
+Episode   576 | Score:  12.0 | Epsilon: 0.055 | Steps: 2572 | Buffer: 1276840 | Time: 16.22s
+Episode   577 | Score:  15.0 | Epsilon: 0.055 | Steps: 2277 | Buffer: 1279117 | Time: 14.58s
+Episode   578 | Score:  12.0 | Epsilon: 0.055 | Steps: 2452 | Buffer: 1281569 | Time: 15.55s
+Episode   579 | Score:  17.0 | Epsilon: 0.055 | Steps: 2163 | Buffer: 1283732 | Time: 13.75s
+Episode   580 | Score:   9.0 | Epsilon: 0.054 | Steps: 3111 | Buffer: 1286843 | Time: 19.61s
+Episode   581 | Score:  10.0 | Epsilon: 0.054 | Steps: 3049 | Buffer: 1289892 | Time: 19.36s
+Episode   582 | Score:  10.0 | Epsilon: 0.054 | Steps: 2856 | Buffer: 1292748 | Time: 18.15s
+Episode   583 | Score:   3.0 | Epsilon: 0.054 | Steps: 3246 | Buffer: 1295994 | Time: 20.57s
+Episode   584 | Score:   9.0 | Epsilon: 0.053 | Steps: 2771 | Buffer: 1298765 | Time: 17.53s
+Episode   585 | Score:  12.0 | Epsilon: 0.053 | Steps: 2829 | Buffer: 1301594 | Time: 17.95s
+Episode   586 | Score:  10.0 | Epsilon: 0.053 | Steps: 2531 | Buffer: 1304125 | Time: 16.04s
+Episode   587 | Score:   9.0 | Epsilon: 0.052 | Steps: 2884 | Buffer: 1307009 | Time: 18.40s
+Episode   588 | Score:  14.0 | Epsilon: 0.052 | Steps: 2320 | Buffer: 1309329 | Time: 14.73s
+Episode   589 | Score:  17.0 | Epsilon: 0.052 | Steps: 2549 | Buffer: 1311878 | Time: 16.14s
+Episode   590 | Score:  16.0 | Epsilon: 0.052 | Steps: 2075 | Buffer: 1313953 | Time: 13.19s
+Episode   591 | Score:  13.0 | Epsilon: 0.051 | Steps: 2429 | Buffer: 1316382 | Time: 15.40s
+Episode   592 | Score:  14.0 | Epsilon: 0.051 | Steps: 2307 | Buffer: 1318689 | Time: 14.68s
+Episode   593 | Score:  13.0 | Epsilon: 0.051 | Steps: 2661 | Buffer: 1321350 | Time: 17.01s
+Episode   594 | Score:  18.0 | Epsilon: 0.051 | Steps: 1987 | Buffer: 1323337 | Time: 12.61s
+Episode   595 | Score:  12.0 | Epsilon: 0.050 | Steps: 2553 | Buffer: 1325890 | Time: 16.33s
+Episode   596 | Score:  12.0 | Epsilon: 0.050 | Steps: 2775 | Buffer: 1328665 | Time: 17.49s
+Episode   597 | Score:   9.0 | Epsilon: 0.050 | Steps: 2728 | Buffer: 1331393 | Time: 17.30s
+Episode   598 | Score:  13.0 | Epsilon: 0.050 | Steps: 2581 | Buffer: 1333974 | Time: 16.33s
+Episode   599 | Score:  18.0 | Epsilon: 0.049 | Steps: 2417 | Buffer: 1336391 | Time: 15.33s
+--> สำรอง Checkpoint ที่ Episode 600 เรียบร้อย
+Episode   600 | Score:   3.0 | Epsilon: 0.049 | Steps: 3410 | Buffer: 1339801 | Time: 21.49s
+Episode   601 | Score:  11.0 | Epsilon: 0.049 | Steps: 2600 | Buffer: 1342401 | Time: 16.56s
+Episode   602 | Score:   7.0 | Epsilon: 0.049 | Steps: 2742 | Buffer: 1345143 | Time: 17.49s
+Episode   603 | Score:  14.0 | Epsilon: 0.048 | Steps: 2231 | Buffer: 1347374 | Time: 14.19s
+Episode   604 | Score:  14.0 | Epsilon: 0.048 | Steps: 2401 | Buffer: 1349775 | Time: 15.30s
+Episode   605 | Score:   9.0 | Epsilon: 0.048 | Steps: 2732 | Buffer: 1352507 | Time: 17.53s
+Episode   606 | Score:   7.0 | Epsilon: 0.048 | Steps: 2747 | Buffer: 1355254 | Time: 17.49s
+Episode   607 | Score:  16.0 | Epsilon: 0.047 | Steps: 1989 | Buffer: 1357243 | Time: 12.60s
+Episode   608 | Score:  16.0 | Epsilon: 0.047 | Steps: 2290 | Buffer: 1359533 | Time: 14.50s
+Episode   609 | Score:  16.0 | Epsilon: 0.047 | Steps: 2312 | Buffer: 1361845 | Time: 14.59s
+Episode   610 | Score:  10.0 | Epsilon: 0.047 | Steps: 2793 | Buffer: 1364638 | Time: 17.74s
+Episode   611 | Score:   1.0 | Epsilon: 0.047 | Steps: 3521 | Buffer: 1368159 | Time: 22.36s
+Episode   612 | Score:   4.0 | Epsilon: 0.046 | Steps: 3257 | Buffer: 1371416 | Time: 20.75s
+Episode   613 | Score:  20.0 | Epsilon: 0.046 | Steps: 1965 | Buffer: 1373381 | Time: 12.44s
+Episode   614 | Score:  15.0 | Epsilon: 0.046 | Steps: 2329 | Buffer: 1375710 | Time: 14.94s
+Episode   615 | Score:  18.0 | Epsilon: 0.046 | Steps: 1941 | Buffer: 1377651 | Time: 12.33s
+Episode   616 | Score:  15.0 | Epsilon: 0.045 | Steps: 2366 | Buffer: 1380017 | Time: 15.01s
+Episode   617 | Score:   9.0 | Epsilon: 0.045 | Steps: 2516 | Buffer: 1382533 | Time: 15.97s
+Episode   618 | Score:  11.0 | Epsilon: 0.045 | Steps: 2636 | Buffer: 1385169 | Time: 16.74s
+Episode   619 | Score:  14.0 | Epsilon: 0.045 | Steps: 2390 | Buffer: 1387559 | Time: 15.16s
+Episode   620 | Score:  12.0 | Epsilon: 0.044 | Steps: 2572 | Buffer: 1390131 | Time: 16.27s
+Episode   621 | Score:  18.0 | Epsilon: 0.044 | Steps: 1970 | Buffer: 1392101 | Time: 12.50s
+Episode   622 | Score:  11.0 | Epsilon: 0.044 | Steps: 2703 | Buffer: 1394804 | Time: 17.15s
+Episode   623 | Score:  12.0 | Epsilon: 0.044 | Steps: 2568 | Buffer: 1397372 | Time: 16.29s
+Episode   624 | Score:  17.0 | Epsilon: 0.044 | Steps: 2039 | Buffer: 1399411 | Time: 12.85s
+Episode   625 | Score:  10.0 | Epsilon: 0.043 | Steps: 2767 | Buffer: 1402178 | Time: 17.58s
+Episode   626 | Score:   9.0 | Epsilon: 0.043 | Steps: 3088 | Buffer: 1405266 | Time: 19.53s
+Episode   627 | Score:  11.0 | Epsilon: 0.043 | Steps: 2644 | Buffer: 1407910 | Time: 16.78s
+Episode   628 | Score:  17.0 | Epsilon: 0.043 | Steps: 2076 | Buffer: 1409986 | Time: 13.28s
+Episode   629 | Score:  16.0 | Epsilon: 0.043 | Steps: 2267 | Buffer: 1412253 | Time: 14.33s
+Episode   630 | Score:  15.0 | Epsilon: 0.042 | Steps: 2225 | Buffer: 1414478 | Time: 14.15s
+Episode   631 | Score:  19.0 | Epsilon: 0.042 | Steps: 1808 | Buffer: 1416286 | Time: 11.55s
+Episode   632 | Score:  13.0 | Epsilon: 0.042 | Steps: 2666 | Buffer: 1418952 | Time: 17.00s
+Episode   633 | Score:  15.0 | Epsilon: 0.042 | Steps: 2178 | Buffer: 1421130 | Time: 13.88s
+Episode   634 | Score:  13.0 | Epsilon: 0.041 | Steps: 2401 | Buffer: 1423531 | Time: 15.14s
+Episode   635 | Score:  13.0 | Epsilon: 0.041 | Steps: 2463 | Buffer: 1425994 | Time: 15.59s
+Episode   636 | Score:  16.0 | Epsilon: 0.041 | Steps: 2250 | Buffer: 1428244 | Time: 14.37s
+Episode   637 | Score:  13.0 | Epsilon: 0.041 | Steps: 2253 | Buffer: 1430497 | Time: 14.31s
+Episode   638 | Score:  20.0 | Epsilon: 0.041 | Steps: 1908 | Buffer: 1432405 | Time: 12.04s
+Episode   639 | Score:  13.0 | Epsilon: 0.040 | Steps: 2397 | Buffer: 1434802 | Time: 15.22s
+Episode   640 | Score:  12.0 | Epsilon: 0.040 | Steps: 2695 | Buffer: 1437497 | Time: 17.12s
+Episode   641 | Score:  14.0 | Epsilon: 0.040 | Steps: 2418 | Buffer: 1439915 | Time: 15.38s
+Episode   642 | Score:   9.0 | Epsilon: 0.040 | Steps: 2700 | Buffer: 1442615 | Time: 17.07s
+Episode   643 | Score:   9.0 | Epsilon: 0.040 | Steps: 3226 | Buffer: 1445841 | Time: 20.46s
+Episode   644 | Score:  10.0 | Epsilon: 0.039 | Steps: 2948 | Buffer: 1448789 | Time: 18.67s
+Episode   645 | Score:  15.0 | Epsilon: 0.039 | Steps: 2801 | Buffer: 1451590 | Time: 17.74s
+Episode   646 | Score:  12.0 | Epsilon: 0.039 | Steps: 2588 | Buffer: 1454178 | Time: 16.40s
+Episode   647 | Score:  11.0 | Epsilon: 0.039 | Steps: 2809 | Buffer: 1456987 | Time: 17.76s
+Episode   648 | Score:   8.0 | Epsilon: 0.039 | Steps: 3164 | Buffer: 1460151 | Time: 20.13s
+Episode   649 | Score:  10.0 | Epsilon: 0.038 | Steps: 2743 | Buffer: 1462894 | Time: 17.27s
+Episode   650 | Score:  10.0 | Epsilon: 0.038 | Steps: 2869 | Buffer: 1465763 | Time: 18.29s
+Episode   651 | Score:  16.0 | Epsilon: 0.038 | Steps: 1981 | Buffer: 1467744 | Time: 12.72s
+Episode   652 | Score:  13.0 | Epsilon: 0.038 | Steps: 2945 | Buffer: 1470689 | Time: 18.66s
+Episode   653 | Score:  14.0 | Epsilon: 0.038 | Steps: 2199 | Buffer: 1472888 | Time: 13.88s
+Episode   654 | Score:   9.0 | Epsilon: 0.038 | Steps: 2790 | Buffer: 1475678 | Time: 17.75s
+Episode   655 | Score:  12.0 | Epsilon: 0.037 | Steps: 2456 | Buffer: 1478134 | Time: 15.62s
+Episode   656 | Score:   7.0 | Epsilon: 0.037 | Steps: 3477 | Buffer: 1481611 | Time: 22.07s
+Episode   657 | Score:  14.0 | Epsilon: 0.037 | Steps: 2311 | Buffer: 1483922 | Time: 14.75s
+Episode   658 | Score:   9.0 | Epsilon: 0.037 | Steps: 3130 | Buffer: 1487052 | Time: 19.85s
+Episode   659 | Score:  19.0 | Epsilon: 0.037 | Steps: 1950 | Buffer: 1489002 | Time: 12.31s
+Episode   660 | Score:  16.0 | Epsilon: 0.036 | Steps: 2283 | Buffer: 1491285 | Time: 14.49s
+Episode   661 | Score:  12.0 | Epsilon: 0.036 | Steps: 2321 | Buffer: 1493606 | Time: 14.78s
+Episode   662 | Score:   9.0 | Epsilon: 0.036 | Steps: 2941 | Buffer: 1496547 | Time: 18.76s
+Episode   663 | Score:  11.0 | Epsilon: 0.036 | Steps: 2838 | Buffer: 1499385 | Time: 17.96s
+Episode   664 | Score:  16.0 | Epsilon: 0.036 | Steps: 2098 | Buffer: 1501483 | Time: 13.32s
+Episode   665 | Score:  18.0 | Epsilon: 0.035 | Steps: 2122 | Buffer: 1503605 | Time: 13.47s
+Episode   666 | Score:  12.0 | Epsilon: 0.035 | Steps: 2679 | Buffer: 1506284 | Time: 17.09s
+Episode   667 | Score:  16.0 | Epsilon: 0.035 | Steps: 2163 | Buffer: 1508447 | Time: 13.73s
+Episode   668 | Score:  16.0 | Epsilon: 0.035 | Steps: 2318 | Buffer: 1510765 | Time: 14.68s
+Episode   669 | Score:  13.0 | Epsilon: 0.035 | Steps: 2619 | Buffer: 1513384 | Time: 16.59s
+Episode   670 | Score:  19.0 | Epsilon: 0.035 | Steps: 2026 | Buffer: 1515410 | Time: 12.82s
+Episode   671 | Score:  15.0 | Epsilon: 0.034 | Steps: 2219 | Buffer: 1517629 | Time: 14.08s
+Episode   672 | Score:   8.0 | Epsilon: 0.034 | Steps: 2817 | Buffer: 1520446 | Time: 17.86s
+Episode   673 | Score:  14.0 | Epsilon: 0.034 | Steps: 2396 | Buffer: 1522842 | Time: 15.27s
+Episode   674 | Score:  13.0 | Epsilon: 0.034 | Steps: 2651 | Buffer: 1525493 | Time: 16.83s
+Episode   675 | Score:  17.0 | Epsilon: 0.034 | Steps: 2187 | Buffer: 1527680 | Time: 13.82s
+Episode   676 | Score:  16.0 | Epsilon: 0.034 | Steps: 2043 | Buffer: 1529723 | Time: 13.00s
+Episode   677 | Score:  13.0 | Epsilon: 0.033 | Steps: 2529 | Buffer: 1532252 | Time: 16.08s
+Episode   678 | Score:  16.0 | Epsilon: 0.033 | Steps: 2220 | Buffer: 1534472 | Time: 14.07s
+Episode   679 | Score:  20.0 | Epsilon: 0.033 | Steps: 1980 | Buffer: 1536452 | Time: 12.57s
+Episode   680 | Score:  17.0 | Epsilon: 0.033 | Steps: 2149 | Buffer: 1538601 | Time: 13.62s
+Episode   681 | Score:  10.0 | Epsilon: 0.033 | Steps: 2723 | Buffer: 1541324 | Time: 17.30s
+Episode   682 | Score:  14.0 | Epsilon: 0.033 | Steps: 2178 | Buffer: 1543502 | Time: 12.75s
+Episode   683 | Score:  12.0 | Epsilon: 0.032 | Steps: 2822 | Buffer: 1546324 | Time: 17.84s
+Episode   684 | Score:  11.0 | Epsilon: 0.032 | Steps: 2431 | Buffer: 1548755 | Time: 15.42s
+Episode   685 | Score:   6.0 | Epsilon: 0.032 | Steps: 2962 | Buffer: 1551717 | Time: 18.81s
+Episode   686 | Score:  10.0 | Epsilon: 0.032 | Steps: 2809 | Buffer: 1554526 | Time: 17.87s
+Episode   687 | Score:  17.0 | Epsilon: 0.032 | Steps: 2031 | Buffer: 1556557 | Time: 12.87s
+Episode   688 | Score:  12.0 | Epsilon: 0.032 | Steps: 2425 | Buffer: 1558982 | Time: 15.40s
+Episode   689 | Score:  17.0 | Epsilon: 0.031 | Steps: 1888 | Buffer: 1560870 | Time: 12.11s
+Episode   690 | Score:  10.0 | Epsilon: 0.031 | Steps: 2690 | Buffer: 1563560 | Time: 17.15s
+Episode   691 | Score:  21.0 | Epsilon: 0.031 | Steps: 1734 | Buffer: 1565294 | Time: 11.04s
+Episode   692 | Score:  11.0 | Epsilon: 0.031 | Steps: 2831 | Buffer: 1568125 | Time: 18.10s
+Episode   693 | Score:  16.0 | Epsilon: 0.031 | Steps: 2356 | Buffer: 1570481 | Time: 14.85s
+Episode   694 | Score:  11.0 | Epsilon: 0.031 | Steps: 2383 | Buffer: 1572864 | Time: 15.11s
+Episode   695 | Score:  12.0 | Epsilon: 0.031 | Steps: 2654 | Buffer: 1575518 | Time: 16.87s
+Episode   696 | Score:  13.0 | Epsilon: 0.030 | Steps: 2549 | Buffer: 1578067 | Time: 16.22s
+Episode   697 | Score:  13.0 | Epsilon: 0.030 | Steps: 2322 | Buffer: 1580389 | Time: 14.69s
+Episode   698 | Score:  16.0 | Epsilon: 0.030 | Steps: 2352 | Buffer: 1582741 | Time: 14.88s
+Episode   699 | Score:  18.0 | Epsilon: 0.030 | Steps: 1985 | Buffer: 1584726 | Time: 12.58s
+--> สำรอง Checkpoint ที่ Episode 700 เรียบร้อย
+Episode   700 | Score:   9.0 | Epsilon: 0.030 | Steps: 2489 | Buffer: 1587215 | Time: 15.72s
+Episode   701 | Score:  13.0 | Epsilon: 0.030 | Steps: 2692 | Buffer: 1589907 | Time: 17.17s
+Episode   702 | Score:  13.0 | Epsilon: 0.029 | Steps: 2399 | Buffer: 1592306 | Time: 15.26s
+Episode   703 | Score:  13.0 | Epsilon: 0.029 | Steps: 2271 | Buffer: 1594577 | Time: 14.37s
+Episode   704 | Score:  15.0 | Epsilon: 0.029 | Steps: 2197 | Buffer: 1596774 | Time: 14.05s
+Episode   705 | Score:  14.0 | Epsilon: 0.029 | Steps: 2326 | Buffer: 1599100 | Time: 14.86s
+Episode   706 | Score:  16.0 | Epsilon: 0.029 | Steps: 2281 | Buffer: 1601381 | Time: 14.54s
+Episode   707 | Score:  14.0 | Epsilon: 0.029 | Steps: 2292 | Buffer: 1603673 | Time: 14.66s
+Episode   708 | Score:  14.0 | Epsilon: 0.029 | Steps: 2194 | Buffer: 1605867 | Time: 13.96s
+Episode   709 | Score:  15.0 | Epsilon: 0.028 | Steps: 2290 | Buffer: 1608157 | Time: 14.57s
+Episode   710 | Score:  13.0 | Epsilon: 0.028 | Steps: 2500 | Buffer: 1610657 | Time: 15.90s
+Episode   711 | Score:  14.0 | Epsilon: 0.028 | Steps: 2568 | Buffer: 1613225 | Time: 16.38s
+Episode   712 | Score:  20.0 | Epsilon: 0.028 | Steps: 1856 | Buffer: 1615081 | Time: 11.72s
+Episode   713 | Score:  19.0 | Epsilon: 0.028 | Steps: 1857 | Buffer: 1616938 | Time: 11.77s
+Episode   714 | Score:  11.0 | Epsilon: 0.028 | Steps: 2587 | Buffer: 1619525 | Time: 16.41s
+Episode   715 | Score:  15.0 | Epsilon: 0.028 | Steps: 2338 | Buffer: 1621863 | Time: 14.81s
+Episode   716 | Score:  19.0 | Epsilon: 0.027 | Steps: 1957 | Buffer: 1623820 | Time: 12.46s
+Episode   717 | Score:  18.0 | Epsilon: 0.027 | Steps: 2179 | Buffer: 1625999 | Time: 13.76s
+Episode   718 | Score:  13.0 | Epsilon: 0.027 | Steps: 2309 | Buffer: 1628308 | Time: 14.70s
+Episode   719 | Score:   5.0 | Epsilon: 0.027 | Steps: 3052 | Buffer: 1631360 | Time: 19.32s
+Episode   720 | Score:  15.0 | Epsilon: 0.027 | Steps: 2369 | Buffer: 1633729 | Time: 14.99s
+Episode   721 | Score:  14.0 | Epsilon: 0.027 | Steps: 2361 | Buffer: 1636090 | Time: 14.93s
+Episode   722 | Score:  17.0 | Epsilon: 0.027 | Steps: 1950 | Buffer: 1638040 | Time: 12.45s
+Episode   723 | Score:  18.0 | Epsilon: 0.027 | Steps: 2079 | Buffer: 1640119 | Time: 13.23s
+Episode   724 | Score:  19.0 | Epsilon: 0.026 | Steps: 2061 | Buffer: 1642180 | Time: 13.06s
+Episode   725 | Score:   9.0 | Epsilon: 0.026 | Steps: 2892 | Buffer: 1645072 | Time: 18.31s
+Episode   726 | Score:  14.0 | Epsilon: 0.026 | Steps: 2310 | Buffer: 1647382 | Time: 14.77s
+Episode   727 | Score:   6.0 | Epsilon: 0.026 | Steps: 3136 | Buffer: 1650518 | Time: 19.97s
+Episode   728 | Score:  13.0 | Epsilon: 0.026 | Steps: 2310 | Buffer: 1652828 | Time: 14.66s
+Episode   729 | Score:  15.0 | Epsilon: 0.026 | Steps: 2376 | Buffer: 1655204 | Time: 15.10s
+Episode   730 | Score:  13.0 | Epsilon: 0.026 | Steps: 2498 | Buffer: 1657702 | Time: 15.80s
+Episode   731 | Score:  14.0 | Epsilon: 0.025 | Steps: 2334 | Buffer: 1660036 | Time: 14.79s
+Episode   732 | Score:  17.0 | Epsilon: 0.025 | Steps: 2098 | Buffer: 1662134 | Time: 13.39s
+Episode   733 | Score:  17.0 | Epsilon: 0.025 | Steps: 2033 | Buffer: 1664167 | Time: 12.88s
+Episode   734 | Score:  13.0 | Epsilon: 0.025 | Steps: 2307 | Buffer: 1666474 | Time: 14.68s
+Episode   735 | Score:  18.0 | Epsilon: 0.025 | Steps: 2004 | Buffer: 1668478 | Time: 12.66s
+Episode   736 | Score:  17.0 | Epsilon: 0.025 | Steps: 2084 | Buffer: 1670562 | Time: 13.24s
+Episode   737 | Score:  17.0 | Epsilon: 0.025 | Steps: 2313 | Buffer: 1672875 | Time: 14.68s
+Episode   738 | Score:  13.0 | Epsilon: 0.025 | Steps: 2276 | Buffer: 1675151 | Time: 14.48s
+Episode   739 | Score:  17.0 | Epsilon: 0.024 | Steps: 1985 | Buffer: 1677136 | Time: 12.59s
+Episode   740 | Score:  16.0 | Epsilon: 0.024 | Steps: 1983 | Buffer: 1679119 | Time: 12.62s
+Episode   741 | Score:  21.0 | Epsilon: 0.024 | Steps: 1685 | Buffer: 1680804 | Time: 10.71s
+Episode   742 | Score:  11.0 | Epsilon: 0.024 | Steps: 2767 | Buffer: 1683571 | Time: 17.55s
+Episode   743 | Score:  15.0 | Epsilon: 0.024 | Steps: 2317 | Buffer: 1685888 | Time: 14.75s
+Episode   744 | Score:  17.0 | Epsilon: 0.024 | Steps: 1890 | Buffer: 1687778 | Time: 11.96s
+Episode   745 | Score:   7.0 | Epsilon: 0.024 | Steps: 3221 | Buffer: 1690999 | Time: 20.41s
+Episode   746 | Score:  16.0 | Epsilon: 0.024 | Steps: 2196 | Buffer: 1693195 | Time: 13.95s
+Episode   747 | Score:  18.0 | Epsilon: 0.024 | Steps: 2006 | Buffer: 1695201 | Time: 12.67s
+Episode   748 | Score:   7.0 | Epsilon: 0.023 | Steps: 3165 | Buffer: 1698366 | Time: 20.04s
+Episode   749 | Score:  10.0 | Epsilon: 0.023 | Steps: 2759 | Buffer: 1701125 | Time: 17.48s
+Episode   750 | Score:  17.0 | Epsilon: 0.023 | Steps: 2254 | Buffer: 1703379 | Time: 14.24s
+Episode   751 | Score:  16.0 | Epsilon: 0.023 | Steps: 2152 | Buffer: 1705531 | Time: 13.78s
+Episode   752 | Score:  11.0 | Epsilon: 0.023 | Steps: 2908 | Buffer: 1708439 | Time: 18.46s
+Episode   753 | Score:  17.0 | Epsilon: 0.023 | Steps: 2062 | Buffer: 1710501 | Time: 13.09s
+Episode   754 | Score:  16.0 | Epsilon: 0.023 | Steps: 2190 | Buffer: 1712691 | Time: 13.86s
+Episode   755 | Score:  15.0 | Epsilon: 0.023 | Steps: 2115 | Buffer: 1714806 | Time: 13.51s
+Episode   756 | Score:  14.0 | Epsilon: 0.022 | Steps: 2424 | Buffer: 1717230 | Time: 15.37s
+Episode   757 | Score:  17.0 | Epsilon: 0.022 | Steps: 2225 | Buffer: 1719455 | Time: 14.07s
+Episode   758 | Score:  12.0 | Epsilon: 0.022 | Steps: 2569 | Buffer: 1722024 | Time: 16.34s
+Episode   759 | Score:  21.0 | Epsilon: 0.022 | Steps: 1780 | Buffer: 1723804 | Time: 11.33s
+Episode   760 | Score:  12.0 | Epsilon: 0.022 | Steps: 2853 | Buffer: 1726657 | Time: 18.24s
+Episode   761 | Score:  13.0 | Epsilon: 0.022 | Steps: 2329 | Buffer: 1728986 | Time: 14.79s
+Episode   762 | Score:   9.0 | Epsilon: 0.022 | Steps: 2799 | Buffer: 1731785 | Time: 17.85s
+Episode   763 | Score:  11.0 | Epsilon: 0.022 | Steps: 3054 | Buffer: 1734839 | Time: 19.46s
+Episode   764 | Score:  14.0 | Epsilon: 0.022 | Steps: 2597 | Buffer: 1737436 | Time: 16.41s
+Episode   765 | Score:   7.0 | Epsilon: 0.022 | Steps: 2601 | Buffer: 1740037 | Time: 16.46s
+Episode   766 | Score:  18.0 | Epsilon: 0.021 | Steps: 2178 | Buffer: 1742215 | Time: 13.77s
+Episode   767 | Score:  15.0 | Epsilon: 0.021 | Steps: 2562 | Buffer: 1744777 | Time: 16.23s
+Episode   768 | Score:  13.0 | Epsilon: 0.021 | Steps: 2378 | Buffer: 1747155 | Time: 15.19s
+Episode   769 | Score:  16.0 | Epsilon: 0.021 | Steps: 2357 | Buffer: 1749512 | Time: 14.91s
+Episode   770 | Score:  17.0 | Epsilon: 0.021 | Steps: 2311 | Buffer: 1751823 | Time: 14.57s
+Episode   771 | Score:  14.0 | Epsilon: 0.021 | Steps: 2337 | Buffer: 1754160 | Time: 14.76s
+Episode   772 | Score:  13.0 | Epsilon: 0.021 | Steps: 2350 | Buffer: 1756510 | Time: 14.84s
+Episode   773 | Score:   8.0 | Epsilon: 0.021 | Steps: 3095 | Buffer: 1759605 | Time: 19.54s
+Episode   774 | Score:   9.0 | Epsilon: 0.021 | Steps: 2820 | Buffer: 1762425 | Time: 17.91s
+Episode   775 | Score:  12.0 | Epsilon: 0.020 | Steps: 2696 | Buffer: 1765121 | Time: 17.02s
+Episode   776 | Score:  20.0 | Epsilon: 0.020 | Steps: 1727 | Buffer: 1766848 | Time: 10.95s
+Episode   777 | Score:  16.0 | Epsilon: 0.020 | Steps: 2050 | Buffer: 1768898 | Time: 13.01s
+Episode   778 | Score:  14.0 | Epsilon: 0.020 | Steps: 2457 | Buffer: 1771355 | Time: 15.64s
+Episode   779 | Score:  16.0 | Epsilon: 0.020 | Steps: 2251 | Buffer: 1773606 | Time: 14.24s
+Episode   780 | Score:  16.0 | Epsilon: 0.020 | Steps: 2145 | Buffer: 1775751 | Time: 13.66s
+Episode   781 | Score:  11.0 | Epsilon: 0.020 | Steps: 2574 | Buffer: 1778325 | Time: 16.22s
+Episode   782 | Score:  13.0 | Epsilon: 0.020 | Steps: 2310 | Buffer: 1780635 | Time: 14.69s
+Episode   783 | Score:  11.0 | Epsilon: 0.020 | Steps: 2672 | Buffer: 1783307 | Time: 16.99s
+Episode   784 | Score:  17.0 | Epsilon: 0.020 | Steps: 2331 | Buffer: 1785638 | Time: 14.74s
+Episode   785 | Score:  16.0 | Epsilon: 0.020 | Steps: 2111 | Buffer: 1787749 | Time: 13.50s
+Episode   786 | Score:  16.0 | Epsilon: 0.020 | Steps: 2381 | Buffer: 1790130 | Time: 15.21s
+Episode   787 | Score:  17.0 | Epsilon: 0.020 | Steps: 2132 | Buffer: 1792262 | Time: 13.47s
+Episode   788 | Score:  11.0 | Epsilon: 0.020 | Steps: 2626 | Buffer: 1794888 | Time: 16.56s
+Episode   789 | Score:   8.0 | Epsilon: 0.020 | Steps: 2887 | Buffer: 1797775 | Time: 18.24s
+Episode   790 | Score:  14.0 | Epsilon: 0.020 | Steps: 2556 | Buffer: 1800331 | Time: 16.21s
+Episode   791 | Score:  16.0 | Epsilon: 0.020 | Steps: 2277 | Buffer: 1802608 | Time: 14.45s
+Episode   792 | Score:  15.0 | Epsilon: 0.020 | Steps: 2367 | Buffer: 1804975 | Time: 15.06s
+Episode   793 | Score:  19.0 | Epsilon: 0.020 | Steps: 2043 | Buffer: 1807018 | Time: 12.96s
+Episode   794 | Score:   5.0 | Epsilon: 0.020 | Steps: 2938 | Buffer: 1809956 | Time: 18.63s
+Episode   795 | Score:  15.0 | Epsilon: 0.020 | Steps: 2421 | Buffer: 1812377 | Time: 15.36s
+Episode   796 | Score:   8.0 | Epsilon: 0.020 | Steps: 3039 | Buffer: 1815416 | Time: 19.33s
+Episode   797 | Score:  13.0 | Epsilon: 0.020 | Steps: 2429 | Buffer: 1817845 | Time: 15.40s
+Episode   798 | Score:  16.0 | Epsilon: 0.020 | Steps: 2008 | Buffer: 1819853 | Time: 12.80s
+Episode   799 | Score:  10.0 | Epsilon: 0.020 | Steps: 2774 | Buffer: 1822627 | Time: 17.62s
+--> สำรอง Checkpoint ที่ Episode 800 เรียบร้อย
+Episode   800 | Score:  15.0 | Epsilon: 0.020 | Steps: 2336 | Buffer: 1824963 | Time: 14.78s
+Episode   801 | Score:  15.0 | Epsilon: 0.020 | Steps: 2375 | Buffer: 1827338 | Time: 15.17s
+Episode   802 | Score:   7.0 | Epsilon: 0.020 | Steps: 3093 | Buffer: 1830431 | Time: 19.60s
+Episode   803 | Score:  16.0 | Epsilon: 0.020 | Steps: 2246 | Buffer: 1832677 | Time: 14.18s
+Episode   804 | Score:  13.0 | Epsilon: 0.020 | Steps: 2433 | Buffer: 1835110 | Time: 15.50s
+Episode   805 | Score:  17.0 | Epsilon: 0.020 | Steps: 2149 | Buffer: 1837259 | Time: 13.72s
+Episode   806 | Score:  14.0 | Epsilon: 0.020 | Steps: 2906 | Buffer: 1840165 | Time: 18.48s
+Episode   807 | Score:  10.0 | Epsilon: 0.020 | Steps: 2609 | Buffer: 1842774 | Time: 16.63s
+Episode   808 | Score:  18.0 | Epsilon: 0.020 | Steps: 1827 | Buffer: 1844601 | Time: 11.61s
+Episode   809 | Score:  14.0 | Epsilon: 0.020 | Steps: 2510 | Buffer: 1847111 | Time: 15.87s
+Episode   810 | Score:  19.0 | Epsilon: 0.020 | Steps: 2043 | Buffer: 1849154 | Time: 13.02s
+Episode   811 | Score:   7.0 | Epsilon: 0.020 | Steps: 2791 | Buffer: 1851945 | Time: 17.74s
+Episode   812 | Score:  18.0 | Epsilon: 0.020 | Steps: 2139 | Buffer: 1854084 | Time: 13.59s
+Episode   813 | Score:  14.0 | Epsilon: 0.020 | Steps: 2480 | Buffer: 1856564 | Time: 15.76s
+Episode   814 | Score:  11.0 | Epsilon: 0.020 | Steps: 2794 | Buffer: 1859358 | Time: 17.78s
+Episode   815 | Score:  17.0 | Epsilon: 0.020 | Steps: 2229 | Buffer: 1861587 | Time: 14.18s
+Episode   816 | Score:  16.0 | Epsilon: 0.020 | Steps: 2358 | Buffer: 1863945 | Time: 15.02s
+Episode   817 | Score:  12.0 | Epsilon: 0.020 | Steps: 2610 | Buffer: 1866555 | Time: 16.57s
+Episode   818 | Score:  16.0 | Epsilon: 0.020 | Steps: 2152 | Buffer: 1868707 | Time: 13.70s
+Episode   819 | Score:  15.0 | Epsilon: 0.020 | Steps: 2204 | Buffer: 1870911 | Time: 14.04s
+Episode   820 | Score:  14.0 | Epsilon: 0.020 | Steps: 2423 | Buffer: 1873334 | Time: 15.38s
+Episode   821 | Score:  11.0 | Epsilon: 0.020 | Steps: 2385 | Buffer: 1875719 | Time: 15.09s
+Episode   822 | Score:  18.0 | Epsilon: 0.020 | Steps: 1886 | Buffer: 1877605 | Time: 11.94s
+Episode   823 | Score:  18.0 | Epsilon: 0.020 | Steps: 2004 | Buffer: 1879609 | Time: 12.75s
+Episode   824 | Score:  19.0 | Epsilon: 0.020 | Steps: 1977 | Buffer: 1881586 | Time: 12.65s
+Episode   825 | Score:  11.0 | Epsilon: 0.020 | Steps: 2482 | Buffer: 1884068 | Time: 15.82s
+Episode   826 | Score:  16.0 | Epsilon: 0.020 | Steps: 2220 | Buffer: 1886288 | Time: 14.17s
+Episode   827 | Score:  18.0 | Epsilon: 0.020 | Steps: 2033 | Buffer: 1888321 | Time: 13.06s
+Episode   828 | Score:  18.0 | Epsilon: 0.020 | Steps: 2097 | Buffer: 1890418 | Time: 13.25s
+Episode   829 | Score:  16.0 | Epsilon: 0.020 | Steps: 2118 | Buffer: 1892536 | Time: 13.46s
+Episode   830 | Score:  14.0 | Epsilon: 0.020 | Steps: 2646 | Buffer: 1895182 | Time: 16.77s
+Episode   831 | Score:  16.0 | Epsilon: 0.020 | Steps: 2014 | Buffer: 1897196 | Time: 12.73s
+Episode   832 | Score:  16.0 | Epsilon: 0.020 | Steps: 2209 | Buffer: 1899405 | Time: 14.06s
+Episode   833 | Score:  14.0 | Epsilon: 0.020 | Steps: 2288 | Buffer: 1901693 | Time: 14.55s
+Episode   834 | Score:  12.0 | Epsilon: 0.020 | Steps: 2385 | Buffer: 1904078 | Time: 15.01s
+Episode   835 | Score:  12.0 | Epsilon: 0.020 | Steps: 2704 | Buffer: 1906782 | Time: 17.11s
+Episode   836 | Score:  12.0 | Epsilon: 0.020 | Steps: 2813 | Buffer: 1909595 | Time: 17.90s
+Episode   837 | Score:  15.0 | Epsilon: 0.020 | Steps: 2200 | Buffer: 1911795 | Time: 14.06s
+Episode   838 | Score:   8.0 | Epsilon: 0.020 | Steps: 2969 | Buffer: 1914764 | Time: 18.91s
+Episode   839 | Score:  19.0 | Epsilon: 0.020 | Steps: 1815 | Buffer: 1916579 | Time: 11.50s
+Episode   840 | Score:  12.0 | Epsilon: 0.020 | Steps: 2453 | Buffer: 1919032 | Time: 15.49s
+Episode   841 | Score:  11.0 | Epsilon: 0.020 | Steps: 2539 | Buffer: 1921571 | Time: 16.37s
+Episode   842 | Score:  15.0 | Epsilon: 0.020 | Steps: 2420 | Buffer: 1923991 | Time: 15.49s
+Episode   843 | Score:  17.0 | Epsilon: 0.020 | Steps: 1988 | Buffer: 1925979 | Time: 12.72s
+Episode   844 | Score:  19.0 | Epsilon: 0.020 | Steps: 1930 | Buffer: 1927909 | Time: 12.42s
+Episode   845 | Score:  16.0 | Epsilon: 0.020 | Steps: 2397 | Buffer: 1930306 | Time: 15.27s
+Episode   846 | Score:  11.0 | Epsilon: 0.020 | Steps: 2571 | Buffer: 1932877 | Time: 16.47s
+Episode   847 | Score:   9.0 | Epsilon: 0.020 | Steps: 2457 | Buffer: 1935334 | Time: 15.61s
+Episode   848 | Score:  15.0 | Epsilon: 0.020 | Steps: 2280 | Buffer: 1937614 | Time: 14.55s
+Episode   849 | Score:  18.0 | Epsilon: 0.020 | Steps: 2144 | Buffer: 1939758 | Time: 13.70s
+Episode   850 | Score:  11.0 | Epsilon: 0.020 | Steps: 2579 | Buffer: 1942337 | Time: 16.50s
+Episode   851 | Score:  15.0 | Epsilon: 0.020 | Steps: 2183 | Buffer: 1944520 | Time: 13.92s
+Episode   852 | Score:  14.0 | Epsilon: 0.020 | Steps: 2564 | Buffer: 1947084 | Time: 16.28s
+Episode   853 | Score:   6.0 | Epsilon: 0.020 | Steps: 3235 | Buffer: 1950319 | Time: 20.61s
+Episode   854 | Score:   9.0 | Epsilon: 0.020 | Steps: 2532 | Buffer: 1952851 | Time: 16.13s
+Episode   855 | Score:  10.0 | Epsilon: 0.020 | Steps: 2947 | Buffer: 1955798 | Time: 18.73s
+Episode   856 | Score:  14.0 | Epsilon: 0.020 | Steps: 2385 | Buffer: 1958183 | Time: 15.16s
+Episode   857 | Score:  12.0 | Epsilon: 0.020 | Steps: 2348 | Buffer: 1960531 | Time: 14.87s
+Episode   858 | Score:  13.0 | Epsilon: 0.020 | Steps: 2516 | Buffer: 1963047 | Time: 16.00s
+Episode   859 | Score:  20.0 | Epsilon: 0.020 | Steps: 1708 | Buffer: 1964755 | Time: 10.95s
+Episode   860 | Score:  14.0 | Epsilon: 0.020 | Steps: 2594 | Buffer: 1967349 | Time: 16.46s
+Episode   861 | Score:  15.0 | Epsilon: 0.020 | Steps: 2374 | Buffer: 1969723 | Time: 15.15s
+Episode   862 | Score:  15.0 | Epsilon: 0.020 | Steps: 2144 | Buffer: 1971867 | Time: 13.62s
+Episode   863 | Score:  16.0 | Epsilon: 0.020 | Steps: 2284 | Buffer: 1974151 | Time: 14.55s
+Episode   864 | Score:  17.0 | Epsilon: 0.020 | Steps: 2011 | Buffer: 1976162 | Time: 12.80s
+Episode   865 | Score:  20.0 | Epsilon: 0.020 | Steps: 1787 | Buffer: 1977949 | Time: 11.35s
+Episode   866 | Score:  16.0 | Epsilon: 0.020 | Steps: 2199 | Buffer: 1980148 | Time: 13.99s
+Episode   867 | Score:  16.0 | Epsilon: 0.020 | Steps: 2368 | Buffer: 1982516 | Time: 14.97s
+Episode   868 | Score:  19.0 | Epsilon: 0.020 | Steps: 1968 | Buffer: 1984484 | Time: 12.56s
+Episode   869 | Score:  14.0 | Epsilon: 0.020 | Steps: 2088 | Buffer: 1986572 | Time: 13.22s
+Episode   870 | Score:  12.0 | Epsilon: 0.020 | Steps: 2840 | Buffer: 1989412 | Time: 17.98s
+Episode   871 | Score:  17.0 | Epsilon: 0.020 | Steps: 2168 | Buffer: 1991580 | Time: 13.79s
+Episode   872 | Score:  15.0 | Epsilon: 0.020 | Steps: 2517 | Buffer: 1994097 | Time: 16.02s
+Episode   873 | Score:  17.0 | Epsilon: 0.020 | Steps: 2174 | Buffer: 1996271 | Time: 13.91s
+Episode   874 | Score:  16.0 | Epsilon: 0.020 | Steps: 2205 | Buffer: 1998476 | Time: 13.98s
+Episode   875 | Score:  15.0 | Epsilon: 0.020 | Steps: 2301 | Buffer: 2000777 | Time: 14.64s
+Episode   876 | Score:   9.0 | Epsilon: 0.020 | Steps: 2833 | Buffer: 2003610 | Time: 17.94s
+Episode   877 | Score:   8.0 | Epsilon: 0.020 | Steps: 2625 | Buffer: 2006235 | Time: 16.70s
+Episode   878 | Score:  14.0 | Epsilon: 0.020 | Steps: 2269 | Buffer: 2008504 | Time: 14.38s
+Episode   879 | Score:  14.0 | Epsilon: 0.020 | Steps: 2659 | Buffer: 2011163 | Time: 16.78s
+Episode   880 | Score:  15.0 | Epsilon: 0.020 | Steps: 2251 | Buffer: 2013414 | Time: 14.35s
+Episode   881 | Score:  20.0 | Epsilon: 0.020 | Steps: 1853 | Buffer: 2015267 | Time: 11.82s
+Episode   882 | Score:  20.0 | Epsilon: 0.020 | Steps: 1776 | Buffer: 2017043 | Time: 11.30s
+Episode   883 | Score:  17.0 | Epsilon: 0.020 | Steps: 2143 | Buffer: 2019186 | Time: 13.64s
+Episode   884 | Score:  15.0 | Epsilon: 0.020 | Steps: 2020 | Buffer: 2021206 | Time: 12.90s
+Episode   885 | Score:  17.0 | Epsilon: 0.020 | Steps: 1932 | Buffer: 2023138 | Time: 12.34s
+Episode   886 | Score:  15.0 | Epsilon: 0.020 | Steps: 2322 | Buffer: 2025460 | Time: 14.82s
+Episode   887 | Score:  16.0 | Epsilon: 0.020 | Steps: 2086 | Buffer: 2027546 | Time: 13.63s
+Episode   888 | Score:  18.0 | Epsilon: 0.020 | Steps: 2056 | Buffer: 2029602 | Time: 13.04s
+Episode   889 | Score:  17.0 | Epsilon: 0.020 | Steps: 2065 | Buffer: 2031667 | Time: 13.22s
+Episode   890 | Score:  19.0 | Epsilon: 0.020 | Steps: 1892 | Buffer: 2033559 | Time: 11.98s
+Episode   891 | Score:  12.0 | Epsilon: 0.020 | Steps: 2519 | Buffer: 2036078 | Time: 16.02s
+Episode   892 | Score:  18.0 | Epsilon: 0.020 | Steps: 2101 | Buffer: 2038179 | Time: 13.37s
+Episode   893 | Score:  18.0 | Epsilon: 0.020 | Steps: 2034 | Buffer: 2040213 | Time: 13.00s
+Episode   894 | Score:  16.0 | Epsilon: 0.020 | Steps: 2365 | Buffer: 2042578 | Time: 14.96s
+Episode   895 | Score:   9.0 | Epsilon: 0.020 | Steps: 2395 | Buffer: 2044973 | Time: 15.26s
+Episode   896 | Score:  17.0 | Epsilon: 0.020 | Steps: 2106 | Buffer: 2047079 | Time: 13.38s
+Episode   897 | Score:  14.0 | Epsilon: 0.020 | Steps: 2485 | Buffer: 2049564 | Time: 15.80s
+Episode   898 | Score:  18.0 | Epsilon: 0.020 | Steps: 2129 | Buffer: 2051693 | Time: 13.50s
+Episode   899 | Score:  17.0 | Epsilon: 0.020 | Steps: 2335 | Buffer: 2054028 | Time: 14.82s
+--> สำรอง Checkpoint ที่ Episode 900 เรียบร้อย
+Episode   900 | Score:  17.0 | Epsilon: 0.020 | Steps: 1973 | Buffer: 2056001 | Time: 12.61s
+Episode   901 | Score:  18.0 | Epsilon: 0.020 | Steps: 2002 | Buffer: 2058003 | Time: 12.76s
+Episode   902 | Score:  19.0 | Epsilon: 0.020 | Steps: 2054 | Buffer: 2060057 | Time: 13.01s
+Episode   903 | Score:   8.0 | Epsilon: 0.020 | Steps: 2920 | Buffer: 2062977 | Time: 18.63s
+Episode   904 | Score:  17.0 | Epsilon: 0.020 | Steps: 2053 | Buffer: 2065030 | Time: 13.10s
+Episode   905 | Score:  20.0 | Epsilon: 0.020 | Steps: 1783 | Buffer: 2066813 | Time: 11.46s
+Episode   906 | Score:  20.0 | Epsilon: 0.020 | Steps: 1928 | Buffer: 2068741 | Time: 12.29s
+Episode   907 | Score:  14.0 | Epsilon: 0.020 | Steps: 2524 | Buffer: 2071265 | Time: 16.01s
+Episode   908 | Score:  17.0 | Epsilon: 0.020 | Steps: 2389 | Buffer: 2073654 | Time: 15.27s
+Episode   909 | Score:  11.0 | Epsilon: 0.020 | Steps: 2548 | Buffer: 2076202 | Time: 16.20s
+Episode   910 | Score:  13.0 | Epsilon: 0.020 | Steps: 2303 | Buffer: 2078505 | Time: 14.56s
+Episode   911 | Score:  13.0 | Epsilon: 0.020 | Steps: 2413 | Buffer: 2080918 | Time: 15.35s
+Episode   912 | Score:  18.0 | Epsilon: 0.020 | Steps: 2269 | Buffer: 2083187 | Time: 14.38s
+Episode   913 | Score:  17.0 | Epsilon: 0.020 | Steps: 2140 | Buffer: 2085327 | Time: 13.60s
+Episode   914 | Score:  19.0 | Epsilon: 0.020 | Steps: 2039 | Buffer: 2087366 | Time: 12.96s
+Episode   915 | Score:  15.0 | Epsilon: 0.020 | Steps: 2175 | Buffer: 2089541 | Time: 13.89s
+Episode   916 | Score:  21.0 | Epsilon: 0.020 | Steps: 1782 | Buffer: 2091323 | Time: 11.37s
+Episode   917 | Score:  16.0 | Epsilon: 0.020 | Steps: 2160 | Buffer: 2093483 | Time: 13.71s
+Episode   918 | Score:   8.0 | Epsilon: 0.020 | Steps: 2680 | Buffer: 2096163 | Time: 17.05s
+Episode   919 | Score:   3.0 | Epsilon: 0.020 | Steps: 3267 | Buffer: 2099430 | Time: 20.68s
+Episode   920 | Score:  16.0 | Epsilon: 0.020 | Steps: 2264 | Buffer: 2101694 | Time: 14.49s
+Episode   921 | Score:   8.0 | Epsilon: 0.020 | Steps: 3033 | Buffer: 2104727 | Time: 19.33s
+Episode   922 | Score:  19.0 | Epsilon: 0.020 | Steps: 1847 | Buffer: 2106574 | Time: 11.74s
+Episode   923 | Score:  17.0 | Epsilon: 0.020 | Steps: 2240 | Buffer: 2108814 | Time: 14.27s
+Episode   924 | Score:  16.0 | Epsilon: 0.020 | Steps: 2188 | Buffer: 2111002 | Time: 13.91s
+Episode   925 | Score:  20.0 | Epsilon: 0.020 | Steps: 1814 | Buffer: 2112816 | Time: 11.56s
+Episode   926 | Score:  16.0 | Epsilon: 0.020 | Steps: 2426 | Buffer: 2115242 | Time: 15.50s
+Episode   927 | Score:  16.0 | Epsilon: 0.020 | Steps: 2109 | Buffer: 2117351 | Time: 13.36s
+Episode   928 | Score:  18.0 | Epsilon: 0.020 | Steps: 2337 | Buffer: 2119688 | Time: 14.97s
+Episode   929 | Score:  11.0 | Epsilon: 0.020 | Steps: 2866 | Buffer: 2122554 | Time: 18.22s
+Episode   930 | Score:  18.0 | Epsilon: 0.020 | Steps: 1894 | Buffer: 2124448 | Time: 12.17s
+Episode   931 | Score:  15.0 | Epsilon: 0.020 | Steps: 2243 | Buffer: 2126691 | Time: 14.26s
+Episode   932 | Score:  10.0 | Epsilon: 0.020 | Steps: 2456 | Buffer: 2129147 | Time: 15.65s
+Episode   933 | Score:  19.0 | Epsilon: 0.020 | Steps: 1939 | Buffer: 2131086 | Time: 12.27s
+Episode   934 | Score:   9.0 | Epsilon: 0.020 | Steps: 2939 | Buffer: 2134025 | Time: 18.71s
+Episode   935 | Score:  17.0 | Epsilon: 0.020 | Steps: 2187 | Buffer: 2136212 | Time: 13.88s
+Episode   936 | Score:  17.0 | Epsilon: 0.020 | Steps: 2066 | Buffer: 2138278 | Time: 13.18s
+Episode   937 | Score:  18.0 | Epsilon: 0.020 | Steps: 2233 | Buffer: 2140511 | Time: 14.25s
+Episode   938 | Score:  11.0 | Epsilon: 0.020 | Steps: 2519 | Buffer: 2143030 | Time: 16.07s
+Episode   939 | Score:  13.0 | Epsilon: 0.020 | Steps: 2359 | Buffer: 2145389 | Time: 15.19s
+Episode   940 | Score:  12.0 | Epsilon: 0.020 | Steps: 2659 | Buffer: 2148048 | Time: 17.07s
+Episode   941 | Score:  19.0 | Epsilon: 0.020 | Steps: 2048 | Buffer: 2150096 | Time: 13.12s
+Episode   942 | Score:  10.0 | Epsilon: 0.020 | Steps: 2513 | Buffer: 2152609 | Time: 16.03s
+Episode   943 | Score:  13.0 | Epsilon: 0.020 | Steps: 2456 | Buffer: 2155065 | Time: 15.64s
+Episode   944 | Score:  17.0 | Epsilon: 0.020 | Steps: 2130 | Buffer: 2157195 | Time: 13.58s
+Episode   945 | Score:  18.0 | Epsilon: 0.020 | Steps: 1891 | Buffer: 2159086 | Time: 12.10s
+Episode   946 | Score:  17.0 | Epsilon: 0.020 | Steps: 2176 | Buffer: 2161262 | Time: 13.86s
+Episode   947 | Score:  17.0 | Epsilon: 0.020 | Steps: 1850 | Buffer: 2163112 | Time: 11.84s
+Episode   948 | Score:  14.0 | Epsilon: 0.020 | Steps: 2393 | Buffer: 2165505 | Time: 15.27s
+Episode   949 | Score:  15.0 | Epsilon: 0.020 | Steps: 2225 | Buffer: 2167730 | Time: 14.14s
+Episode   950 | Score:  15.0 | Epsilon: 0.020 | Steps: 2450 | Buffer: 2170180 | Time: 15.59s
+Episode   951 | Score:  15.0 | Epsilon: 0.020 | Steps: 2278 | Buffer: 2172458 | Time: 14.44s
+Episode   952 | Score:  15.0 | Epsilon: 0.020 | Steps: 2435 | Buffer: 2174893 | Time: 15.49s
+Episode   953 | Score:  14.0 | Epsilon: 0.020 | Steps: 2385 | Buffer: 2177278 | Time: 15.22s
+Episode   954 | Score:   7.0 | Epsilon: 0.020 | Steps: 3046 | Buffer: 2180324 | Time: 19.38s
+Episode   955 | Score:  17.0 | Epsilon: 0.020 | Steps: 2090 | Buffer: 2182414 | Time: 13.27s
+Episode   956 | Score:  21.0 | Epsilon: 0.020 | Steps: 1698 | Buffer: 2184112 | Time: 10.75s
+Episode   957 | Score:  16.0 | Epsilon: 0.020 | Steps: 2192 | Buffer: 2186304 | Time: 13.95s
+Episode   958 | Score:  19.0 | Epsilon: 0.020 | Steps: 1820 | Buffer: 2188124 | Time: 11.64s
+Episode   959 | Score:   9.0 | Epsilon: 0.020 | Steps: 2559 | Buffer: 2190683 | Time: 16.27s
+Episode   960 | Score:   7.0 | Epsilon: 0.020 | Steps: 2895 | Buffer: 2193578 | Time: 18.40s
+Episode   961 | Score:  19.0 | Epsilon: 0.020 | Steps: 1970 | Buffer: 2195548 | Time: 12.55s
+Episode   962 | Score:  11.0 | Epsilon: 0.020 | Steps: 2540 | Buffer: 2198088 | Time: 16.19s
+Episode   963 | Score:  15.0 | Epsilon: 0.020 | Steps: 2339 | Buffer: 2200427 | Time: 14.88s
+Episode   964 | Score:  19.0 | Epsilon: 0.020 | Steps: 1808 | Buffer: 2202235 | Time: 11.56s
+Episode   965 | Score:  12.0 | Epsilon: 0.020 | Steps: 2420 | Buffer: 2204655 | Time: 15.37s
+Episode   966 | Score:  14.0 | Epsilon: 0.020 | Steps: 2478 | Buffer: 2207133 | Time: 15.87s
+Episode   967 | Score:  18.0 | Epsilon: 0.020 | Steps: 1909 | Buffer: 2209042 | Time: 12.07s
+Episode   968 | Score:  17.0 | Epsilon: 0.020 | Steps: 2090 | Buffer: 2211132 | Time: 13.30s
+Episode   969 | Score:  14.0 | Epsilon: 0.020 | Steps: 2333 | Buffer: 2213465 | Time: 14.86s
+Episode   970 | Score:  14.0 | Epsilon: 0.020 | Steps: 2394 | Buffer: 2215859 | Time: 15.18s
+Episode   971 | Score:  18.0 | Epsilon: 0.020 | Steps: 2071 | Buffer: 2217930 | Time: 13.24s
+Episode   972 | Score:  19.0 | Epsilon: 0.020 | Steps: 1919 | Buffer: 2219849 | Time: 12.17s
+Episode   973 | Score:  13.0 | Epsilon: 0.020 | Steps: 2466 | Buffer: 2222315 | Time: 15.71s
+Episode   974 | Score:  14.0 | Epsilon: 0.020 | Steps: 2164 | Buffer: 2224479 | Time: 13.78s
+Episode   975 | Score:  10.0 | Epsilon: 0.020 | Steps: 2676 | Buffer: 2227155 | Time: 17.03s
+Episode   976 | Score:  19.0 | Epsilon: 0.020 | Steps: 1888 | Buffer: 2229043 | Time: 12.07s
+Episode   977 | Score:  17.0 | Epsilon: 0.020 | Steps: 1998 | Buffer: 2231041 | Time: 12.69s
+Episode   978 | Score:  20.0 | Epsilon: 0.020 | Steps: 1778 | Buffer: 2232819 | Time: 11.38s
+Episode   979 | Score:  19.0 | Epsilon: 0.020 | Steps: 2152 | Buffer: 2234971 | Time: 13.68s
+Episode   980 | Score:  14.0 | Epsilon: 0.020 | Steps: 2639 | Buffer: 2237610 | Time: 16.76s
+Episode   981 | Score:  13.0 | Epsilon: 0.020 | Steps: 2477 | Buffer: 2240087 | Time: 15.74s
+Episode   982 | Score:  19.0 | Epsilon: 0.020 | Steps: 2002 | Buffer: 2242089 | Time: 12.78s
+Episode   983 | Score:  11.0 | Epsilon: 0.020 | Steps: 2567 | Buffer: 2244656 | Time: 16.34s
+Episode   984 | Score:  15.0 | Epsilon: 0.020 | Steps: 2344 | Buffer: 2247000 | Time: 14.92s
+Episode   985 | Score:   7.0 | Epsilon: 0.020 | Steps: 2837 | Buffer: 2249837 | Time: 18.15s
+Episode   986 | Score:  18.0 | Epsilon: 0.020 | Steps: 1879 | Buffer: 2251716 | Time: 12.06s
+Episode   987 | Score:  19.0 | Epsilon: 0.020 | Steps: 1880 | Buffer: 2253596 | Time: 11.96s
+Episode   988 | Score:  12.0 | Epsilon: 0.020 | Steps: 2430 | Buffer: 2256026 | Time: 15.41s
+Episode   989 | Score:  14.0 | Epsilon: 0.020 | Steps: 2262 | Buffer: 2258288 | Time: 14.32s
+Episode   990 | Score:  19.0 | Epsilon: 0.020 | Steps: 1793 | Buffer: 2260081 | Time: 11.48s
+Episode   991 | Score:  17.0 | Epsilon: 0.020 | Steps: 2114 | Buffer: 2262195 | Time: 13.35s
+Episode   992 | Score:  17.0 | Epsilon: 0.020 | Steps: 2061 | Buffer: 2264256 | Time: 13.06s
+Episode   993 | Score:  18.0 | Epsilon: 0.020 | Steps: 1828 | Buffer: 2266084 | Time: 11.69s
+Episode   994 | Score:   9.0 | Epsilon: 0.020 | Steps: 2952 | Buffer: 2269036 | Time: 18.80s
+Episode   995 | Score:  19.0 | Epsilon: 0.020 | Steps: 2057 | Buffer: 2271093 | Time: 13.13s
+Episode   996 | Score:  16.0 | Epsilon: 0.020 | Steps: 2312 | Buffer: 2273405 | Time: 14.58s
+Episode   997 | Score:  15.0 | Epsilon: 0.020 | Steps: 2111 | Buffer: 2275516 | Time: 13.43s
+Episode   998 | Score:  16.0 | Epsilon: 0.020 | Steps: 2014 | Buffer: 2277530 | Time: 12.75s
+Episode   999 | Score:  10.0 | Epsilon: 0.020 | Steps: 2945 | Buffer: 2280475 | Time: 18.71s
+--> สำรอง Checkpoint ที่ Episode 1000 เรียบร้อย
+Episode  1000 | Score:  19.0 | Epsilon: 0.020 | Steps: 1780 | Buffer: 2282255 | Time: 11.25s
+Episode  1001 | Score:  13.0 | Epsilon: 0.020 | Steps: 2506 | Buffer: 2284761 | Time: 15.97s
+Episode  1002 | Score:  14.0 | Epsilon: 0.020 | Steps: 2033 | Buffer: 2286794 | Time: 12.90s
+Episode  1003 | Score:  15.0 | Epsilon: 0.020 | Steps: 2035 | Buffer: 2288829 | Time: 12.89s
+Episode  1004 | Score:  13.0 | Epsilon: 0.020 | Steps: 2441 | Buffer: 2291270 | Time: 15.49s
+Episode  1005 | Score:  17.0 | Epsilon: 0.020 | Steps: 1905 | Buffer: 2293175 | Time: 12.09s
+Episode  1006 | Score:  20.0 | Epsilon: 0.020 | Steps: 1789 | Buffer: 2294964 | Time: 11.38s
+Episode  1007 | Score:  14.0 | Epsilon: 0.020 | Steps: 2421 | Buffer: 2297385 | Time: 15.46s
+Episode  1008 | Score:  18.0 | Epsilon: 0.020 | Steps: 2027 | Buffer: 2299412 | Time: 12.86s
+Episode  1009 | Score:  12.0 | Epsilon: 0.020 | Steps: 2764 | Buffer: 2302176 | Time: 17.56s
+Episode  1010 | Score:  17.0 | Epsilon: 0.020 | Steps: 2049 | Buffer: 2304225 | Time: 13.05s
+Episode  1011 | Score:  16.0 | Epsilon: 0.020 | Steps: 2429 | Buffer: 2306654 | Time: 15.46s
+Episode  1012 | Score:   8.0 | Epsilon: 0.020 | Steps: 3125 | Buffer: 2309779 | Time: 20.01s
+Episode  1013 | Score:  15.0 | Epsilon: 0.020 | Steps: 2149 | Buffer: 2311928 | Time: 13.64s
+Episode  1014 | Score:  13.0 | Epsilon: 0.020 | Steps: 2628 | Buffer: 2314556 | Time: 16.63s
+Episode  1015 | Score:  19.0 | Epsilon: 0.020 | Steps: 1847 | Buffer: 2316403 | Time: 11.73s
+Episode  1016 | Score:   6.0 | Epsilon: 0.020 | Steps: 3363 | Buffer: 2319766 | Time: 21.41s
+Episode  1017 | Score:  17.0 | Epsilon: 0.020 | Steps: 2036 | Buffer: 2321802 | Time: 12.96s
+Episode  1018 | Score:  19.0 | Epsilon: 0.020 | Steps: 1778 | Buffer: 2323580 | Time: 11.32s
+Episode  1019 | Score:  14.0 | Epsilon: 0.020 | Steps: 2602 | Buffer: 2326182 | Time: 16.50s
+Episode  1020 | Score:  17.0 | Epsilon: 0.020 | Steps: 1958 | Buffer: 2328140 | Time: 12.49s
+Episode  1021 | Score:  14.0 | Epsilon: 0.020 | Steps: 2469 | Buffer: 2330609 | Time: 15.60s
+Episode  1022 | Score:  19.0 | Epsilon: 0.020 | Steps: 1988 | Buffer: 2332597 | Time: 12.62s
+Episode  1023 | Score:  17.0 | Epsilon: 0.020 | Steps: 2028 | Buffer: 2334625 | Time: 12.86s
+Episode  1024 | Score:  16.0 | Epsilon: 0.020 | Steps: 2160 | Buffer: 2336785 | Time: 13.73s
+Episode  1025 | Score:  11.0 | Epsilon: 0.020 | Steps: 2524 | Buffer: 2339309 | Time: 15.93s
+Episode  1026 | Score:  16.0 | Epsilon: 0.020 | Steps: 2200 | Buffer: 2341509 | Time: 13.94s
+Episode  1027 | Score:  16.0 | Epsilon: 0.020 | Steps: 2129 | Buffer: 2343638 | Time: 13.54s
+Episode  1028 | Score:  16.0 | Epsilon: 0.020 | Steps: 2421 | Buffer: 2346059 | Time: 15.38s
+Episode  1029 | Score:  17.0 | Epsilon: 0.020 | Steps: 2044 | Buffer: 2348103 | Time: 13.09s
+Episode  1030 | Score:  17.0 | Epsilon: 0.020 | Steps: 2092 | Buffer: 2350195 | Time: 13.58s
+Episode  1031 | Score:  17.0 | Epsilon: 0.020 | Steps: 2027 | Buffer: 2352222 | Time: 13.30s
+Episode  1032 | Score:  14.0 | Epsilon: 0.020 | Steps: 2397 | Buffer: 2354619 | Time: 15.33s
+Episode  1033 | Score:  18.0 | Epsilon: 0.020 | Steps: 1992 | Buffer: 2356611 | Time: 12.65s
+Episode  1034 | Score:  19.0 | Epsilon: 0.020 | Steps: 2040 | Buffer: 2358651 | Time: 12.99s
+Episode  1035 | Score:  18.0 | Epsilon: 0.020 | Steps: 2259 | Buffer: 2360910 | Time: 14.33s
+Episode  1036 | Score:  13.0 | Epsilon: 0.020 | Steps: 2277 | Buffer: 2363187 | Time: 14.45s
+Episode  1037 | Score:  12.0 | Epsilon: 0.020 | Steps: 2547 | Buffer: 2365734 | Time: 16.60s
+Episode  1038 | Score:  16.0 | Epsilon: 0.020 | Steps: 2144 | Buffer: 2367878 | Time: 13.72s
+Episode  1039 | Score:  15.0 | Epsilon: 0.020 | Steps: 2334 | Buffer: 2370212 | Time: 14.86s
+Episode  1040 | Score:  19.0 | Epsilon: 0.020 | Steps: 1909 | Buffer: 2372121 | Time: 12.07s
+Episode  1041 | Score:  20.0 | Epsilon: 0.020 | Steps: 1769 | Buffer: 2373890 | Time: 11.36s
+Episode  1042 | Score:  18.0 | Epsilon: 0.020 | Steps: 1960 | Buffer: 2375850 | Time: 12.49s
+Episode  1043 | Score:  10.0 | Epsilon: 0.020 | Steps: 2728 | Buffer: 2378578 | Time: 17.40s
+Episode  1044 | Score:  16.0 | Epsilon: 0.020 | Steps: 2443 | Buffer: 2381021 | Time: 15.58s
+Episode  1045 | Score:  12.0 | Epsilon: 0.020 | Steps: 2610 | Buffer: 2383631 | Time: 16.65s
+Episode  1046 | Score:  18.0 | Epsilon: 0.020 | Steps: 2012 | Buffer: 2385643 | Time: 12.76s
+Episode  1047 | Score:  20.0 | Epsilon: 0.020 | Steps: 1818 | Buffer: 2387461 | Time: 11.62s
+Episode  1048 | Score:  18.0 | Epsilon: 0.020 | Steps: 2126 | Buffer: 2389587 | Time: 13.48s
+Episode  1049 | Score:  15.0 | Epsilon: 0.020 | Steps: 2166 | Buffer: 2391753 | Time: 13.76s
+Episode  1050 | Score:  15.0 | Epsilon: 0.020 | Steps: 2198 | Buffer: 2393951 | Time: 13.99s
+Episode  1051 | Score:  18.0 | Epsilon: 0.020 | Steps: 1917 | Buffer: 2395868 | Time: 12.26s
+Episode  1052 | Score:  18.0 | Epsilon: 0.020 | Steps: 2152 | Buffer: 2398020 | Time: 13.69s
+Episode  1053 | Score:  10.0 | Epsilon: 0.020 | Steps: 2644 | Buffer: 2400664 | Time: 16.92s
+Episode  1054 | Score:  15.0 | Epsilon: 0.020 | Steps: 2287 | Buffer: 2402951 | Time: 14.62s
+Episode  1055 | Score:  16.0 | Epsilon: 0.020 | Steps: 2324 | Buffer: 2405275 | Time: 14.72s
+Episode  1056 | Score:  20.0 | Epsilon: 0.020 | Steps: 1701 | Buffer: 2406976 | Time: 10.81s
+Episode  1057 | Score:  17.0 | Epsilon: 0.020 | Steps: 2247 | Buffer: 2409223 | Time: 14.25s
+Episode  1058 | Score:  19.0 | Epsilon: 0.020 | Steps: 1851 | Buffer: 2411074 | Time: 11.82s
+Episode  1059 | Score:  19.0 | Epsilon: 0.020 | Steps: 2069 | Buffer: 2413143 | Time: 13.19s
+Episode  1060 | Score:  10.0 | Epsilon: 0.020 | Steps: 2999 | Buffer: 2416142 | Time: 19.02s
+Episode  1061 | Score:  14.0 | Epsilon: 0.020 | Steps: 2524 | Buffer: 2418666 | Time: 16.09s
+Episode  1062 | Score:  15.0 | Epsilon: 0.020 | Steps: 2214 | Buffer: 2420880 | Time: 14.11s
+Episode  1063 | Score:  17.0 | Epsilon: 0.020 | Steps: 2154 | Buffer: 2423034 | Time: 13.70s
+Episode  1064 | Score:  13.0 | Epsilon: 0.020 | Steps: 2509 | Buffer: 2425543 | Time: 15.96s
+Episode  1065 | Score:  18.0 | Epsilon: 0.020 | Steps: 2037 | Buffer: 2427580 | Time: 13.02s
+Episode  1066 | Score:  17.0 | Epsilon: 0.020 | Steps: 2398 | Buffer: 2429978 | Time: 15.36s
+Episode  1067 | Score:   8.0 | Epsilon: 0.020 | Steps: 2881 | Buffer: 2432859 | Time: 18.26s
+Episode  1068 | Score:  18.0 | Epsilon: 0.020 | Steps: 2141 | Buffer: 2435000 | Time: 13.55s
+Episode  1069 | Score:  16.0 | Epsilon: 0.020 | Steps: 2201 | Buffer: 2437201 | Time: 13.96s
+Episode  1070 | Score:   8.0 | Epsilon: 0.020 | Steps: 2958 | Buffer: 2440159 | Time: 18.98s
+Episode  1071 | Score:  11.0 | Epsilon: 0.020 | Steps: 2662 | Buffer: 2442821 | Time: 16.91s
+Episode  1072 | Score:  17.0 | Epsilon: 0.020 | Steps: 2043 | Buffer: 2444864 | Time: 12.98s
+Episode  1073 | Score:   9.0 | Epsilon: 0.020 | Steps: 2330 | Buffer: 2447194 | Time: 14.84s
+Episode  1074 | Score:  14.0 | Epsilon: 0.020 | Steps: 2073 | Buffer: 2449267 | Time: 13.26s
+Episode  1075 | Score:  14.0 | Epsilon: 0.020 | Steps: 2580 | Buffer: 2451847 | Time: 16.38s
+Episode  1076 | Score:  10.0 | Epsilon: 0.020 | Steps: 2635 | Buffer: 2454482 | Time: 16.88s
+Episode  1077 | Score:  20.0 | Epsilon: 0.020 | Steps: 1755 | Buffer: 2456237 | Time: 11.14s
+Episode  1078 | Score:  17.0 | Epsilon: 0.020 | Steps: 2152 | Buffer: 2458389 | Time: 13.66s
+Episode  1079 | Score:  14.0 | Epsilon: 0.020 | Steps: 2436 | Buffer: 2460825 | Time: 15.44s
+Episode  1080 | Score:  21.0 | Epsilon: 0.020 | Steps: 1677 | Buffer: 2462502 | Time: 10.70s
+Episode  1081 | Score:  18.0 | Epsilon: 0.020 | Steps: 2225 | Buffer: 2464727 | Time: 14.19s
+Episode  1082 | Score:  14.0 | Epsilon: 0.020 | Steps: 2438 | Buffer: 2467165 | Time: 15.48s
+Episode  1083 | Score:  18.0 | Epsilon: 0.020 | Steps: 2092 | Buffer: 2469257 | Time: 13.31s
+Episode  1084 | Score:  14.0 | Epsilon: 0.020 | Steps: 2831 | Buffer: 2472088 | Time: 18.02s
+Episode  1085 | Score:  18.0 | Epsilon: 0.020 | Steps: 1905 | Buffer: 2473993 | Time: 12.15s
+Episode  1086 | Score:  20.0 | Epsilon: 0.020 | Steps: 1711 | Buffer: 2475704 | Time: 10.99s
+Episode  1087 | Score:  18.0 | Epsilon: 0.020 | Steps: 2144 | Buffer: 2477848 | Time: 13.70s
+Episode  1088 | Score:  16.0 | Epsilon: 0.020 | Steps: 2313 | Buffer: 2480161 | Time: 14.79s
+Episode  1089 | Score:  16.0 | Epsilon: 0.020 | Steps: 2455 | Buffer: 2482616 | Time: 15.62s
+Episode  1090 | Score:  16.0 | Epsilon: 0.020 | Steps: 2289 | Buffer: 2484905 | Time: 14.68s
+Episode  1091 | Score:  13.0 | Epsilon: 0.020 | Steps: 2473 | Buffer: 2487378 | Time: 15.93s
+Episode  1092 | Score:  16.0 | Epsilon: 0.020 | Steps: 2150 | Buffer: 2489528 | Time: 13.74s
+Episode  1093 | Score:  18.0 | Epsilon: 0.020 | Steps: 1988 | Buffer: 2491516 | Time: 12.76s
+Episode  1094 | Score:  19.0 | Epsilon: 0.020 | Steps: 1880 | Buffer: 2493396 | Time: 11.94s
+Episode  1095 | Score:  15.0 | Epsilon: 0.020 | Steps: 2372 | Buffer: 2495768 | Time: 15.19s
+Episode  1096 | Score:  15.0 | Epsilon: 0.020 | Steps: 2274 | Buffer: 2498042 | Time: 14.47s
+Episode  1097 | Score:  19.0 | Epsilon: 0.020 | Steps: 1822 | Buffer: 2499864 | Time: 11.71s
+Episode  1098 | Score:  18.0 | Epsilon: 0.020 | Steps: 2032 | Buffer: 2501896 | Time: 12.84s
+Episode  1099 | Score:  17.0 | Epsilon: 0.020 | Steps: 2126 | Buffer: 2504022 | Time: 13.53s
+--> สำรอง Checkpoint ที่ Episode 1100 เรียบร้อย
+Episode  1100 | Score:  18.0 | Epsilon: 0.020 | Steps: 2198 | Buffer: 2506220 | Time: 13.95s
+Episode  1101 | Score:  12.0 | Epsilon: 0.020 | Steps: 2485 | Buffer: 2508705 | Time: 15.79s
+Episode  1102 | Score:  17.0 | Epsilon: 0.020 | Steps: 1971 | Buffer: 2510676 | Time: 12.60s
+Episode  1103 | Score:  15.0 | Epsilon: 0.020 | Steps: 2268 | Buffer: 2512944 | Time: 14.55s
+Episode  1104 | Score:  17.0 | Epsilon: 0.020 | Steps: 1940 | Buffer: 2514884 | Time: 12.33s
+Episode  1105 | Score:  10.0 | Epsilon: 0.020 | Steps: 3109 | Buffer: 2517993 | Time: 19.67s
+Episode  1106 | Score:  20.0 | Epsilon: 0.020 | Steps: 1787 | Buffer: 2519780 | Time: 11.45s
+Episode  1107 | Score:  17.0 | Epsilon: 0.020 | Steps: 2015 | Buffer: 2521795 | Time: 12.79s
+Episode  1108 | Score:  19.0 | Epsilon: 0.020 | Steps: 1990 | Buffer: 2523785 | Time: 12.73s
+Episode  1109 | Score:  16.0 | Epsilon: 0.020 | Steps: 2139 | Buffer: 2525924 | Time: 13.66s
+Episode  1110 | Score:  18.0 | Epsilon: 0.020 | Steps: 2049 | Buffer: 2527973 | Time: 13.02s
+Episode  1111 | Score:  11.0 | Epsilon: 0.020 | Steps: 2670 | Buffer: 2530643 | Time: 16.95s
+Episode  1112 | Score:  10.0 | Epsilon: 0.020 | Steps: 2543 | Buffer: 2533186 | Time: 16.29s
+Episode  1113 | Score:  13.0 | Epsilon: 0.020 | Steps: 2373 | Buffer: 2535559 | Time: 15.10s
+Episode  1114 | Score:  20.0 | Epsilon: 0.020 | Steps: 1888 | Buffer: 2537447 | Time: 11.99s
+Episode  1115 | Score:  16.0 | Epsilon: 0.020 | Steps: 2192 | Buffer: 2539639 | Time: 13.90s
+Episode  1116 | Score:  16.0 | Epsilon: 0.020 | Steps: 2076 | Buffer: 2541715 | Time: 13.15s
+Episode  1117 | Score:  15.0 | Epsilon: 0.020 | Steps: 2154 | Buffer: 2543869 | Time: 13.74s
+Episode  1118 | Score:  17.0 | Epsilon: 0.020 | Steps: 2316 | Buffer: 2546185 | Time: 14.67s
+Episode  1119 | Score:  14.0 | Epsilon: 0.020 | Steps: 2589 | Buffer: 2548774 | Time: 16.50s
+Episode  1120 | Score:   8.0 | Epsilon: 0.020 | Steps: 2571 | Buffer: 2551345 | Time: 16.31s
+Episode  1121 | Score:  20.0 | Epsilon: 0.020 | Steps: 1829 | Buffer: 2553174 | Time: 11.61s
+Episode  1122 | Score:  13.0 | Epsilon: 0.020 | Steps: 2197 | Buffer: 2555371 | Time: 13.90s
+Episode  1123 | Score:  16.0 | Epsilon: 0.020 | Steps: 2319 | Buffer: 2557690 | Time: 14.76s
+Episode  1124 | Score:  17.0 | Epsilon: 0.020 | Steps: 2172 | Buffer: 2559862 | Time: 13.83s
+Episode  1125 | Score:  18.0 | Epsilon: 0.020 | Steps: 1984 | Buffer: 2561846 | Time: 12.65s
+Episode  1126 | Score:  13.0 | Epsilon: 0.020 | Steps: 2505 | Buffer: 2564351 | Time: 15.91s
+Episode  1127 | Score:  11.0 | Epsilon: 0.020 | Steps: 2631 | Buffer: 2566982 | Time: 16.72s
+Episode  1128 | Score:  19.0 | Epsilon: 0.020 | Steps: 1851 | Buffer: 2568833 | Time: 11.65s
+Episode  1129 | Score:  16.0 | Epsilon: 0.020 | Steps: 2153 | Buffer: 2570986 | Time: 13.67s
+Episode  1130 | Score:  14.0 | Epsilon: 0.020 | Steps: 2444 | Buffer: 2573430 | Time: 15.56s
+Episode  1131 | Score:  20.0 | Epsilon: 0.020 | Steps: 1788 | Buffer: 2575218 | Time: 11.30s
+Episode  1132 | Score:  17.0 | Epsilon: 0.020 | Steps: 2049 | Buffer: 2577267 | Time: 12.95s
+Episode  1133 | Score:  16.0 | Epsilon: 0.020 | Steps: 2036 | Buffer: 2579303 | Time: 12.86s
+Episode  1134 | Score:  17.0 | Epsilon: 0.020 | Steps: 2079 | Buffer: 2581382 | Time: 13.13s
+Episode  1135 | Score:  17.0 | Epsilon: 0.020 | Steps: 2122 | Buffer: 2583504 | Time: 13.46s
+Episode  1136 | Score:  14.0 | Epsilon: 0.020 | Steps: 2439 | Buffer: 2585943 | Time: 15.52s
+Episode  1137 | Score:  20.0 | Epsilon: 0.020 | Steps: 1798 | Buffer: 2587741 | Time: 11.42s
+Episode  1138 | Score:  19.0 | Epsilon: 0.020 | Steps: 1988 | Buffer: 2589729 | Time: 12.67s
+Episode  1139 | Score:  15.0 | Epsilon: 0.020 | Steps: 2326 | Buffer: 2592055 | Time: 14.78s
+Episode  1140 | Score:  19.0 | Epsilon: 0.020 | Steps: 1978 | Buffer: 2594033 | Time: 12.50s
+Episode  1141 | Score:  16.0 | Epsilon: 0.020 | Steps: 2064 | Buffer: 2596097 | Time: 13.19s
+Episode  1142 | Score:  19.0 | Epsilon: 0.020 | Steps: 1990 | Buffer: 2598087 | Time: 12.59s
+Episode  1143 | Score:  15.0 | Epsilon: 0.020 | Steps: 2381 | Buffer: 2600468 | Time: 15.17s
+Episode  1144 | Score:  15.0 | Epsilon: 0.020 | Steps: 2326 | Buffer: 2602794 | Time: 14.67s
+Episode  1145 | Score:  13.0 | Epsilon: 0.020 | Steps: 2446 | Buffer: 2605240 | Time: 15.63s
+Episode  1146 | Score:  20.0 | Epsilon: 0.020 | Steps: 1837 | Buffer: 2607077 | Time: 11.65s
+Episode  1147 | Score:  19.0 | Epsilon: 0.020 | Steps: 2050 | Buffer: 2609127 | Time: 12.97s
+Episode  1148 | Score:  11.0 | Epsilon: 0.020 | Steps: 2627 | Buffer: 2611754 | Time: 16.69s
+Episode  1149 | Score:  18.0 | Epsilon: 0.020 | Steps: 1921 | Buffer: 2613675 | Time: 12.24s
+Episode  1150 | Score:  20.0 | Epsilon: 0.020 | Steps: 1760 | Buffer: 2615435 | Time: 11.14s
+Episode  1151 | Score:  16.0 | Epsilon: 0.020 | Steps: 2095 | Buffer: 2617530 | Time: 13.30s
+Episode  1152 | Score:  19.0 | Epsilon: 0.020 | Steps: 1739 | Buffer: 2619269 | Time: 11.04s
+Episode  1153 | Score:  15.0 | Epsilon: 0.020 | Steps: 2302 | Buffer: 2621571 | Time: 14.63s
+Episode  1154 | Score:  14.0 | Epsilon: 0.020 | Steps: 2433 | Buffer: 2624004 | Time: 15.45s
+Episode  1155 | Score:  15.0 | Epsilon: 0.020 | Steps: 2326 | Buffer: 2626330 | Time: 14.78s
+Episode  1156 | Score:  13.0 | Epsilon: 0.020 | Steps: 2250 | Buffer: 2628580 | Time: 14.35s
+Episode  1157 | Score:  13.0 | Epsilon: 0.020 | Steps: 2704 | Buffer: 2631284 | Time: 17.19s
+Episode  1158 | Score:  14.0 | Epsilon: 0.020 | Steps: 2095 | Buffer: 2633379 | Time: 13.36s
+Episode  1159 | Score:  20.0 | Epsilon: 0.020 | Steps: 1858 | Buffer: 2635237 | Time: 11.77s
+Episode  1160 | Score:  12.0 | Epsilon: 0.020 | Steps: 2837 | Buffer: 2638074 | Time: 17.99s
+Episode  1161 | Score:  17.0 | Epsilon: 0.020 | Steps: 2014 | Buffer: 2640088 | Time: 12.76s
+Episode  1162 | Score:  18.0 | Epsilon: 0.020 | Steps: 2144 | Buffer: 2642232 | Time: 13.61s
+Episode  1163 | Score:  15.0 | Epsilon: 0.020 | Steps: 2125 | Buffer: 2644357 | Time: 13.44s
+Episode  1164 | Score:  17.0 | Epsilon: 0.020 | Steps: 2008 | Buffer: 2646365 | Time: 12.78s
+Episode  1165 | Score:  17.0 | Epsilon: 0.020 | Steps: 1965 | Buffer: 2648330 | Time: 12.55s
+Episode  1166 | Score:  15.0 | Epsilon: 0.020 | Steps: 2138 | Buffer: 2650468 | Time: 13.54s
+Episode  1167 | Score:  18.0 | Epsilon: 0.020 | Steps: 2093 | Buffer: 2652561 | Time: 13.31s
+Episode  1168 | Score:  19.0 | Epsilon: 0.020 | Steps: 1869 | Buffer: 2654430 | Time: 11.85s
+Episode  1169 | Score:  18.0 | Epsilon: 0.020 | Steps: 1942 | Buffer: 2656372 | Time: 12.21s
+Episode  1170 | Score:  17.0 | Epsilon: 0.020 | Steps: 1991 | Buffer: 2658363 | Time: 12.57s
+Episode  1171 | Score:  13.0 | Epsilon: 0.020 | Steps: 2273 | Buffer: 2660636 | Time: 14.48s
+Episode  1172 | Score:  16.0 | Epsilon: 0.020 | Steps: 2136 | Buffer: 2662772 | Time: 13.62s
+Episode  1173 | Score:  20.0 | Epsilon: 0.020 | Steps: 1930 | Buffer: 2664702 | Time: 12.21s
+Episode  1174 | Score:  17.0 | Epsilon: 0.020 | Steps: 1976 | Buffer: 2666678 | Time: 12.50s
+Episode  1175 | Score:  19.0 | Epsilon: 0.020 | Steps: 1769 | Buffer: 2668447 | Time: 11.14s
+Episode  1176 | Score:  17.0 | Epsilon: 0.020 | Steps: 2074 | Buffer: 2670521 | Time: 13.28s
+Episode  1177 | Score:  18.0 | Epsilon: 0.020 | Steps: 1912 | Buffer: 2672433 | Time: 12.16s
+Episode  1178 | Score:  13.0 | Epsilon: 0.020 | Steps: 2465 | Buffer: 2674898 | Time: 15.69s
+Episode  1179 | Score:  18.0 | Epsilon: 0.020 | Steps: 2062 | Buffer: 2676960 | Time: 13.09s
+Episode  1180 | Score:  15.0 | Epsilon: 0.020 | Steps: 2190 | Buffer: 2679150 | Time: 13.81s
+Episode  1181 | Score:  16.0 | Epsilon: 0.020 | Steps: 2258 | Buffer: 2681408 | Time: 14.36s
+Episode  1182 | Score:  17.0 | Epsilon: 0.020 | Steps: 2050 | Buffer: 2683458 | Time: 13.04s
+Episode  1183 | Score:  10.0 | Epsilon: 0.020 | Steps: 2657 | Buffer: 2686115 | Time: 16.89s
+Episode  1184 | Score:  14.0 | Epsilon: 0.020 | Steps: 2504 | Buffer: 2688619 | Time: 15.84s
+Episode  1185 | Score:  14.0 | Epsilon: 0.020 | Steps: 2883 | Buffer: 2691502 | Time: 18.16s
+Episode  1186 | Score:  19.0 | Epsilon: 0.020 | Steps: 1873 | Buffer: 2693375 | Time: 11.92s
+Episode  1187 | Score:  17.0 | Epsilon: 0.020 | Steps: 1998 | Buffer: 2695373 | Time: 12.70s
+Episode  1188 | Score:  17.0 | Epsilon: 0.020 | Steps: 2038 | Buffer: 2697411 | Time: 12.95s
+Episode  1189 | Score:  14.0 | Epsilon: 0.020 | Steps: 2110 | Buffer: 2699521 | Time: 13.46s
+Episode  1190 | Score:  16.0 | Epsilon: 0.020 | Steps: 2054 | Buffer: 2701575 | Time: 13.06s
+Episode  1191 | Score:  17.0 | Epsilon: 0.020 | Steps: 2114 | Buffer: 2703689 | Time: 13.36s
+Episode  1192 | Score:  20.0 | Epsilon: 0.020 | Steps: 2029 | Buffer: 2705718 | Time: 12.85s
+Episode  1193 | Score:  18.0 | Epsilon: 0.020 | Steps: 1893 | Buffer: 2707611 | Time: 11.96s
+Episode  1194 | Score:  15.0 | Epsilon: 0.020 | Steps: 2317 | Buffer: 2709928 | Time: 14.68s
+Episode  1195 | Score:  19.0 | Epsilon: 0.020 | Steps: 1990 | Buffer: 2711918 | Time: 12.60s
+Episode  1196 | Score:  16.0 | Epsilon: 0.020 | Steps: 2261 | Buffer: 2714179 | Time: 14.36s
+Episode  1197 | Score:  18.0 | Epsilon: 0.020 | Steps: 1977 | Buffer: 2716156 | Time: 12.61s
+Episode  1198 | Score:  20.0 | Epsilon: 0.020 | Steps: 1773 | Buffer: 2717929 | Time: 11.26s
+Episode  1199 | Score:  14.0 | Epsilon: 0.020 | Steps: 2204 | Buffer: 2720133 | Time: 13.99s
+--> สำรอง Checkpoint ที่ Episode 1200 เรียบร้อย
+Episode  1200 | Score:  19.0 | Epsilon: 0.020 | Steps: 1823 | Buffer: 2721956 | Time: 11.64s
+Episode  1201 | Score:   9.0 | Epsilon: 0.020 | Steps: 2612 | Buffer: 2724568 | Time: 16.46s
+Episode  1202 | Score:  14.0 | Epsilon: 0.020 | Steps: 2514 | Buffer: 2727082 | Time: 15.98s
+Episode  1203 | Score:  16.0 | Epsilon: 0.020 | Steps: 2112 | Buffer: 2729194 | Time: 13.40s
+Episode  1204 | Score:  20.0 | Epsilon: 0.020 | Steps: 1927 | Buffer: 2731121 | Time: 12.24s
+Episode  1205 | Score:  16.0 | Epsilon: 0.020 | Steps: 2185 | Buffer: 2733306 | Time: 13.75s
+Episode  1206 | Score:  12.0 | Epsilon: 0.020 | Steps: 2535 | Buffer: 2735841 | Time: 16.13s
+Episode  1207 | Score:  15.0 | Epsilon: 0.020 | Steps: 2355 | Buffer: 2738196 | Time: 14.86s
+Episode  1208 | Score:  15.0 | Epsilon: 0.020 | Steps: 2116 | Buffer: 2740312 | Time: 13.48s
+Episode  1209 | Score:  19.0 | Epsilon: 0.020 | Steps: 1782 | Buffer: 2742094 | Time: 11.32s
+Episode  1210 | Score:  16.0 | Epsilon: 0.020 | Steps: 2265 | Buffer: 2744359 | Time: 14.26s
+Episode  1211 | Score:  17.0 | Epsilon: 0.020 | Steps: 2034 | Buffer: 2746393 | Time: 12.90s
+Episode  1212 | Score:   6.0 | Epsilon: 0.020 | Steps: 2994 | Buffer: 2749387 | Time: 18.91s
+Episode  1213 | Score:  19.0 | Epsilon: 0.020 | Steps: 1863 | Buffer: 2751250 | Time: 11.81s
+Episode  1214 | Score:  20.0 | Epsilon: 0.020 | Steps: 1757 | Buffer: 2753007 | Time: 11.15s
+Episode  1215 | Score:  15.0 | Epsilon: 0.020 | Steps: 2330 | Buffer: 2755337 | Time: 14.84s
+Episode  1216 | Score:  12.0 | Epsilon: 0.020 | Steps: 2495 | Buffer: 2757832 | Time: 15.72s
+Episode  1217 | Score:  17.0 | Epsilon: 0.020 | Steps: 2119 | Buffer: 2759951 | Time: 13.38s
+Episode  1218 | Score:  19.0 | Epsilon: 0.020 | Steps: 2134 | Buffer: 2762085 | Time: 13.57s
+Episode  1219 | Score:  17.0 | Epsilon: 0.020 | Steps: 1939 | Buffer: 2764024 | Time: 12.29s
+Episode  1220 | Score:  16.0 | Epsilon: 0.020 | Steps: 2051 | Buffer: 2766075 | Time: 13.10s
+Episode  1221 | Score:  11.0 | Epsilon: 0.020 | Steps: 2513 | Buffer: 2768588 | Time: 16.00s
+Episode  1222 | Score:  20.0 | Epsilon: 0.020 | Steps: 1770 | Buffer: 2770358 | Time: 11.15s
+Episode  1223 | Score:  12.0 | Epsilon: 0.020 | Steps: 2347 | Buffer: 2772705 | Time: 14.92s
+Episode  1224 | Score:  17.0 | Epsilon: 0.020 | Steps: 2018 | Buffer: 2774723 | Time: 12.84s
+Episode  1225 | Score:  14.0 | Epsilon: 0.020 | Steps: 2176 | Buffer: 2776899 | Time: 13.92s
+Episode  1226 | Score:  15.0 | Epsilon: 0.020 | Steps: 2698 | Buffer: 2779597 | Time: 17.18s
+Episode  1227 | Score:  12.0 | Epsilon: 0.020 | Steps: 2694 | Buffer: 2782291 | Time: 17.24s
+Episode  1228 | Score:  16.0 | Epsilon: 0.020 | Steps: 2235 | Buffer: 2784526 | Time: 14.34s
+Episode  1229 | Score:  14.0 | Epsilon: 0.020 | Steps: 2597 | Buffer: 2787123 | Time: 16.45s
+Episode  1230 | Score:  11.0 | Epsilon: 0.020 | Steps: 3010 | Buffer: 2790133 | Time: 19.08s
+Episode  1231 | Score:  19.0 | Epsilon: 0.020 | Steps: 1839 | Buffer: 2791972 | Time: 11.69s
+Episode  1232 | Score:  10.0 | Epsilon: 0.020 | Steps: 2683 | Buffer: 2794655 | Time: 16.99s
+Episode  1233 | Score:  12.0 | Epsilon: 0.020 | Steps: 2760 | Buffer: 2797415 | Time: 17.63s
+Episode  1234 | Score:  18.0 | Epsilon: 0.020 | Steps: 1958 | Buffer: 2799373 | Time: 12.42s
+Episode  1235 | Score:  11.0 | Epsilon: 0.020 | Steps: 2774 | Buffer: 2802147 | Time: 17.61s
+Episode  1236 | Score:  19.0 | Epsilon: 0.020 | Steps: 1775 | Buffer: 2803922 | Time: 11.35s
+Episode  1237 | Score:  14.0 | Epsilon: 0.020 | Steps: 2183 | Buffer: 2806105 | Time: 13.88s
+Episode  1238 | Score:  15.0 | Epsilon: 0.020 | Steps: 2275 | Buffer: 2808380 | Time: 14.44s
+Episode  1239 | Score:  10.0 | Epsilon: 0.020 | Steps: 2894 | Buffer: 2811274 | Time: 18.26s
+Episode  1240 | Score:   4.0 | Epsilon: 0.020 | Steps: 3198 | Buffer: 2814472 | Time: 20.33s
+Episode  1241 | Score:  19.0 | Epsilon: 0.020 | Steps: 1899 | Buffer: 2816371 | Time: 12.06s
+Episode  1242 | Score:  15.0 | Epsilon: 0.020 | Steps: 2426 | Buffer: 2818797 | Time: 15.36s
+Episode  1243 | Score:  19.0 | Epsilon: 0.020 | Steps: 1989 | Buffer: 2820786 | Time: 12.65s
+Episode  1244 | Score:  20.0 | Epsilon: 0.020 | Steps: 2029 | Buffer: 2822815 | Time: 12.85s
+Episode  1245 | Score:  18.0 | Epsilon: 0.020 | Steps: 2013 | Buffer: 2824828 | Time: 12.79s
+Episode  1246 | Score:  18.0 | Epsilon: 0.020 | Steps: 1925 | Buffer: 2826753 | Time: 12.23s
+Episode  1247 | Score:  21.0 | Epsilon: 0.020 | Steps: 1659 | Buffer: 2828412 | Time: 10.55s
+Episode  1248 | Score:  19.0 | Epsilon: 0.020 | Steps: 1801 | Buffer: 2830213 | Time: 11.40s
+Episode  1249 | Score:  17.0 | Epsilon: 0.020 | Steps: 2216 | Buffer: 2832429 | Time: 14.07s
+Episode  1250 | Score:  15.0 | Epsilon: 0.020 | Steps: 2149 | Buffer: 2834578 | Time: 13.73s
+Episode  1251 | Score:  16.0 | Epsilon: 0.020 | Steps: 2230 | Buffer: 2836808 | Time: 14.17s
+Episode  1252 | Score:  17.0 | Epsilon: 0.020 | Steps: 2135 | Buffer: 2838943 | Time: 13.46s
+Episode  1253 | Score:  15.0 | Epsilon: 0.020 | Steps: 2491 | Buffer: 2841434 | Time: 15.85s
+Episode  1254 | Score:  18.0 | Epsilon: 0.020 | Steps: 1867 | Buffer: 2843301 | Time: 11.87s
+Episode  1255 | Score:  12.0 | Epsilon: 0.020 | Steps: 2270 | Buffer: 2845571 | Time: 14.39s
+Episode  1256 | Score:  16.0 | Epsilon: 0.020 | Steps: 2031 | Buffer: 2847602 | Time: 12.95s
+Episode  1257 | Score:  11.0 | Epsilon: 0.020 | Steps: 2606 | Buffer: 2850208 | Time: 16.48s
+Episode  1258 | Score:  15.0 | Epsilon: 0.020 | Steps: 2419 | Buffer: 2852627 | Time: 15.30s
+Episode  1259 | Score:  20.0 | Epsilon: 0.020 | Steps: 1988 | Buffer: 2854615 | Time: 12.54s
+Episode  1260 | Score:  16.0 | Epsilon: 0.020 | Steps: 2236 | Buffer: 2856851 | Time: 14.16s
+Episode  1261 | Score:  10.0 | Epsilon: 0.020 | Steps: 2834 | Buffer: 2859685 | Time: 18.01s
+Episode  1262 | Score:  17.0 | Epsilon: 0.020 | Steps: 2274 | Buffer: 2861959 | Time: 14.42s
+Episode  1263 | Score:  11.0 | Epsilon: 0.020 | Steps: 2575 | Buffer: 2864534 | Time: 16.30s
+Episode  1264 | Score:  14.0 | Epsilon: 0.020 | Steps: 2531 | Buffer: 2867065 | Time: 16.04s
+Episode  1265 | Score:  11.0 | Epsilon: 0.020 | Steps: 2562 | Buffer: 2869627 | Time: 16.13s
+Episode  1266 | Score:  20.0 | Epsilon: 0.020 | Steps: 1930 | Buffer: 2871557 | Time: 12.22s
+Episode  1267 | Score:  11.0 | Epsilon: 0.020 | Steps: 2636 | Buffer: 2874193 | Time: 16.81s
+Episode  1268 | Score:  19.0 | Epsilon: 0.020 | Steps: 1816 | Buffer: 2876009 | Time: 11.48s
+Episode  1269 | Score:  19.0 | Epsilon: 0.020 | Steps: 1853 | Buffer: 2877862 | Time: 11.73s
+Episode  1270 | Score:  13.0 | Epsilon: 0.020 | Steps: 2479 | Buffer: 2880341 | Time: 15.73s
+Episode  1271 | Score:  12.0 | Epsilon: 0.020 | Steps: 2686 | Buffer: 2883027 | Time: 17.06s
+Episode  1272 | Score:  16.0 | Epsilon: 0.020 | Steps: 2219 | Buffer: 2885246 | Time: 14.02s
+Episode  1273 | Score:  18.0 | Epsilon: 0.020 | Steps: 2054 | Buffer: 2887300 | Time: 13.04s
+Episode  1274 | Score:  17.0 | Epsilon: 0.020 | Steps: 2153 | Buffer: 2889453 | Time: 13.64s
+Episode  1275 | Score:  19.0 | Epsilon: 0.020 | Steps: 1763 | Buffer: 2891216 | Time: 11.11s
+Episode  1276 | Score:  17.0 | Epsilon: 0.020 | Steps: 2119 | Buffer: 2893335 | Time: 13.35s
+Episode  1277 | Score:  10.0 | Epsilon: 0.020 | Steps: 2802 | Buffer: 2896137 | Time: 17.66s
+Episode  1278 | Score:  17.0 | Epsilon: 0.020 | Steps: 2068 | Buffer: 2898205 | Time: 13.26s
+Episode  1279 | Score:  13.0 | Epsilon: 0.020 | Steps: 2789 | Buffer: 2900994 | Time: 17.72s
+Episode  1280 | Score:  11.0 | Epsilon: 0.020 | Steps: 2577 | Buffer: 2903571 | Time: 16.36s
+Episode  1281 | Score:   8.0 | Epsilon: 0.020 | Steps: 2681 | Buffer: 2906252 | Time: 16.93s
+Episode  1282 | Score:  11.0 | Epsilon: 0.020 | Steps: 2980 | Buffer: 2909232 | Time: 18.86s
+Episode  1283 | Score:  15.0 | Epsilon: 0.020 | Steps: 2496 | Buffer: 2911728 | Time: 15.88s
+Episode  1284 | Score:  18.0 | Epsilon: 0.020 | Steps: 2086 | Buffer: 2913814 | Time: 13.21s
+Episode  1285 | Score:   8.0 | Epsilon: 0.020 | Steps: 2937 | Buffer: 2916751 | Time: 18.64s
+Episode  1286 | Score:  13.0 | Epsilon: 0.020 | Steps: 2730 | Buffer: 2919481 | Time: 17.24s
+Episode  1287 | Score:  12.0 | Epsilon: 0.020 | Steps: 2432 | Buffer: 2921913 | Time: 15.51s
+Episode  1288 | Score:  19.0 | Epsilon: 0.020 | Steps: 1912 | Buffer: 2923825 | Time: 12.02s
+Episode  1289 | Score:  12.0 | Epsilon: 0.020 | Steps: 2312 | Buffer: 2926137 | Time: 14.69s
+Episode  1290 | Score:  21.0 | Epsilon: 0.020 | Steps: 1789 | Buffer: 2927926 | Time: 11.28s
+Episode  1291 | Score:  14.0 | Epsilon: 0.020 | Steps: 2254 | Buffer: 2930180 | Time: 14.19s
+Episode  1292 | Score:  18.0 | Epsilon: 0.020 | Steps: 2109 | Buffer: 2932289 | Time: 13.34s
+Episode  1293 | Score:   8.0 | Epsilon: 0.020 | Steps: 3059 | Buffer: 2935348 | Time: 19.27s
+Episode  1294 | Score:  19.0 | Epsilon: 0.020 | Steps: 1945 | Buffer: 2937293 | Time: 12.35s
+Episode  1295 | Score:  15.0 | Epsilon: 0.020 | Steps: 2365 | Buffer: 2939658 | Time: 14.90s
+Episode  1296 | Score:  19.0 | Epsilon: 0.020 | Steps: 1914 | Buffer: 2941572 | Time: 12.10s
+Episode  1297 | Score:  20.0 | Epsilon: 0.020 | Steps: 1783 | Buffer: 2943355 | Time: 11.26s
+Episode  1298 | Score:  20.0 | Epsilon: 0.020 | Steps: 1753 | Buffer: 2945108 | Time: 11.18s
+Episode  1299 | Score:  13.0 | Epsilon: 0.020 | Steps: 2649 | Buffer: 2947757 | Time: 16.77s
+--> สำรอง Checkpoint ที่ Episode 1300 เรียบร้อย
+Episode  1300 | Score:  13.0 | Epsilon: 0.020 | Steps: 2493 | Buffer: 2950250 | Time: 15.86s
+Episode  1301 | Score:  16.0 | Epsilon: 0.020 | Steps: 2226 | Buffer: 2952476 | Time: 14.19s
+Episode  1302 | Score:  20.0 | Epsilon: 0.020 | Steps: 1744 | Buffer: 2954220 | Time: 11.05s
+Episode  1303 | Score:  10.0 | Epsilon: 0.020 | Steps: 2692 | Buffer: 2956912 | Time: 17.12s
+Episode  1304 | Score:  16.0 | Epsilon: 0.020 | Steps: 2111 | Buffer: 2959023 | Time: 13.51s
+Episode  1305 | Score:  18.0 | Epsilon: 0.020 | Steps: 1972 | Buffer: 2960995 | Time: 12.40s
+Episode  1306 | Score:  17.0 | Epsilon: 0.020 | Steps: 2192 | Buffer: 2963187 | Time: 13.96s
+Episode  1307 | Score:  19.0 | Epsilon: 0.020 | Steps: 1910 | Buffer: 2965097 | Time: 12.12s
+Episode  1308 | Score:   8.0 | Epsilon: 0.020 | Steps: 2719 | Buffer: 2967816 | Time: 17.16s
+Episode  1309 | Score:  12.0 | Epsilon: 0.020 | Steps: 2641 | Buffer: 2970457 | Time: 16.65s
+Episode  1310 | Score:   4.0 | Epsilon: 0.020 | Steps: 3080 | Buffer: 2973537 | Time: 19.57s
+Episode  1311 | Score:  16.0 | Epsilon: 0.020 | Steps: 2045 | Buffer: 2975582 | Time: 13.00s
+Episode  1312 | Score:  17.0 | Epsilon: 0.020 | Steps: 2067 | Buffer: 2977649 | Time: 13.17s
+Episode  1313 | Score:  16.0 | Epsilon: 0.020 | Steps: 2114 | Buffer: 2979763 | Time: 13.50s
+Episode  1314 | Score:  13.0 | Epsilon: 0.020 | Steps: 2623 | Buffer: 2982386 | Time: 16.61s
+Episode  1315 | Score:  20.0 | Epsilon: 0.020 | Steps: 1799 | Buffer: 2984185 | Time: 11.34s
+Episode  1316 | Score:  12.0 | Epsilon: 0.020 | Steps: 2456 | Buffer: 2986641 | Time: 15.66s
+Episode  1317 | Score:  12.0 | Epsilon: 0.020 | Steps: 2390 | Buffer: 2989031 | Time: 15.21s
+Episode  1318 | Score:  13.0 | Epsilon: 0.020 | Steps: 2302 | Buffer: 2991333 | Time: 14.50s
+Episode  1319 | Score:  15.0 | Epsilon: 0.020 | Steps: 2187 | Buffer: 2993520 | Time: 13.92s
+Episode  1320 | Score:  14.0 | Epsilon: 0.020 | Steps: 2371 | Buffer: 2995891 | Time: 15.04s
+Episode  1321 | Score:  13.0 | Epsilon: 0.020 | Steps: 2349 | Buffer: 2998240 | Time: 14.77s
+Episode  1322 | Score:  16.0 | Epsilon: 0.020 | Steps: 2439 | Buffer: 3000679 | Time: 15.47s
+Episode  1323 | Score:  17.0 | Epsilon: 0.020 | Steps: 2003 | Buffer: 3002682 | Time: 12.67s
+Episode  1324 | Score:   9.0 | Epsilon: 0.020 | Steps: 2706 | Buffer: 3005388 | Time: 17.19s
+Episode  1325 | Score:  18.0 | Epsilon: 0.020 | Steps: 2118 | Buffer: 3007506 | Time: 13.39s
+Episode  1326 | Score:  17.0 | Epsilon: 0.020 | Steps: 2277 | Buffer: 3009783 | Time: 14.34s
+Episode  1327 | Score:  17.0 | Epsilon: 0.020 | Steps: 2398 | Buffer: 3012181 | Time: 15.29s
+Episode  1328 | Score:   9.0 | Epsilon: 0.020 | Steps: 2958 | Buffer: 3015139 | Time: 18.74s
+Episode  1329 | Score:  11.0 | Epsilon: 0.020 | Steps: 2475 | Buffer: 3017614 | Time: 15.68s
+Episode  1330 | Score:  18.0 | Epsilon: 0.020 | Steps: 2058 | Buffer: 3019672 | Time: 13.09s
+Episode  1331 | Score:  12.0 | Epsilon: 0.020 | Steps: 2568 | Buffer: 3022240 | Time: 16.36s
+Episode  1332 | Score:  19.0 | Epsilon: 0.020 | Steps: 1908 | Buffer: 3024148 | Time: 12.05s
+Episode  1333 | Score:  14.0 | Epsilon: 0.020 | Steps: 2247 | Buffer: 3026395 | Time: 14.27s
+Episode  1334 | Score:  16.0 | Epsilon: 0.020 | Steps: 2063 | Buffer: 3028458 | Time: 13.03s
+Episode  1335 | Score:  19.0 | Epsilon: 0.020 | Steps: 2010 | Buffer: 3030468 | Time: 12.81s
+Episode  1336 | Score:  17.0 | Epsilon: 0.020 | Steps: 1859 | Buffer: 3032327 | Time: 11.77s
+Episode  1337 | Score:  16.0 | Epsilon: 0.020 | Steps: 2219 | Buffer: 3034546 | Time: 14.16s
+Episode  1338 | Score:  15.0 | Epsilon: 0.020 | Steps: 2266 | Buffer: 3036812 | Time: 14.42s
+Episode  1339 | Score:  13.0 | Epsilon: 0.020 | Steps: 2409 | Buffer: 3039221 | Time: 15.41s
+Episode  1340 | Score:  11.0 | Epsilon: 0.020 | Steps: 2458 | Buffer: 3041679 | Time: 15.65s
+Episode  1341 | Score:  19.0 | Epsilon: 0.020 | Steps: 1916 | Buffer: 3043595 | Time: 12.26s
+Episode  1342 | Score:  15.0 | Epsilon: 0.020 | Steps: 2481 | Buffer: 3046076 | Time: 15.74s
+Episode  1343 | Score:  18.0 | Epsilon: 0.020 | Steps: 2016 | Buffer: 3048092 | Time: 12.79s
+Episode  1344 | Score:  17.0 | Epsilon: 0.020 | Steps: 2260 | Buffer: 3050352 | Time: 14.30s
+Episode  1345 | Score:   8.0 | Epsilon: 0.020 | Steps: 2887 | Buffer: 3053239 | Time: 18.30s
+Episode  1346 | Score:  14.0 | Epsilon: 0.020 | Steps: 2533 | Buffer: 3055772 | Time: 16.00s
+Episode  1347 | Score:  15.0 | Epsilon: 0.020 | Steps: 2641 | Buffer: 3058413 | Time: 16.72s
+Episode  1348 | Score:  19.0 | Epsilon: 0.020 | Steps: 1857 | Buffer: 3060270 | Time: 11.74s
+Episode  1349 | Score:  10.0 | Epsilon: 0.020 | Steps: 2603 | Buffer: 3062873 | Time: 16.52s
+Episode  1350 | Score:  14.0 | Epsilon: 0.020 | Steps: 2633 | Buffer: 3065506 | Time: 16.75s
+Episode  1351 | Score:   6.0 | Epsilon: 0.020 | Steps: 2664 | Buffer: 3068170 | Time: 16.89s
+Episode  1352 | Score:  16.0 | Epsilon: 0.020 | Steps: 2461 | Buffer: 3070631 | Time: 15.61s
+Episode  1353 | Score:  18.0 | Epsilon: 0.020 | Steps: 1869 | Buffer: 3072500 | Time: 11.83s
+Episode  1354 | Score:  13.0 | Epsilon: 0.020 | Steps: 2269 | Buffer: 3074769 | Time: 14.39s
+Episode  1355 | Score:  17.0 | Epsilon: 0.020 | Steps: 2132 | Buffer: 3076901 | Time: 13.53s
+Episode  1356 | Score:  13.0 | Epsilon: 0.020 | Steps: 2491 | Buffer: 3079392 | Time: 15.72s
+Episode  1357 | Score:  15.0 | Epsilon: 0.020 | Steps: 2224 | Buffer: 3081616 | Time: 14.13s
+Episode  1358 | Score:  13.0 | Epsilon: 0.020 | Steps: 2513 | Buffer: 3084129 | Time: 15.90s
+Episode  1359 | Score:  14.0 | Epsilon: 0.020 | Steps: 2245 | Buffer: 3086374 | Time: 14.25s
+Episode  1360 | Score:  15.0 | Epsilon: 0.020 | Steps: 2354 | Buffer: 3088728 | Time: 14.94s
+Episode  1361 | Score:  18.0 | Epsilon: 0.020 | Steps: 2201 | Buffer: 3090929 | Time: 13.96s
+Episode  1362 | Score:  18.0 | Epsilon: 0.020 | Steps: 1969 | Buffer: 3092898 | Time: 12.53s
+Episode  1363 | Score:  10.0 | Epsilon: 0.020 | Steps: 2844 | Buffer: 3095742 | Time: 18.01s
+Episode  1364 | Score:  14.0 | Epsilon: 0.020 | Steps: 2501 | Buffer: 3098243 | Time: 15.89s
+Episode  1365 | Score:  19.0 | Epsilon: 0.020 | Steps: 1948 | Buffer: 3100191 | Time: 12.30s
+Episode  1366 | Score:  17.0 | Epsilon: 0.020 | Steps: 2238 | Buffer: 3102429 | Time: 14.20s
+Episode  1367 | Score:  15.0 | Epsilon: 0.020 | Steps: 2417 | Buffer: 3104846 | Time: 15.31s
+Episode  1368 | Score:  15.0 | Epsilon: 0.020 | Steps: 2096 | Buffer: 3106942 | Time: 13.35s
+Episode  1369 | Score:  16.0 | Epsilon: 0.020 | Steps: 2447 | Buffer: 3109389 | Time: 15.58s
+Episode  1370 | Score:  17.0 | Epsilon: 0.020 | Steps: 2273 | Buffer: 3111662 | Time: 14.54s
+Episode  1371 | Score:  16.0 | Epsilon: 0.020 | Steps: 2354 | Buffer: 3114016 | Time: 14.86s
+Episode  1372 | Score:  17.0 | Epsilon: 0.020 | Steps: 2016 | Buffer: 3116032 | Time: 12.81s
+Episode  1373 | Score:   9.0 | Epsilon: 0.020 | Steps: 2861 | Buffer: 3118893 | Time: 18.09s
+Episode  1374 | Score:  12.0 | Epsilon: 0.020 | Steps: 2447 | Buffer: 3121340 | Time: 15.44s
+Episode  1375 | Score:  15.0 | Epsilon: 0.020 | Steps: 2694 | Buffer: 3124034 | Time: 17.23s
+Episode  1376 | Score:  14.0 | Epsilon: 0.020 | Steps: 2324 | Buffer: 3126358 | Time: 14.64s
+Episode  1377 | Score:  17.0 | Epsilon: 0.020 | Steps: 2112 | Buffer: 3128470 | Time: 13.32s
+Episode  1378 | Score:  18.0 | Epsilon: 0.020 | Steps: 1874 | Buffer: 3130344 | Time: 11.82s
+Episode  1379 | Score:  17.0 | Epsilon: 0.020 | Steps: 2193 | Buffer: 3132537 | Time: 13.95s
+Episode  1380 | Score:  16.0 | Epsilon: 0.020 | Steps: 2145 | Buffer: 3134682 | Time: 13.63s
+Episode  1381 | Score:  17.0 | Epsilon: 0.020 | Steps: 2073 | Buffer: 3136755 | Time: 13.10s
+Episode  1382 | Score:  14.0 | Epsilon: 0.020 | Steps: 2380 | Buffer: 3139135 | Time: 15.10s
+Episode  1383 | Score:   8.0 | Epsilon: 0.020 | Steps: 2981 | Buffer: 3142116 | Time: 19.05s
+Episode  1384 | Score:  14.0 | Epsilon: 0.020 | Steps: 2094 | Buffer: 3144210 | Time: 13.26s
+Episode  1385 | Score:  18.0 | Epsilon: 0.020 | Steps: 2057 | Buffer: 3146267 | Time: 13.07s
+Episode  1386 | Score:  16.0 | Epsilon: 0.020 | Steps: 2317 | Buffer: 3148584 | Time: 14.69s
+Episode  1387 | Score:  16.0 | Epsilon: 0.020 | Steps: 2219 | Buffer: 3150803 | Time: 13.99s
+Episode  1388 | Score:  17.0 | Epsilon: 0.020 | Steps: 2070 | Buffer: 3152873 | Time: 13.17s
+Episode  1389 | Score:  19.0 | Epsilon: 0.020 | Steps: 2025 | Buffer: 3154898 | Time: 12.93s
+Episode  1390 | Score:   6.0 | Epsilon: 0.020 | Steps: 3195 | Buffer: 3158093 | Time: 20.36s
+Episode  1391 | Score:  15.0 | Epsilon: 0.020 | Steps: 2516 | Buffer: 3160609 | Time: 15.94s
+Episode  1392 | Score:  14.0 | Epsilon: 0.020 | Steps: 2590 | Buffer: 3163199 | Time: 16.42s
+Episode  1393 | Score:  17.0 | Epsilon: 0.020 | Steps: 2147 | Buffer: 3165346 | Time: 13.63s
+Episode  1394 | Score:  16.0 | Epsilon: 0.020 | Steps: 2440 | Buffer: 3167786 | Time: 15.46s
+Episode  1395 | Score:  14.0 | Epsilon: 0.020 | Steps: 2318 | Buffer: 3170104 | Time: 14.67s
+Episode  1396 | Score:  14.0 | Epsilon: 0.020 | Steps: 2241 | Buffer: 3172345 | Time: 14.19s
+Episode  1397 | Score:  20.0 | Epsilon: 0.020 | Steps: 1876 | Buffer: 3174221 | Time: 11.92s
+Episode  1398 | Score:  17.0 | Epsilon: 0.020 | Steps: 2193 | Buffer: 3176414 | Time: 13.96s
+Episode  1399 | Score:  16.0 | Epsilon: 0.020 | Steps: 2031 | Buffer: 3178445 | Time: 12.82s
+--> สำรอง Checkpoint ที่ Episode 1400 เรียบร้อย
+Episode  1400 | Score:  16.0 | Epsilon: 0.020 | Steps: 2457 | Buffer: 3180902 | Time: 15.63s
+Episode  1401 | Score:  17.0 | Epsilon: 0.020 | Steps: 2134 | Buffer: 3183036 | Time: 13.60s
+Episode  1402 | Score:  12.0 | Epsilon: 0.020 | Steps: 2614 | Buffer: 3185650 | Time: 16.56s
+Episode  1403 | Score:  13.0 | Epsilon: 0.020 | Steps: 2588 | Buffer: 3188238 | Time: 16.42s
+Episode  1404 | Score:  18.0 | Epsilon: 0.020 | Steps: 1989 | Buffer: 3190227 | Time: 12.60s
+Episode  1405 | Score:  20.0 | Epsilon: 0.020 | Steps: 2011 | Buffer: 3192238 | Time: 12.76s
+Episode  1406 | Score:  12.0 | Epsilon: 0.020 | Steps: 2672 | Buffer: 3194910 | Time: 16.95s
+Episode  1407 | Score:  17.0 | Epsilon: 0.020 | Steps: 2032 | Buffer: 3196942 | Time: 12.91s
+Episode  1408 | Score:  13.0 | Epsilon: 0.020 | Steps: 2260 | Buffer: 3199202 | Time: 14.27s
+Episode  1409 | Score:  10.0 | Epsilon: 0.020 | Steps: 2711 | Buffer: 3201913 | Time: 17.09s
+Episode  1410 | Score:  20.0 | Epsilon: 0.020 | Steps: 1894 | Buffer: 3203807 | Time: 12.09s
+Episode  1411 | Score:  19.0 | Epsilon: 0.020 | Steps: 1884 | Buffer: 3205691 | Time: 11.95s
+Episode  1412 | Score:  18.0 | Epsilon: 0.020 | Steps: 1893 | Buffer: 3207584 | Time: 12.01s
+Episode  1413 | Score:  14.0 | Epsilon: 0.020 | Steps: 2369 | Buffer: 3209953 | Time: 15.04s
+Episode  1414 | Score:  19.0 | Epsilon: 0.020 | Steps: 1942 | Buffer: 3211895 | Time: 12.31s
+Episode  1415 | Score:  18.0 | Epsilon: 0.020 | Steps: 1949 | Buffer: 3213844 | Time: 12.38s
+Episode  1416 | Score:  13.0 | Epsilon: 0.020 | Steps: 2525 | Buffer: 3216369 | Time: 15.96s
+Episode  1417 | Score:  18.0 | Epsilon: 0.020 | Steps: 2010 | Buffer: 3218379 | Time: 12.70s
+Episode  1418 | Score:  10.0 | Epsilon: 0.020 | Steps: 2565 | Buffer: 3220944 | Time: 16.27s
+Episode  1419 | Score:  14.0 | Epsilon: 0.020 | Steps: 2423 | Buffer: 3223367 | Time: 15.27s
+Episode  1420 | Score:  20.0 | Epsilon: 0.020 | Steps: 1910 | Buffer: 3225277 | Time: 12.10s
+Episode  1421 | Score:  14.0 | Epsilon: 0.020 | Steps: 2426 | Buffer: 3227703 | Time: 15.45s
+Episode  1422 | Score:  11.0 | Epsilon: 0.020 | Steps: 2701 | Buffer: 3230404 | Time: 17.03s
+Episode  1423 | Score:  18.0 | Epsilon: 0.020 | Steps: 2219 | Buffer: 3232623 | Time: 14.20s
+Episode  1424 | Score:  17.0 | Epsilon: 0.020 | Steps: 2223 | Buffer: 3234846 | Time: 13.97s
+Episode  1425 | Score:  17.0 | Epsilon: 0.020 | Steps: 2157 | Buffer: 3237003 | Time: 13.65s
+Episode  1426 | Score:  15.0 | Epsilon: 0.020 | Steps: 2506 | Buffer: 3239509 | Time: 15.99s
+Episode  1427 | Score:  17.0 | Epsilon: 0.020 | Steps: 2355 | Buffer: 3241864 | Time: 14.95s
+Episode  1428 | Score:  15.0 | Epsilon: 0.020 | Steps: 2856 | Buffer: 3244720 | Time: 18.12s
+Episode  1429 | Score:  19.0 | Epsilon: 0.020 | Steps: 1865 | Buffer: 3246585 | Time: 11.76s
+Episode  1430 | Score:  21.0 | Epsilon: 0.020 | Steps: 1694 | Buffer: 3248279 | Time: 10.79s
+Episode  1431 | Score:  17.0 | Epsilon: 0.020 | Steps: 2187 | Buffer: 3250466 | Time: 14.01s
+Episode  1432 | Score:  17.0 | Epsilon: 0.020 | Steps: 2044 | Buffer: 3252510 | Time: 13.05s
+Episode  1433 | Score:  16.0 | Epsilon: 0.020 | Steps: 2206 | Buffer: 3254716 | Time: 14.07s
+Episode  1434 | Score:  14.0 | Epsilon: 0.020 | Steps: 2207 | Buffer: 3256923 | Time: 13.99s
+Episode  1435 | Score:  16.0 | Epsilon: 0.020 | Steps: 2308 | Buffer: 3259231 | Time: 14.74s
+Episode  1436 | Score:  15.0 | Epsilon: 0.020 | Steps: 2232 | Buffer: 3261463 | Time: 14.17s
+Episode  1437 | Score:  14.0 | Epsilon: 0.020 | Steps: 2507 | Buffer: 3263970 | Time: 15.87s
+Episode  1438 | Score:  12.0 | Epsilon: 0.020 | Steps: 2465 | Buffer: 3266435 | Time: 15.58s
+Episode  1439 | Score:  18.0 | Epsilon: 0.020 | Steps: 1948 | Buffer: 3268383 | Time: 12.30s
+Episode  1440 | Score:  10.0 | Epsilon: 0.020 | Steps: 2369 | Buffer: 3270752 | Time: 15.07s
+Episode  1441 | Score:  10.0 | Epsilon: 0.020 | Steps: 2512 | Buffer: 3273264 | Time: 15.81s
+Episode  1442 | Score:  14.0 | Epsilon: 0.020 | Steps: 2399 | Buffer: 3275663 | Time: 15.14s
+Episode  1443 | Score:  13.0 | Epsilon: 0.020 | Steps: 2352 | Buffer: 3278015 | Time: 14.89s
+Episode  1444 | Score:  17.0 | Epsilon: 0.020 | Steps: 1979 | Buffer: 3279994 | Time: 12.64s
+Episode  1445 | Score:   9.0 | Epsilon: 0.020 | Steps: 2735 | Buffer: 3282729 | Time: 17.30s
+Episode  1446 | Score:  17.0 | Epsilon: 0.020 | Steps: 2049 | Buffer: 3284778 | Time: 12.96s
+Episode  1447 | Score:  16.0 | Epsilon: 0.020 | Steps: 2171 | Buffer: 3286949 | Time: 13.79s
+Episode  1448 | Score:   8.0 | Epsilon: 0.020 | Steps: 2659 | Buffer: 3289608 | Time: 16.91s
+Episode  1449 | Score:  11.0 | Epsilon: 0.020 | Steps: 2460 | Buffer: 3292068 | Time: 15.59s
+Episode  1450 | Score:  16.0 | Epsilon: 0.020 | Steps: 2219 | Buffer: 3294287 | Time: 14.08s
+Episode  1451 | Score:  18.0 | Epsilon: 0.020 | Steps: 1946 | Buffer: 3296233 | Time: 12.27s
+Episode  1452 | Score:  19.0 | Epsilon: 0.020 | Steps: 1813 | Buffer: 3298046 | Time: 11.54s
+Episode  1453 | Score:  12.0 | Epsilon: 0.020 | Steps: 2809 | Buffer: 3300855 | Time: 17.82s
+Episode  1454 | Score:  20.0 | Epsilon: 0.020 | Steps: 1939 | Buffer: 3302794 | Time: 12.31s
+Episode  1455 | Score:  17.0 | Epsilon: 0.020 | Steps: 2308 | Buffer: 3305102 | Time: 14.59s
+Episode  1456 | Score:  18.0 | Epsilon: 0.020 | Steps: 2138 | Buffer: 3307240 | Time: 13.53s
+Episode  1457 | Score:  12.0 | Epsilon: 0.020 | Steps: 2547 | Buffer: 3309787 | Time: 16.17s
+Episode  1458 | Score:  12.0 | Epsilon: 0.020 | Steps: 2438 | Buffer: 3312225 | Time: 15.41s
+Episode  1459 | Score:  19.0 | Epsilon: 0.020 | Steps: 1808 | Buffer: 3314033 | Time: 11.36s
+Episode  1460 | Score:  14.0 | Epsilon: 0.020 | Steps: 2546 | Buffer: 3316579 | Time: 16.15s
+Episode  1461 | Score:  18.0 | Epsilon: 0.020 | Steps: 2051 | Buffer: 3318630 | Time: 13.09s
+Episode  1462 | Score:  17.0 | Epsilon: 0.020 | Steps: 2342 | Buffer: 3320972 | Time: 14.77s
+Episode  1463 | Score:  14.0 | Epsilon: 0.020 | Steps: 2484 | Buffer: 3323456 | Time: 15.77s
+Episode  1464 | Score:  14.0 | Epsilon: 0.020 | Steps: 2351 | Buffer: 3325807 | Time: 14.82s
+Episode  1465 | Score:  15.0 | Epsilon: 0.020 | Steps: 2222 | Buffer: 3328029 | Time: 14.04s
+Episode  1466 | Score:  12.0 | Epsilon: 0.020 | Steps: 2333 | Buffer: 3330362 | Time: 14.70s
+Episode  1467 | Score:  12.0 | Epsilon: 0.020 | Steps: 2544 | Buffer: 3332906 | Time: 16.04s
+Episode  1468 | Score:  17.0 | Epsilon: 0.020 | Steps: 2230 | Buffer: 3335136 | Time: 14.05s
+Episode  1469 | Score:  11.0 | Epsilon: 0.020 | Steps: 2722 | Buffer: 3337858 | Time: 17.38s
+Episode  1470 | Score:  11.0 | Epsilon: 0.020 | Steps: 2537 | Buffer: 3340395 | Time: 16.06s
+Episode  1471 | Score:  16.0 | Epsilon: 0.020 | Steps: 2055 | Buffer: 3342450 | Time: 12.95s
+Episode  1472 | Score:  16.0 | Epsilon: 0.020 | Steps: 2278 | Buffer: 3344728 | Time: 14.43s
+Episode  1473 | Score:  12.0 | Epsilon: 0.020 | Steps: 2254 | Buffer: 3346982 | Time: 14.41s
+Episode  1474 | Score:  18.0 | Epsilon: 0.020 | Steps: 1885 | Buffer: 3348867 | Time: 11.91s
+Episode  1475 | Score:  10.0 | Epsilon: 0.020 | Steps: 2603 | Buffer: 3351470 | Time: 16.55s
+Episode  1476 | Score:  16.0 | Epsilon: 0.020 | Steps: 2378 | Buffer: 3353848 | Time: 15.12s
+Episode  1477 | Score:  12.0 | Epsilon: 0.020 | Steps: 2758 | Buffer: 3356606 | Time: 17.46s
+Episode  1478 | Score:  14.0 | Epsilon: 0.020 | Steps: 2290 | Buffer: 3358896 | Time: 14.46s
+Episode  1479 | Score:  19.0 | Epsilon: 0.020 | Steps: 1843 | Buffer: 3360739 | Time: 11.70s
+Episode  1480 | Score:  17.0 | Epsilon: 0.020 | Steps: 1994 | Buffer: 3362733 | Time: 12.64s
+Episode  1481 | Score:  18.0 | Epsilon: 0.020 | Steps: 2197 | Buffer: 3364930 | Time: 13.96s
+Episode  1482 | Score:  13.0 | Epsilon: 0.020 | Steps: 2438 | Buffer: 3367368 | Time: 15.43s
+Episode  1483 | Score:  14.0 | Epsilon: 0.020 | Steps: 2359 | Buffer: 3369727 | Time: 14.88s
+Episode  1484 | Score:  19.0 | Epsilon: 0.020 | Steps: 1926 | Buffer: 3371653 | Time: 12.22s
+Episode  1485 | Score:  18.0 | Epsilon: 0.020 | Steps: 1974 | Buffer: 3373627 | Time: 12.53s
+Episode  1486 | Score:  17.0 | Epsilon: 0.020 | Steps: 2060 | Buffer: 3375687 | Time: 13.13s
+Episode  1487 | Score:  18.0 | Epsilon: 0.020 | Steps: 2143 | Buffer: 3377830 | Time: 13.45s
+Episode  1488 | Score:  15.0 | Epsilon: 0.020 | Steps: 2328 | Buffer: 3380158 | Time: 14.78s
+Episode  1489 | Score:  17.0 | Epsilon: 0.020 | Steps: 2031 | Buffer: 3382189 | Time: 12.92s
+Episode  1490 | Score:  15.0 | Epsilon: 0.020 | Steps: 2219 | Buffer: 3384408 | Time: 14.01s
+Episode  1491 | Score:  17.0 | Epsilon: 0.020 | Steps: 2065 | Buffer: 3386473 | Time: 13.07s
+Episode  1492 | Score:  19.0 | Epsilon: 0.020 | Steps: 1742 | Buffer: 3388215 | Time: 11.57s
+Episode  1493 | Score:  15.0 | Epsilon: 0.020 | Steps: 2221 | Buffer: 3390436 | Time: 14.21s
+Episode  1494 | Score:  18.0 | Epsilon: 0.020 | Steps: 2183 | Buffer: 3392619 | Time: 15.14s
+Episode  1495 | Score:  19.0 | Epsilon: 0.020 | Steps: 2003 | Buffer: 3394622 | Time: 13.08s
+Episode  1496 | Score:  17.0 | Epsilon: 0.020 | Steps: 2308 | Buffer: 3396930 | Time: 15.19s
+Episode  1497 | Score:  12.0 | Epsilon: 0.020 | Steps: 2370 | Buffer: 3399300 | Time: 15.10s
+Episode  1498 | Score:   9.0 | Epsilon: 0.020 | Steps: 2815 | Buffer: 3402115 | Time: 18.09s
+Episode  1499 | Score:  14.0 | Epsilon: 0.020 | Steps: 2337 | Buffer: 3404452 | Time: 14.90s
+--> สำรอง Checkpoint ที่ Episode 1500 เรียบร้อย
+Episode  1500 | Score:  10.0 | Epsilon: 0.020 | Steps: 2759 | Buffer: 3407211 | Time: 17.50s
