@@ -9,3 +9,12 @@ torch
 torchvision
 torchaudio
 #conda Python 3.11 (C:\Users\cmanw\anaconda3\shell\condabin\conda-hook.ps1) ; (conda activate pongpong)
+# To start training the upgraded agent:
+# ```bash
+# python train.py
+# ```
+
+# To test/evaluate the trained model:
+# ```bash
+# python test.py
+# ```
